@@ -1,0 +1,8295 @@
+port_code,port_name,source
+CNSZX,Shenzhen,0
+VNSGN,Ho Chi Min City (formerly Saigon),0
+DKAAB,Aabenraa,0
+SGSIN,Singapore,0
+INNSA,NHAVA SHEVA,0
+NOAHM,Aaheim m,0
+COMAM,Mamonal,0
+JPHSM,Hososhima,0
+XZANT,Ardjuna,0
+FIPRS,Jacobstad,0
+VEMTV,"Matanzas, Venezuela",0
+MYTMP,Tanjung Manis,0
+AERWP,RUWAIS,0
+AESHJ,Sharjah,0
+AEMZD,Umm Al Nar,0
+JPKUC,Kuchinotsu,0
+AEZUR,Zirku Island,0
+ARROS,"Rosario, Argentina",0
+GRKLL,Kali Limenes,0
+CMKBI,Kribi,0
+CNHUI,Huizhou,0
+USBTJ,Bethel,0
+INIXY,Kandla,0
+CUANT,Antilla,0
+VEPCZ,Puerto La Cruz,0
+NZNPL,New Plymouth,0
+FIKRS,Kristinestad,0
+ARMDQ,Mar del Plata,0
+AUWEI,Weipa,0
+AUKUR,Kurnell,0
+BRBEL,Belem,0
+BRPNG,Paranagua,0
+CLCNR,Chanaral,0
+CNLSN,Lanshan,0
+CRLIO,Puerto Limon,0
+COTCO,Tumaco,0
+ESALD,Alcudia,0
+FRMRS,Marseilles,0
+IEWAT,Waterford,0
+ILETH,Eilat,0
+GBHRW,Harwich,0
+GBHTP,Hartlepool,0
+GBRUN,Runcorn,0
+DESTL,Stralsund,0
+DKENS,Ensted,0
+INKRI,Krishnapatnam,0
+INKRW,Karwar - North Port,0
+DKHOR,Horsens,0
+MXGYM,Guaymas,0
+SLPEP,Pepel,0
+TWHUN,Hualien,0
+JPOSA,Osaka,0
+PNPCN,Pitcairn Island,0
+PRBQN,Aguadilla,0
+ERASA,Assab,0
+ERMSW,Massawa,0
+JPSHS,Shimonoseki,0
+JPSMN,Sakaiminato,0
+LVRIX,Riga,0
+LVVNT,Ventspils,0
+NOBVK,Brevik,0
+BEZEL,Zelzate,0
+FJLEV,Levuka,0
+JPYWT,Yawata,0
+KEMBA,Mombasa,0
+KPNAM,Nampo,0
+LCCAS,Castries,0
+NGLOS,"Lagos, Nigeria",0
+IDDPS,Denpasar,0
+MQFDF,Fort de France,0
+MXSCR,San Carlos,0
+NOARE,Arendal,0
+CABAY,Bayside,0
+NLRTM,Rotterdam,0
+NOHAU,Haugesund,0
+NOMON,Mongstad,0
+NOSVG,Stavanger,0
+PHZAM,Zamboanga,0
+PEPAI,Paita,0
+PGRAB,Rabaul,0
+RUPRI,Primorsk,0
+SEDOM,Domsjo,0
+SYBAN,Banias,0
+SENRK,Norrkoping,0
+THRYG,Rayong,0
+FRBOL,Boulogne-sur-Mer,0
+GBTOR,Torbay Harbour,0
+USAST,"Astoria, Oregon, U.S.A.",0
+USAVD,Avondale,0
+FIKEM,Kemi,0
+USDVT,Davant,0
+USPLQ,Plaquemine,0
+USMAR,Marrero,0
+FRTLN,Toulon,0
+USTIV,Tiverton,0
+GBFAS,Faslane,0
+PLGDY,Gdynia,0
+GBJAR,Jarrow - Shell UK Berth,0
+GBTAB,"Tarbert, (Kintyre), U.K.",0
+HNPCA,Puerto Castilla,0
+GMBJL,Banjul,0
+GQBSG,Bata - Puerto Nuevo,0
+LKHBA,Hambantota,0
+TNMBA,Menzel Bourguiba,0
+GWOXB,Bissau,0
+	TNSU,Sousse,0
+AOMAL,Malongo,0
+ARCVI,Caleta Olivia,0
+ARBDE,Escobar,0
+CAQUE,Quebec,0
+ARRGA,Rio Grande (Arg),0
+AUKOI,KOOLAN ISLAND,0
+AULST,Launceston,0
+CNJMN,Jiangmen,0
+HRSIB,Sibenik,0
+CABCO,Baie Comeau,0
+UYPDP,Punta Del Este,0
+IRBND,Bandar Abbas,0
+IRBKM,Bandar Imam Khomeini,0
+GBFOL,Folkestone,0
+IDPNK,Pontianak,0
+GBGLO,Gloucester,0
+CASNI,Sarnia,0
+GBWHV,Whitehaven,0
+INBUD,Budge Budge,0
+INCCJ,Calicut,0
+ITCAG,Cagliari,0
+TTTEM,Tembladora,0
+INHZR,Hazira,0
+JPHIS,Hikoshima,0
+CLCHB,Chacabuco,0
+KZAAU,Aktau,0
+JPABU,Aburatsu,0
+SAJUT,"Ju""aymah",0
+LYTOB,Tobruk,0
+SESSR,Skutskar,0
+ SXPH,Philipsburg,0
+MGFTU,Fort Dauphin,0
+MYLUT,Lutong,0
+NCPNY,Prony Port,0
+NLPER,Pernis,0
+PHRTB,Rio Tuba,0
+NOSTE,Steinkjer,0
+NOVAL,Valloy,0
+SEKSD,Karlstad,0
+PHHON,Hondagua,0
+VILIB,Limetree Bay,0
+PHSUA,Sual Port,0
+ROTCE,Tulcea,0
+USMQI,Quincy (Ma),0
+RUMAG,Magadan,0
+SEROR,Ronnskar,0
+SNLYN,Lyndiane,0
+USBYB,Boynton Beach,0
+BRAJU,Aracaju,0
+USNTV,Northville,0
+AUBTB,Botany Bay,0
+BRSFS,Sao Francisco do Sul,0
+CNSHG,Shanghai,0
+CMKOL,Kole,0
+BRQNS,Canoas,0
+AUPUG,Port Augusta,0
+JPHRM,Haramachi,0
+USPAU,Paulsboro,0
+VNVUT,Vung Tau,0
+ZACPT,Cape Town,0
+KRCHF,Jinhae,0
+ITGEA,Gela,0
+AUMIB,Groote Eylandt,0
+JPAMA,Amagasaki,0
+JPAXT,Akita,0
+GBLOW,Lowestoft,0
+GBMLF,Milford Haven,0
+JPHKD,Hakodate,0
+JPHKT,Hakata,0
+AUTRB,Trial Bay,0
+JPHMK,Himekawa,0
+PRPSE,Ponce,0
+RUKOR,Korsakov,0
+SEKAA,Karlskrona,0
+CNSHK,Shekou,0
+CNWEI,Wei Hai,0
+GBLEI,Leith,0
+USHNL,Honolulu,0
+GBPRU,Portbury,0
+CUMOA,Moa,0
+GBMON,"Montrose, U.K.",0
+CNXMN,Xiamen,0
+CNYIK,Yingkou,0
+CNYPG,Yangpu,0
+CNYTN,Yantian,0
+CNZHA,Zhanjiang (formerly Tsamkong),0
+CNZJG,Zhangjiagang,0
+CNZOS,Zhoushan,0
+CNZPU,Zhapu,0
+CNZUH,Zhuhai,0
+CNZZU,Zhangzhou,0
+COCTG,"Cartagena, Colombia",0
+COCVE,Covenas,0
+DKHLS,Helsingor,0
+MAEUN,Laayoune,0
+MPSPN,Saipan,0
+MYKCH,Kuching,0
+NLBOT,Botlek,0
+NOFAX,Fagerstrand,0
+VCKTN,"Kingstown, St. Vincent",0
+VEAMY,Amuay Bay,0
+VEPCN,Punta Cardon,0
+HKHKG,Hong Kong,0
+JPNAS,Naoshima,0
+JPFSK,Fushiki,0
+DOBRX,Barahona,0
+VNUIH,Qui Nhon,0
+VNVPH,Van Phong Bay,0
+ESMPG,Marin,0
+PRNRR,Roosevelt Roads,0
+ZADUR,Durban,0
+LBJIE,Jieh Port,0
+ZAELS,East London,0
+ESSVQ,Seville,0
+VNBHO,Bach Ho,0
+GNCKY,Conakry,0
+ITQOS,Oristano,0
+GBPFT,Purfleet,0
+CACOC,Contrecoeur,0
+VECBS,Cabimas,0
+VECUP,Carupano (Venezuela),0
+VIFRD,Frederiksted,0
+FRSNR,St Nazaire,0
+VECLM,Catia La Mar,0
+JMPRH,Port Rhoades,0
+JPFKY,Fukuyama,0
+JPKGA,Kakogawa,0
+NOSAD,Sandefjord,0
+JPHHE,Hachinohe,0
+LYKHO,Khoms,0
+JPKMT,Kimitsu,0
+JPKOK,Kokura,0
+JPKOM,Komatsushima,0
+INENR,Ennore,0
+ARDGU,Del Guazu,0
+JPOND,Onoda,0
+JPOTR,Otaru,0
+NOPOR,Porsgrunn,0
+JPTKY,Tokuyama,0
+JPTMK,Tomakomai,0
+JPTOY,Toyama,0
+JPTYO,Tokyo,0
+JPUBJ,Ube,0
+MGMJN,Mahajunga,0
+GBRER,Redcar,0
+IDANR,ANYER,0
+LYMRA,Misurata,0
+MGDIE,Diego Suarez,0
+MRNDB,Nouadhibou,0
+MRNKC,Nouakchott,0
+MTMAR,Marsaxlokk,0
+MUPLU,Port Louis,0
+MXCZM,Cozumel,0
+MXDBT,Dos Bocas,0
+NOBLL,Ballangen,0
+MXESE,"Ensenada, Mexico",0
+RUDKA,De Kastri,0
+IDBTN,Banten,0
+IDKAT,Kalianget,0
+KRKWA,KWANGYANG,0
+AUNTE,Northern Endeavour,0
+INNPT,Nagapattinam,0
+NOMAY,Maaloy,0
+pgmag,Madang,0
+VEELC,El Chaure,0
+VEEGU,El Guamache,0
+AUGRV,Griffin Venture,0
+AUJAB,Jabiru Venture,0
+IDMDR,Madura,0
+TWMLI,Mailiao,0
+PHMVS,Mariveles,0
+PHMAS,Masao,0
+NONYH,Nyhamna,0
+SEKAX,Kalix,0
+IDTJB,Karimun,0
+IDJBT,Jabung Batanghari Marine Terminal,0
+IDMUD,Muara Jawa,0
+IDMSK,Muara Sabak Anchorage,0
+ILHAD,Hadera,0
+LVMRX,Mersrags,0
+MXMRE,Morro Redondo,0
+VECUM,Cumana,0
+NOHRI,Hareid,0
+INGPR,Gopalpur,0
+THKAN,Kantang,0
+VEGUT,Guanta,0
+VEPBL,Puerto Cabello,0
+VUVLI,Port Vila,0
+YEHOD,Hodeidah,0
+YEMKX,Mukalla,0
+NOFAN,Farsund,0
+PEPCH,Puerto Chicama,0
+KROKK,Okkye,0
+MANNA,Kenitra,0
+MATTA,Tan Tan,0
+MAPTM,Tanger Med,0
+AEQIW,Umm Al Quwain,0
+RUSKA,Slavyanka,0
+JPNAN,Nakanoseki,0
+CNAQG,Anqing,0
+MMAKY,Akyab,0
+NOALF,Alta,0
+NOKMY,Karmoy,0
+CNWEF,Weifang,0
+NOLND,Lyngdal,0
+PHMAL,Malampaya Calm Buoy,0
+NOVAO,Vardo,0
+NZORR,Otago Harbour,0
+PAPBM,Bahia Las Minas,0
+GBASG,Ardrishaig,0
+JPSBK,Senboku,0
+IDLSW,Lhokseumawe,0
+PGROR,Oro Bay,0
+PGWWK,Wewak,0
+PHCSI,Ajuy,0
+PHCBY,Calbayog,0
+PHPUL,Pulupandan,0
+ITPRL,Priolo,0
+JPSGM,Shiogama,0
+KPHGM,Hungnam,0
+MXNAN,Nanchital,0
+PECHY,Chancay,0
+PRARE,Arecibo,0
+ROMAG,Mangalia,0
+RUDKS,Dikson Harbour,0
+RUNEV,Nevelsk,0
+THKHA,Khanom,0
+RUNIA,Nikolaevsk On Amur,0
+RUPSE,Posyet,0
+THMAT,MAP TA PHUT,0
+SEDEG,Degerhamn,0
+SEHAN,Hargshamn,0
+VNCMT,Cai Mep,0
+BDMGL,Mongla,0
+JPAOK,Aokata,0
+TRGIR,Giresun,0
+USSSI,Brunswick (Ga),0
+NZHAS,Hastings,0
+USFLL,Fort Lauderdale,0
+USKUA,Kaunakakai,0
+JPFKM,Fuku Shima,0
+JPKNA,Kawagoe,0
+USENW,Kenosha,0
+USKTN,Ketchikan,0
+COSMR,Santa Marta,0
+USYON,Yonkers,0
+COTRB,Turbo,0
+JOAQJ,Aqaba,0
+PH WN,Naga,0
+JPKOJ,Kagoshima,0
+VECMR,Cumarebo,0
+VEPCA,Punta Camacho,0
+VEGUB,Guaranao,0
+ARZAE,Zarate,0
+AUHBA,Hobart,0
+HKTOL,Tolo Harbour,0
+USBLI,Bellingham,0
+USRHD,Riverhead,0
+KRMOK,Mokpo,0
+CYLCA,Larnaca,0
+DEKEL,Kiel,0
+FIINK,Inkoo,0
+GRLVR,Aliveri Bay,0
+BGNES,Nessabar,0
+FRBIA,Bastia,0
+GRITA,Itea,0
+GRSTN,Aspra Spitia,0
+HRBAK,Bakar,0
+GRKGS,Kos,0
+AEMBS,Halat al Mubarraz,0
+CNYZH,Yangzhou,0
+CAIOC,Ioco,0
+CNZHE,Zhenjiang,0
+DZAZW,Arzew,0
+EETLL,Tallinn - Miinisadam,0
+SARTA,Ras Tanura,0
+SAYNB,Yanbu,0
+TRAMR,Ambarli,0
+COBAQ,Barranquilla,0
+COBUN,Buenaventura,0
+COPBO,"Puerto Bolivar, Colombia",0
+CRCAL,"Caldera, Costa Rica",0
+CNSDG,Shuidong,0
+CNSHP,Qinhuangdao,0
+ESALC,Alicante,0
+ESLCG,Coruna,0
+GBLDY,Londonderry,0
+GBLIV,"Liverpool, U.K.",0
+GBLON,London,0
+HROMI,Port Dina,0
+IDCXP,Cilacap,0
+USGON,New London,0
+USLCH,Lake Charles - LNG Berths,0
+IDMRK,Merak,0
+JPKNU,Kinuura,0
+IDPDG,Padang,0
+PHCGY,Cagayan de Oro,0
+PRSJU,"San Juan, Puerto Rico (U.S.A.)",0
+IDSRG,Semarang,0
+IDSUB,Surabaya,0
+INBOM,Bombay,0
+INCCU,Calcutta,0
+INMUN,Mundra,0
+INNML,New Mangalore,0
+JPCHB,Chiba,0
+KRTSN,Daesan,0
+DEHTU,Holtenau,0
+JPHIJ,Hiroshima,0
+JPKWS,Kawasaki,0
+RUVYP,Vostochnyy,0
+RUYEY,Yeysk,0
+SAGIZ,Gizan,0
+SAJUB,King Fahd Industrial Port (Jubail),0
+JPYKK,Yokkaichi - LNG,0
+NOKSU,Kristiansund N.,0
+SJBAR,Barentsburg,0
+JPUNO,Uno,0
+CAKIN,"Kingston, Ontario, Canada",0
+CAKTM,Kitimat,0
+JPWAM,Wakamatsu,0
+JPYOK,Yokohama,0
+MGNOS,Nossi-Be,0
+MMRGN,Rangoon,0
+MXCOA,Coatzacoalcos,0
+USMIA,Miami,0
+NZTRG,Tauranga,0
+ARCMP,Campana,0
+ARCOU,Concepcion del Uruguay,0
+ARCRD,Comodoro Rivadavia,0
+PHCEB,Cebu,0
+MYBKI,Kota Kinabalu,0
+MYMKZ,Malacca,0
+MYPKG,Port Klang - Pelabuhan Ultra - North Port,0
+ARSNS,"San Nicolas, Argentina",0
+ARSSN,"San Sebastian, Argentina",0
+AUBNE,Brisbane,0
+AUBUY,Bunbury,0
+NGBON,Bonny,0
+BNSER,Seria,0
+NLVLI,Flushing,0
+NOFRK,Fredrikstad,0
+USCHI,Chicago,0
+USCRP,Corpus Christi,0
+AUBEL,Bell Bay,0
+AUBME,Broome,0
+AEJED,Jebel Dhanna - Ruwais,0
+AEKLF,Khor Fakkan,0
+AEMSA,Mina Saqr,0
+AEPRA,Port Rashid,0
+AGSJO,"St John""""s, (Antigua), Antigua and Barbuda",0
+ITPES,Pesaro,0
+USHNS,Haines,0
+ALDRZ,Durres,0
+ARSLO,"San Lorenzo, Argentina",0
+USEWB,New Bedford,0
+ARVCN,Villa Constitucion,0
+ASPPG,Pago Pago,0
+AUADL,Adelaide,0
+AUALH,"Albany, W.A., Australia",0
+TRDIL,Diliskelesi,0
+USSUE,Sturgeon Bay,0
+USKAE,Kake,0
+TRTEK,Tekirdag,0
+USBTR,Baton Rouge,0
+USCEN,"St James, Louisiana, U.S.A.",0
+USFPO,"Freeport, Texas, U.S.A.",0
+ARBHI,Bahia Blanca,0
+ARBUE,Buenos Aires,0
+AEABU,Abu Al Bukhoosh,0
+AEDAS,Das Island,0
+AEFJR,Fujairah,0
+AEJEA,Jebel Ali,0
+ALVOA,Vlore,0
+AOCAB,Cabinda,0
+AOLAD,Luanda,0
+AOLOB,Lobito,0
+AOPAT,Palanca,0
+AOSZA,Soyo,0
+ARDME,Diamante,0
+ARIBY,Ibicuy,0
+AUFRE,Fremantle,0
+INIXZ,Port Blair,0
+ARLPG,La Plata,0
+ARNEC,Necochea,0
+ARPRA,Parana,0
+ARPRS,Puerto Rosales,0
+BRCDO,Cabedelo,0
+BRRIG,Rio Grande,0
+ARRAM,Ramallo,0
+ARSAE,San Antonio Este,0
+CALWP,Lewisporte,0
+ARSFN,Santa Fe,0
+AUBWB,Barrow Island,0
+AUBWT,Burnie,0
+AUCNS,Cairns,0
+AUDAM,Dampier,0
+AUDPO,"Devonport, Tas., Australia",0
+AUDRW,"Darwin, N.T., Australia",0
+AUEPR,Esperance,0
+ITPFX,Sarroch,0
+AUGET,Geraldton,0
+BRARB,Aratu,0
+AUGEX,Geelong,0
+AUGLT,"Gladstone, Qld., Australia",0
+AUWAL,Wallaroo,0
+AUTHE,Thevenard,0
+AUTSV,Townsville,0
+AUWNB,Withnell Bay,0
+AUWYA,Whyalla,0
+AWSNL,"San Nicolas Coastal Inner Harbour, Aruba (Netherlands)",0
+BDCGP,Chittagong,0
+BRTUB,Tubarao,0
+AUGOV,Gove,0
+AUKRB,Karumba,0
+BQEUX,St Eustatius,0
+AUKWI,Kwinana (Refinery),0
+AUMEL,Melbourne,0
+AUMKY,Mackay,0
+AUMOU,Mourilyan,0
+AUNTL,Newcastle,0
+AUONS,Onslow,0
+AUPBY,Port Bonython,0
+AUPGI,Port Giles,0
+AUPHE,Port Hedland,0
+AUPKL,Port Kembla,0
+AUPLA,Port Latta,0
+AUPLO,Port Lincoln,0
+AUPPI,Port Pirie,0
+AUPTL,Port Alma,0
+AUPWL,Port Walcott,0
+AUQDN,Eden,0
+AUSYD,"Sydney, N.S.W., Australia",0
+BEANR,Antwerp,0
+BEGNE,Ghent,0
+BEZEE,Zeebrugge,0
+BGBOJ,Bourgas,0
+BJCOO,Cotonou,0
+BNMUA,Muara Port,0
+EGRAG,Ras Gharib,0
+BRADR,Angra dos Reis,0
+BRFOR,Fortaleza,0
+BRMAO,Manaus,0
+BRSSO,Sao Sebastiao,0
+BRSSZ,Santos,0
+CAPTU,Point Tupper,0
+CAVAN,"Vancouver, B.C., Canada",0
+CNDDG,Dandong,0
+FRBES,Brest,0
+DEBRV,Bremerhaven,0
+BRSTM,Santarem,0
+BRSUA,Suape,0
+BRREC,Recife,0
+IECOB,Cobh,0
+ITPIO,Piombino,0
+ITPEM,Porto Empedocle,0
+BRSSA,Salvador,0
+BRTRM,Tramandai,0
+BRVIX,"Vitoria, Brazil",0
+BSFPO,"Freeport, (Grand Bahama Is.), Bahamas",0
+BSNAS,Nassau,0
+BZBZE,Belize,0
+CACBC,Come-By-Chance,0
+CAHAL,Halifax,0
+CAMTR,Montreal,0
+CAPHW,Port Hawkesbury - Wright Point Oil Berth,0
+CNCGS,Changshu,0
+CLARI,Arica,0
+CLCNL,Coronel,0
+CLCNX,Cabo Negro,0
+CUCFG,Cienfuegos,0
+CLIQQ,Iquique,0
+CLPMC,Puerto Montt,0
+CAVIC,"Victoria, B.C., Canada",0
+CIABJ,Abidjan,0
+ITPNG,Porto Nogaro,0
+ITPSS,Porto Santo Stefano,0
+ITPTO,Porto Torres,0
+ITPVE,Porto Vesme,0
+CLANF,Antofagasta,0
+CLPUQ,Punta Arenas,0
+CLQTV,Quintero,0
+CLSVE,"San Vicente, Chile",0
+CLTOQ,Tocopilla,0
+CLVAP,Valparaiso,0
+CNCWN,Chiwan,0
+CNLKU,Longkou,0
+CNMJS,Maji Shan,0
+CNMWN,Mawan,0
+CNNSA,Nansha,0
+CNNTG,Nantong,0
+CUNVT,Nuevitas (Puerto Tarafa),0
+ESBIO,Bilbao,0
+EGWAF,Wadi Firan,0
+IDSKP,Sekupang,0
+CNWNZ,Wenzhou,0
+CMLIT,Cape Limboh,0
+GBERI,Erith,0
+DEHAM,Hamburg,0
+DERSK,Rostock,0
+CNBSP,Basuo,0
+CNBYQ,Bayuquan,0
+EGSGA,Safaga,0
+CNDSN,Dongshan,0
+CNFAN,Fangcheng,0
+CRMOB,Puerto Moin,0
+CRPAS,Puntarenas,0
+CNHGH,Hangzhou,0
+CNJNZ,Jinzhou,0
+ITPZL,Pozzallo,0
+ESCAD,Cadiz Bay,0
+GBCBT,Campbeltown,0
+MYKUD,Kudat,0
+UABGD,Belgorod Dnestrovsky,0
+GBLER,Lerwick,0
+EGRSH,Ras Shukheir,0
+CNPLI,Penglai,0
+CNQZH,Qinzhou,0
+CNRPG,Raoping,0
+CNSHD,Shidao,0
+CUGUB,Guantanamo,0
+CUHAV,Havana,0
+CUMZO,"Manzanillo, Cuba",0
+CUMAR,Mariel,0
+CUQMA,"Matanzas, Cuba",0
+COPOC,Pozos Colorados,0
+CWWIL,"Willemstad, (Curacao), Netherlands Antilles",0
+CXXCH,Christmas Island,0
+ESAGP,Malaga,0
+CYDHK,Dhekelia,0
+CYLMS,Limassol,0
+CYVAS,Vassiliko Bay,0
+DEBRB,Brunsbuttel,0
+DEBRE,Bremen,0
+DEEME,Emden,0
+DELBC,Lubeck,0
+DESTA,Stade,0
+DEWVN,Wilhelmshaven,0
+DJJIB,Djibouti,0
+UAILK,Chornomorsk,0
+GBFAW,Fawley,0
+DEECK,Eckernforde,0
+DKAAL,Aalborg,0
+DKAAR,Aarhus,0
+DKCPH,Copenhagen,0
+ESALG,Algeciras,0
+ESAVS,Aviles,0
+DKFRC,Fredericia,0
+DKGFH,Gulfhavn,0
+DOHAI,Rio Haina,0
+DZAAE,Annaba,0
+DZALG,Algiers,0
+DZBJA,Bejaia,0
+DZDJE,Djen-Djen,0
+ESTAR,Tarragona,0
+ESVGO,Vigo,0
+DZGHZ,Ghazaouet,0
+CUPPA,Puerto Padre,0
+GBCDF,Cardiff,0
+DZMOS,Mostaganem,0
+DZORN,Oran,0
+DZSKI,Skikda,0
+ECESM,Esmeraldas,0
+ECGYE,Guayaquil,0
+EEPLA,Paldiski South Harbour,0
+EGALY,"Alexandria, Egypt",0
+EGDAM,Damietta,0
+EGPSD,Port Said,0
+EGSKT,Sidi Kerir,0
+IDSOQ,Sorong,0
+FIVAA,Vaasa,0
+ESACA,Alcanar,0
+ESBCN,"Barcelona, Spain",0
+ESIBZ,Ibiza,0
+ESLEI,Almeria,0
+IDTBA,Tanjung Bara,0
+IDTRK,Tarakan,0
+IEBYT,Bantry Bay,0
+IEDUB,Dublin,0
+ESCAR,"Cartagena, Spain",0
+ESCEU,Ceuta,0
+ESCRS,Carboneras,0
+ESFRO,Ferrol,0
+ILAKL,Ashkelon,0
+ESGAR,Garrucha,0
+ESGIJ,Gijon,0
+ESHUV,Huelva,0
+IEFOV,Foynes Harbour,0
+CUSCU,Santiago de Cuba,0
+CVRAI,Praia,0
+CVSID,Sal Is.,0
+CVVXE,St Vincent,0
+GBCTM,Chatham Docks U.K.,0
+GBDUN,Dundee,0
+ESMAH,Mahon,0
+FIRAU,Rauma,0
+ESMOT,Motril,0
+ESPAS,Pasajes,0
+ESPMI,Palma,0
+ESROT,"Rota, Spain",0
+FRDKK,"Dunkirk, France",0
+FRDON,Donges,0
+FRFOS,Fos,0
+FRLAV,Lavera,0
+CVMIN,Mindelo,0
+CYAKT,Akrotiri,0
+CYFMG,Famagusta,0
+FRBOD,Bordeaux,0
+FRLRT,Lorient,0
+FRPAP,Pauillac,0
+ESSAG,Sagunto,0
+IEWHI,Whitegate,0
+GBDVR,"Dover, U.K.",0
+GBELL,Ellesmere Port,0
+GBFAL,"Falmouth, U.K.",0
+DEFLF,Flensburg,0
+DENHA,Nordenham,0
+ESSCI,San Ciprian,0
+ESSCR,San Carlos de la Rapita,0
+ESSDR,Santander,0
+ESVIL,Villagarcia de Arosa,0
+ESVLC,Valencia,0
+FIHEL,Helsinki,0
+FIHMN,Hamina,0
+FIKTK,Kotka,0
+FINLI,Naantali,0
+FRPET,Petit Couronne,0
+FRPJE,Port Jerome,0
+IEORK,Cork,0
+ILASH,Ashdod,0
+FRSET,Sete,0
+FRURO,Rouen,0
+GAGAX,Gamba,0
+CYMOI,Moni,0
+CYKAR,Xeros,0
+DEBKE,Brake,0
+DEBUZ,Butzfleth,0
+DECUX,Cuxhaven,0
+GBFOY,Fowey,0
+GBABD,"Aberdeen, U.K.",0
+GBAUL,Loch Ewe,0
+GBAVO,Avonmouth,0
+GBBAD,Barry,0
+GBBEL,"Belfast, U.K.",0
+GBBFB,Braefoot Bay,0
+GBBLY,Blyth,0
+GBBOS,"Boston, U.K.",0
+GBBRS,"Bristol, U.K.",0
+GBFNT,Finnart,0
+GBFXT,Felixstowe,0
+GBGLW,Glasgow,0
+GBGRG,Grangemouth,0
+GBGRK,Greenock,0
+JMMBJ,Montego Bay,0
+GBGSA,Glensanda,0
+GBGSY,Grimsby,0
+GBGTY,Great Yarmouth,0
+GBHAM,Hamble,0
+GBHLY,Holyhead,0
+GBHPT,Hound Point,0
+JPMIN,Minamata,0
+GBHST,Hunterston,0
+GBIMM,Immingham Dock,0
+GBINV,Inverness,0
+GBIPS,Ipswich,0
+GBIVG,Invergordon,0
+GBKGH,Killingholme,0
+GBKLN,"King""""s Lynn",0
+GBKNK,Kingsnorth,0
+DKASS,Asnaes,0
+DKASN,Assens,0
+GBKWL,Kirkwall,0
+GBLAR,Larne,0
+GQSSG,Malabo,0
+GRGPA,Patras,0
+GRKVA,Kavalla,0
+GRPIR,Piraeus,0
+DKKAL,Kalundborg,0
+DKKOG,Koge,0
+HNSLO,"San Lorenzo, Honduras",0
+ILHFA,Haifa,0
+INALA,Alang,0
+INBHU,Bhavnagar,0
+INCDL,Cuddalore,0
+HRRJK,Rijeka,0
+HRZAD,Zadar,0
+IDCIW,Ciwandan,0
+IDDUM,Dumai,0
+IDITN,Tanjung Uban,0
+GBNHO,New Holland,0
+GBNPT,"Newport, Wales, U.K.",0
+GBOAK,Oakham Ness,0
+GBPHD,Peterhead ,0
+GBPLY,"Plymouth, U.K.",0
+GBPME,"Portsmouth, U.K.",0
+GBPOO,Poole,0
+GBPTB,Port Talbot,0
+GBPTL,"Portland, U.K.",0
+GBRMG,Ramsgate,0
+GBROY,Rosyth,0
+GBSCR,Scrabster,0
+GBSED,Saltend,0
+ITPMO,Palermo,0
+ITRAN,Ravenna,0
+GBSFW,Scapa Flow,0
+GBSHS,Sheerness,0
+GBSUL,Sullom Voe,0
+GBSUN,Sunderland,0
+GBSWA,"Swansea, U.K.",0
+GBTEE,Teesport,0
+GBTRA,Tranmere,0
+GBWPT,Warrenpoint,0
+GEPTI,Poti,0
+GHTEM,Tema,0
+GIGIB,Gibraltar,0
+GRAGT,Agioi Theodoroi,0
+IRKHK,Kharg Island,0
+INSAL,Salaya,0
+MYSBW,Sibu,0
+GRASS,Aspropyrgos,0
+GRSKG,Thessaloniki,0
+DKKOL,Kolding,0
+GRVOL,Volos,0
+IDAMA,Amamapare,0
+NOBGO,Bergen,0
+GTPRQ,Puerto Quetzal,0
+GTSNJ,"San Jose, Guatemala",0
+GTSTC,Santo Tomas de Castilla,0
+HNPCR,Puerto Cortes,0
+DKKRR,Korsor,0
+FIPOR,Pori,0
+HNTEA,Tela,0
+DETRV,Travemunde,0
+IDAMQ,Ambon,0
+IDBDJ,Banjarmasin,0
+IDBIT,Bitung,0
+IDBLL,Blang Lancang,0
+ITGIT,Gioia Tauro,0
+ITGOA,Genoa - Avamporto,0
+IDBUA,Bula,0
+DKEBJ,Esbjerg,0
+TRGUL,Gulluk,0
+IDLUW,Luwuk,0
+IDPLM,Palembang,0
+IDPNJ,Panjang,0
+IDBYQ,Pulo Bunyu,0
+IDCIG,Cigading,0
+IDKAB,Kabil,0
+ITGAE,Gaeta,0
+DKFDH,Frederikshavn,0
+DKGED,Gedser,0
+IDKOE,Kupang,0
+IDKTJ,Kuala Tanjung,0
+IDLLA,Lawi Lawi,0
+GBLAH,Lamlash,0
+ITBDS,Brindisi,0
+ITSPE,La Spezia,0
+INMAA,Chennai (formerly Madras),0
+INMRM,Mormugao,0
+ITSVN,Savona,0
+ITTAR,Taranto,0
+ITTRS,Trieste,0
+IDPRO,Probolinggo,0
+DOSDQ,Santo Domingo,0
+GBLIT,Littlehampton,0
+IDPSS,Pulau Sambu,0
+IDPTL,Pantoloan,0
+NOEGD,Egersund,0
+IRLVP,Lavan Island,0
+JPSMT,Shimotsu,0
+SETRG,Trelleborg,0
+IDPUM,Pomalaa,0
+IDSBG,Sabang,0
+DKGRE,Grenaa,0
+INKAK,Kakinada,0
+JMKIN,"Kingston, Jamaica",0
+JMOCJ,Ocho Rios,0
+IQKHA,Khor-al-Amaya,0
+USAVQ,Avon,0
+GBSHV,London Gateway Port,0
+GBMNC,Manchester,0
+INNAV,Navlakhi,0
+INVAD,Vadinar,0
+INVVA,Veraval,0
+IODGA,Diego Garcia,0
+ITBRI,Bari,0
+ITFAL,Falconara,0
+ITLIV,Livorno,0
+ITMLZ,Milazzo,0
+ITMNF,Monfalcone,0
+ITMSN,Messina,0
+ITNAP,"Naples, Italy",0
+IQKAZ,Khor al Zubair,0
+NOBOO,Bodo,0
+NODRM,Drammen,0
+IRMRX,Bandar Mahshahr,0
+IRSXI,Sirri Island,0
+ITAOI,Ancona,0
+ITAUG,"Augusta, (Sicily), Italy",0
+ITFCO,Fiumicino,0
+JPIKW,Ishikawa,0
+ITPMA,Porto Marghera,0
+DKNAK,Nakskov,0
+DKNBG,"Nyborg, Denmark",0
+DKNYF,"Nykobing, (Falster), Denmark",0
+DKODE,Odense,0
+DKRAN,Randers,0
+DKRNN,Ronne,0
+JMPEV,Port Esquivel,0
+JMPKS,Port Kaiser,0
+JPNAH,Naha,0
+JPNAO,Naoetsu,0
+JPNGO,Nagoya,0
+DKSKB,Skaerbaek,0
+DKSKA,Skagen,0
+DKSGD,Sonderborg,0
+DKSSV,Studstrup,0
+DKVEJ,Vejle,0
+DMPOR,"Portsmouth, Dominica",0
+JMPOT,Port Antonio,0
+MZINH,Inhambane,0
+AUWYN,Wyndham,0
+JMROP,"Rocky Point, Jamaica",0
+JPAOJ,Aomori,0
+DKHIR,Hirtshals,0
+JPSMZ,"Shimizu, (Honshu), Japan",0
+EEPRN,Parnu,0
+JPATM,Atsumi,0
+JPCTA,Chita - LNG,0
+JPNGS,Nagasaki,0
+JPNIH,Niigata-Higashi,0
+JPETA,Etajima,0
+JPFKJ,Fukui,0
+JPGAM,Gamagori,0
+JPMYJ,Matsuyama,0
+JPHBK,Hibikinada,0
+DOLRM,La Romana,0
+DOPOP,Puerto Plata,0
+DOPVA,Puerto Viejo de Azua,0
+DOSPM,San Pedro de Macoris,0
+DOCAU,Caucedo,0
+JPHIB,Hibi,0
+CANNO,Nanaimo,0
+JPHIM,Himeji,0
+LYLMQ,Marsa el Brega,0
+JPKKW,Kanokawa,0
+JPHTC,Hitachi,0
+JPIHA,Niihama,0
+SIKOP,Koper,0
+DOCBJ,Cabo Rojo,0
+JPISG,Ishigaki,0
+ECLLD,"La Libertad, Ecuador",0
+ECPBO,"Puerto Bolivar, Ecuador",0
+JPISM,Ishinomaki,0
+JPIWK,Iwakuni,0
+JPKAR,Karatsu,0
+JPKII,Kiire,0
+JPKIK,Kikuma,0
+JPKIN,Kin Wan (Okinawa),0
+JPKIS,Kamaishi,0
+TTCLA,Claxton Bay,0
+JPNSR,Noshiro,0
+JPNIT,Namikata,0
+EEKND,Kunda,0
+JPKND,Kanda,0
+PESVY,Salaverry,0
+JPKRE,Kure,0
+JPKSM,Kashima,0
+JPKUD,Kudamatsu,0
+JPKUH,Kushiro,0
+JPKZU,Kisarazu,0
+USSCK,Stockton,0
+JPMAI,Maizuru,0
+JPMAT,Matsushima,0
+JPMIZ,Mizushima,0
+JPMOJ,Moji,0
+JPMUR,Muroran,0
+EGAIS,Ain Sukhna,0
+EGEDK,El Dekheila,0
+EGPTK,Port Tawfiq,0
+JPOFT,Ofunato,0
+KHPNH,Phnom Penh,0
+JPONA,Onahama,0
+JPSSB,Sasebo,0
+SLFNA,Freetown,0
+MHMAJ,Majuro,0
+CABWD,Botwood,0
+SEOST,Ostrand,0
+BRITA,Itacoatiara,0
+BRITJ,Itajai,0
+FIHKO,Hanko,0
+JPOWA,Owase,0
+JPRHK,Reihoku,0
+LVLPX,Liepaja,0
+JPRMI,Rumoi,0
+JPUKB,Kobe,0
+PGPOM,Port Moresby,0
+NOAES,Alesund,0
+NOAGO,Agotnes,0
+MAJFL,Jorf Lasfar,0
+JPTMI,Tsukumi,0
+JPSUZ,Susaki,0
+JPTAK,Takamatsu,0
+JPTBT,Tobata,0
+BRMCP,Macapa,0
+LYBOU,Bouri,0
+LYESI,Es Sider,0
+JPTHR,Takehara,0
+JPTHS,Toyohashi,0
+JPWKJ,Wakkanai,0
+JPYAN,Yanai,0
+JPSAK,Sakai,0
+JPSBS,Shibushi,0
+JPSDJ,Sendai,0
+JPSKD,Sakaide,0
+JPSKM,Shikama,0
+JPSKT,Sakata,0
+LYBEN,Benghazi,0
+JPTRG,Tsuruga,0
+NGWAR,Warri,0
+MZMPM,Maputo,0
+NOBRE,Bremanger,0
+JPWAK,Wakayama,0
+FIOUL,Oulu,0
+FITKU,Turku,0
+FIUKI,Uusikaupunki,0
+MZMMW,Moma,0
+NGESC,Escravos,0
+NGONN,Onne,0
+JPYAT,Yatsushiro,0
+JPYOS,Yokosuka,0
+NGSPL,Sapele,0
+MYKUA,Kuantan,0
+KRINC,Inchon,0
+KRKPO,Pohang,0
+KRKUV,Gunsan,0
+TWSHL,Sha Lung,0
+MACAS,Casablanca,0
+MATNG,Tangier,0
+SEYST,Ystad,0
+KRMAS,Masan,0
+KRPTK,Pyeong Taek,0
+KRPUS,Busan,0
+KRSCP,Samcheon Po,0
+KRTAN,Taean,0
+KRUSN,Ulsan,0
+KRYOS,Yosu,0
+KWMEA,Mina Al-Ahmadi,0
+FI VK,Valkom,0
+FIKOK,Yxpila,0
+FJLTK,Lautoka,0
+KWMIB,Mina Abdulla,0
+NICIO,Corinto,0
+NIPSN,Puerto Sandino,0
+MAMOH,Mohammedia,0
+MANDR,Nador,0
+MASFI,Safi,0
+KWSAA,Shuaiba,0
+KWSWK,Shuwaikh,0
+LBBEY,Beirut,0
+LBKYE,"Tripoli, Lebanon",0
+LBSDN,Sidon,0
+NOSAU,Sauda,0
+MAAGA,Agadir,0
+MXSCX,Salina Cruz,0
+LKCMB,Colombo,0
+PRGUY,Guayanilla,0
+TRGEM,Gemlik,0
+TWKHH,Kaohsiung,0
+USMTW,Manitowoc,0
+TWTPE,Taipei,0
+TWTXG,Taichung,0
+NRINU,Nauru,0
+LKGAL,Galle,0
+LKTRR,Trincomalee,0
+LRMLW,Monrovia,0
+LRUCN,Buchanan,0
+MZMNC,Nacala,0
+LYMHR,Marsa al Hariga,0
+LYRLA,Ras Lanuf,0
+LYTIP,"Tripoli, Libya",0
+BEOST,Ostend,0
+CACBK,Corner Brook,0
+NGKOK,Koko,0
+CADHS,"Dalhousie, N.B., Canada",0
+MTMLA,Malta (Grand Harbour),0
+NOGLO,Glomfjord,0
+GREEU,Eleusis,0
+MVMLE,Male,0
+MXATM,"Altamira, Mexico",0
+MXCAT,Cayo Arcas,0
+MXLAP,La Paz,0
+MXLZC,Lazaro Cardenas,0
+MZMZQ,Mocambique,0
+GBCAX,Carlisle,0
+USCDB,Cold Bay,0
+USDLG,Dillingham,0
+USEVT,"Everett, Massachusetts, U.S.A.",0
+GBMIS,Mistley,0
+MXMZT,Mazatlan,0
+MXPGO,Progreso,0
+MXRST,Rosarito,0
+NZAKL,Auckland,0
+MYLBU,Labuan,0
+MYLDU,Lahad Datu,0
+MXTAM,Tampico,0
+MXTPB,Topolobampo,0
+USGRY,Gramercy,0
+USHRE,Harlem,0
+MXTUX,Tuxpan,0
+NLIJM,Ijmuiden,0
+SGPUB,Pulau Bukom,0
+NOHAL,Halden,0
+NOARD,Ardalstangen,0
+NALUD,Luderitz,0
+NAWVB,Walvis Bay,0
+NCNOU,Noumea,0
+NGCBQ,Calabar,0
+FJSUV,Suva,0
+NOSUN,Sunndalsora,0
+MXZLO,"Manzanillo, Mexico",0
+MYKEM,Kemaman,0
+MYKET,Kerteh Port,0
+MYLUM,"Lumut, Malaya, Malaysia",0
+MYMYY,Miri,0
+MYPDI,Port Dickson,0
+MYPEN,Penang,0
+NOELN,Elnesvagen,0
+NOFRO,Floro,0
+NOHFT,Hammerfest,0
+MYSDK,Sandakan,0
+MYSPT,Sipitang,0
+MYTPP,Tanjung Pelepas,0
+MYTWU,Tawau,0
+MZBEW,Beira,0
+NGPEN,Pennington,0
+NGPHC,Port Harcourt,0
+NGQIB,Qua Iboe,0
+NLAMS,Amsterdam,0
+NLDHR,Den Helder,0
+NLDOR,Dordrecht,0
+NLEEM,Eemshaven,0
+NLHAR,Harlingen,0
+NLMOE,Moerdijk,0
+NLSCE,Scheveningen,0
+NLTNZ,Terneuzen,0
+NLVEL,Velsen,0
+CA DA,"Dartmouth, N.S., Canada",0
+NOMSS,Moss,0
+NONVK,Narvik,0
+NOODD,Odda,0
+NOSLM,Slemmestad,0
+SCPOV,Port Victoria,0
+SDMBH,Marsa Bashayer,0
+NZWLG,"Wellington, New Zealand",0
+NZWRE,Whangarei,0
+OMSOH,Sohar Port,0
+NOMQN,Mo-I-Rana,0
+NOHRD,Harstad,0
+NOHRY,Heroya,0
+NOKAR,Karsto,0
+NOKKN,Kirkenes,0
+CATRR,Three Rivers,0
+CATHU,Thunder Bay,0
+NOKRS,Kristiansand S.,0
+NOLAR,Larvik,0
+NOMAN,Mandal,0
+NOMJF,Mosjoen,0
+NOOSL,Oslo,0
+NOOSY,Namsos,0
+PETYL,Talara,0
+FJVAT,Vatia,0
+PGANB,Anewa Bay; Bougainville Island,0
+BGBAL,Balchik,0
+NOSTU,Sture,0
+CLCQQ,Coquimbo,0
+TRINE,Inebolu,0
+PHNON,Nonoc Island,0
+PHPRO,Poro,0
+PHSFS,Subic Bay,0
+PTSET,Setubal,0
+NOSVE,Svelgen,0
+NOSVJ,Svolvaer,0
+NOTON,Tonsberg,0
+NOTOS,Tromso,0
+NOTRD,Trondheim,0
+NOVDS,Vadso,0
+NZBLU,"Bluff, New Zealand",0
+NZDUD,Dunedin,0
+NZGIS,Gisborne,0
+NZLYT,Lyttelton,0
+NZMAP,Marsden Point,0
+QARLF,Ras Laffan,0
+QAUMS,Umm Said - Iron Ore Berths,0
+ROCND,Constantza,0
+ROMID,Midia,0
+NZNPE,Napier,0
+NZNSN,"Nelson, New Zealand",0
+NZTIU,Timaru,0
+PHVNV,Villanueva,0
+SOBBO,Berbera,0
+PAAML,Puerto Armuelles,0
+PABLB,Balboa,0
+PACHG,Chiriqui Grande,0
+PACTB,Cristobal,0
+PAMNP,Puerto Las Minas,0
+PAPAM,Almirante,0
+PECHM,Chimbote,0
+PECLL,Callao,0
+RUTUA,Tuapse,0
+RUVIT,Vitino,0
+RUVNN,Vanino,0
+RUVVO,Vladivostok,0
+RUVYG,Vyborg,0
+PEILQ,Ilo,0
+PEIQT,Iquitos,0
+PELPP,La Pampilla,0
+PEMLQ,Mollendo,0
+SEFAG,Falkenberg,0
+GBNCL,Newcastle Upon Tyne,0
+PEMRI,Matarani,0
+PEPAM,Paramonga,0
+PHILO,Iloilo,0
+PEPIO,Pisco,0
+PEPUB,Puerto Bayovar,0
+PESNX,"San Nicolas, Peru",0
+SEBRO,Brofjorden,0
+SGSEB,Pulau Sebarok,0
+YEADE,Aden,0
+PHBCD,Bacolod,0
+PHBTG,Batangas,0
+PHBTN,Bataan,0
+GRIGO,Igoumenitsa,0
+PTLIS,Lisbon,0
+PHCAA,Calaca,0
+PHDVO,Davao,0
+PHGES,General Santos,0
+PHIGN,Iligan,0
+PKKHI,Karachi,0
+PLGDN,Gdansk,0
+PLPLC,Police,0
+PLSWI,Swinoujscie,0
+FJVUD,Vuda Point,0
+SEKAN,Karlshamn,0
+PLSZZ,Stettin,0
+GBNHV,Newhaven (Uk),0
+PRMAZ,Mayaguez,0
+TRKFZ,Korfez,0
+TRLMA,Limas,0
+FRRCO,Rochefort,0
+PRYAB,Yabucoa,0
+PTAVE,Aveiro,0
+PTFNC,Funchal,0
+PTLEI,Leixoes,0
+FRSML,St Malo,0
+PTSIE,Sines,0
+PTVDC,Viana do Castelo,0
+QADOH,Doha,0
+QAHAL,Halul Island,0
+RUARH,Archangel,0
+RUBLT,Baltiysk,0
+RUIKS,Tiksi,0
+GAOWE,Owendo,0
+SESLI,Slite,0
+SESOE,Sodertalje,0
+FRDPE,Dieppe,0
+SEUDD,Uddevalla,0
+SEUME,Umea,0
+SEVAG,Varberg,0
+GBNGG,Nigg Tmnl,0
+FRLVE,Le Verdon,0
+RUKDT,Kronshtadt,0
+RUKHO,Kholmsk,0
+RULED,"St Petersburg, Russia",0
+RUMMK,Murmansk,0
+RUNJK,Nakhodka,0
+RUNVS,Novorossiysk,0
+SEGOT,Gothenburg,0
+RUTAG,Taganrog,0
+SESKR,Skredsvik,0
+SADMM,Dammam,0
+SAJED,Jeddah,0
+SARAB,Rabigh,0
+SARAR,Ras Al-Khafji,0
+FIKAS,Kaskinen,0
+PHISL,Isabel,0
+PRLAM,Las Mareas,0
+SDPZU,Port Sudan,0
+SEAHU,Ahus,0
+SELLA,Lulea,0
+SEGVX,Gavle,0
+USBDR,Bridgeport,0
+SEHAD,Halmstad,0
+SEHAK,Hallstavik,0
+SEHEL,Helsingborg,0
+SEHND,Hernosund,0
+SEVST,Vasteras,0
+SEHUV,Hudiksvall,0
+SEKLR,Kalmar,0
+SEKOG,Koping,0
+SELAA,Landskrona,0
+SELYS,Lysekil,0
+SEMMA,Malmo,0
+SENYN,Nynashamn,0
+TRIZM,Izmir,0
+USBNC,Benicia,0
+USBNP,Brayton Point,0
+USBOS,"Boston, Massachusetts, U.S.A.",0
+GRKLX,Kalamata,0
+SEOER,Ornskoldsvik,0
+SEOSK,Oskarshamn,0
+THHKT,Phuket,0
+UAODS,Odessa,0
+UASVP,Sevastopol,0
+UAYUZ,Yuzhny,0
+TRHAY,Haydarpasa,0
+TRHOP,Hopa,0
+TRISK,Iskenderun,0
+SEOXE,Oxelosund,0
+SEPIT,Pitea,0
+PTHOR,Horta,0
+SESDL,Sundsvall,0
+FRNTE,Nantes,0
+FRNCE,Nice,0
+SESOL,Solvesborg,0
+SESOO,Soderhamn,0
+SESTE,Stenungsund,0
+SNDKR,Dakar,0
+TNGAE,Port De Ghannouch,0
+TRIST,Istanbul,0
+FRBAY,"Bayonne, France",0
+SOMGQ,Mogadishu,0
+SRPBM,Paramaribo,0
+SRPRM,Paranam,0
+SVAQJ,Acajutla,0
+TRMRM,Marmaris,0
+TRMER,Mersin,0
+SYLTK,Lattakia,0
+SYTTS,Tartous,0
+PHJNZ,Jimenez,0
+PTTER,Terceira Island,0
+FRPDB,Port de Bouc,0
+TGLFW,Lome,0
+THBKK,Bangkok,0
+THLCH,Laem Chabang,0
+TTPTF,Point Fortin,0
+TTPTG,Galeota Point,0
+TTPTS,Point Lisas,0
+TRALI,Aliaga,0
+GBPSB,Port Sutton Bridge,0
+TRSSX,Samsun,0
+THSAT,Sattahip,0
+THSGZ,Songhkla,0
+THSRI,Sriracha,0
+TNASH,Ashtart,0
+TNBIZ,Bizerte,0
+USBAL,"Baltimore - Locust Point, Maryland, U.S.A.",0
+USBPT,Beaumont,0
+USBRO,Brownsville,0
+PHSMR,Semirara,0
+TNLGN,La Goulette,0
+FKPSY,"Port Stanley, Falkland Is. (U.K.)",0
+FRAJA,Ajaccio,0
+TNRDS,Rades,0
+TNSFA,Sfax,0
+TOTBU,"Nuku""alofa",0
+TRNEM,Nemrut Limani,0
+TRAYT,Antalya,0
+TRTUT,Tutuncifilik,0
+TRTZX,Trabzon,0
+TRBDM,Bandirma,0
+TRCKZ,Canakkale,0
+TRDRC,Derince,0
+TRERE,Karadeniz Eregli,0
+TRGEB,Gebze,0
+NOAAV,Aalvik,0
+FRBEC,"Bec d""Ambes",0
+FRCQF,"Calais, France",0
+FRCER,Cherbourg,0
+TRYUM,Yumurtalik,0
+TRZON,Zonguldak,0
+TRKRB,Karabiga,0
+TTPOS,Port of Spain,0
+TZDAR,Dar-es-Salaam,0
+USHVR,Havre,0
+FRHON,Honfleur,0
+FRLMD,La Mede,0
+FRNOU,La Nouvelle,0
+USHOU,Houston,0
+USHPY,Baytown,0
+USILG,"Wilmington, Delaware, U.S.A.",0
+USILM,"Wilmington, North Carolina, U.S.A.",0
+USITO,Hilo,0
+USBCG,"Boca Grande, Florida, U.S.A.",0
+GBTIL,Tilbury,0
+TZMYW,Mtwara,0
+TZZNZ,Zanzibar,0
+UAERD,Berdyansk,0
+UAKHE,Kherson,0
+UAMPW,Mariupol,0
+UANLV,Nikolayev,0
+USPCR,Point Comfort,0
+USGPT,"Gulfport, Mississippi, U.S.A.",0
+VEMAR,Maracaibo,0
+DEWIS,Wismar,0
+USORF,Norfolk,0
+IDDOB,Dobo,0
+UMAWK,Wake Island,0
+USADK,Adak,0
+USADQ,Kodiak,0
+USALB,"Albany, New York, U.S.A.",0
+USAMD,Ama,0
+USANC,Anchorage,0
+USASF,Ashtabula,0
+USBUP,Bucksport,0
+USBWT,Braithwaite,0
+USCDE,Camden,0
+USCHG,Cheboygan,0
+USCHS,Charleston,0
+USPAY,Perth Amboy,0
+USCLE,Cleveland,0
+USCLQ,Chalmette,0
+USDNA,Donaldsonville,0
+GBTTS,Totnes,0
+USCOB,Coos Bay,0
+USOST,Ostrica,0
+USSEA,Seattle,0
+USSFO,San Francisco,0
+USDCI,Delaware City,0
+USGLS,Galveston,0
+USGOP,Good Hope,0
+USPON,Port Neches,0
+USPTM,"Portsmouth, Virginia, U.S.A.",0
+USDET,Detroit,0
+USDUT,Dutch Harbor,0
+RULOM,Lomonosov,0
+USELS,El Segundo,0
+USENA,Kenai,0
+USEYW,Key West,0
+USFDT,Ferndale,0
+GBTYN,Tyne,0
+USOTS,Anacortes,0
+USPAB,Palm Beach,0
+ZAMZY,Mossel Bay,0
+ZAPLZ,Port Elizabeth,0
+USSAC,Sacramento,0
+USGSM,Geismar,0
+BGVAR,Varna,0
+USGTL,Gretna,0
+USGYV,Garyville,0
+USAL3,Alliance,0
+GBTRN,Troon,0
+USHVN,New Haven,0
+USJAX,Jacksonville,0
+USLAX,Los Angeles,0
+VUSAN,Santo,0
+YEBLH,Balhaf,0
+USLGB,Long Beach,0
+BRSLZ,Sao Luiz De Maranhao,0
+USLOG,Longview,0
+USMAH,Marcus Hook,0
+USPME,Port Manatee,0
+USPNS,Pensacola,0
+WSAPW,Apia,0
+USMKE,Milwaukee,0
+USMOB,Mobile,0
+LBACT,Amchit,0
+IETAR,Tarbert Island,0
+ECMEC,Manta,0
+USMQT,Marquette,0
+CNNNH,Nanhui,0
+GYNAM,New Amsterdam,0
+IRIAQ,Bahregan,0
+USMRH,Morehead City,0
+USMRZ,Martinez,0
+USMSY,New Orleans,0
+USMXP,Meraux,0
+USMYG,Myrtle Grove,0
+USNAX,Barbers Point,0
+USNEW,Destrehan,0
+USNNS,Newport News,0
+USSAN,San Diego,0
+USNTD,Port Hueneme,0
+USOAK,Oakland,0
+USOGG,Kahului,0
+USOME,Nome,0
+USPAE,"Everett, Washington, U.S.A.",0
+USPCV,Port Canaveral,0
+USPDX,"Portland, Oregon, U.S.A.",0
+USPEF,Port Everglades,0
+USPFN,"Panama City, Florida, U.S.A.",0
+USPGL,Pascagoula,0
+USPHL,Philadelphia,0
+USRDB,Red Dog,0
+ZARCB,Richards Bay,0
+ZASDB,Saldanha Bay,0
+USPHN,Port Huron,0
+USPOA,"Port Arthur, Texas, U.S.A.",0
+FRCFR,Caen,0
+USPTJ,Port Jefferson,0
+USPVD,Providence,0
+USPWM,"Portland, Maine, U.S.A.",0
+USPYP,Piney Point,0
+USSAV,Savannah,0
+BGSOZ,Sozopol,0
+USSGY,Skagway,0
+USSIT,Sitka,0
+GBWRN,Warrington,0
+USSLM,Salem,0
+VNONB,Nha Be,0
+GRCLK,Chalkis,0
+USSRP,Searsport,0
+USTIW,Tacoma,0
+VELAG,La Guaira,0
+VELSV,La Salina,0
+USTOL,"Toledo, Ohio, U.S.A.",0
+USTPA,Tampa,0
+USTXT,Texas City,0
+USVAN,"Vancouver, Washington, U.S.A.",0
+USVDZ,Valdez,0
+GALBV,Libreville,0
+GAPOG,Port Gentil,0
+GBBRR,Barra - Castle Bay,0
+GBBDI,Brodick,0
+GBCOR,Corpach,0
+GBWEY,Weymouth,0
+USYKW,Yorktown,0
+IDBLW,Belawan,0
+IDBPN,Balikpapan,0
+CMDLA,Douala,0
+CNNDE,Ningde,0
+UYFZB,Fray Bentos,0
+UYJIT,Jose Ignacio,0
+UYMVD,Montevideo,0
+UYNVP,Nueva Palmira,0
+VNDAD,Da Nang,0
+VNHPH,Haiphong,0
+VNNHA,Nha Trang,0
+VEELP,El Palito,0
+GBFWM,"Fort William, U.K.",0
+USSTH,St Helens,0
+UYPDU,Paysandu,0
+XZDHT,Dai Hung Field,0
+GBCOY,Coryton - BP Oil - Thames,0
+GBFRH,Fingringhoe,0
+CNBSD,Baoshan,0
+VICTD,Christiansted,0
+VEBAV,Bachaquero,0
+VEBJV,Bajo Grande,0
+VECAR,Caripito,0
+GBHHN,Holehaven - Thames,0
+NOSGE,Slagen,0
+AUCHV,Challis Venture,0
+CNFZG,Fuzhou,0
+AOGIR,Girassol,0
+IDGRE,Gresik,0
+CNGZG,Guangzhou,0
+CANAN,Nanticoke,0
+CAOSH,Oshawa,0
+VEETV,El Tablazo,0
+CNSTG,Shantou,0
+JPTOS,Shinminato,0
+St Ja,St James,0
+BRARE,Areia Branca,0
+VEMIV,Puerto Miranda,0
+GBCHE,Mostyn,0
+GBPAR,Par,0
+GBRID,Ridham Dock,0
+GBESH,Shoreham,0
+INPPT,Paradip,0
+RUKZP,Kavkaz,0
+KRJGE,Keoje,0
+IDKBU,Kota Baru,0
+RUKZM,Kozmino,0
+VEPLV,Punta Palmas del Sur,0
+USRCH,"Richmond, California, U.S.A.",0
+USSMK,St Michael,0
+VEPZO,Puerto Ordaz,0
+VESLV,"San Lorenzo, Venezuela",0
+VGRAD,Roadtown,0
+VISTT,St Thomas,0
+GBSOW,Stanlow,0
+IDSWT,Salawati,0
+VNCPH,Cam Pha,0
+INKRK,Karaikal,0
+GRTHI,Thisvi,0
+GNKMR,Kamsar,0
+GPPTP,Pointe-a-Pitre,0
+FISKV,Porvoo,0
+GRPPI,Prinos,0
+VNRDG,Rang Dong,0
+CAPTO,Pictou,0
+CAPNO,"Pointe Noire, Quebec, Canada",0
+YEMOK,Mokha,0
+GBTHP,Thamesport,0
+GDSTG,"St George""s, Grenada",0
+ GF  ,Degrad-des-Cannes,0
+GLFHN,Faeringehavn,0
+CNNJG,Nanjing,0
+CNBIN,Binzhou,0
+CAPAF,"Port Alfred, Quebec, Canada",0
+IRBAH,Assaluyeh,0
+CAESQ,Esquimalt,0
+USKLW,Klawock,0
+ITCRV,Crotone,0
+INVTZ,Visakhapatnam,0
+MZPOL,Pemba,0
+GBSHO,Shoreham By Sea,0
+USBLB,Belair,0
+IDNNX,Nunukan,0
+USLPL,La Place,0
+CARBC,Richmond (Ca),0
+GYLDN,Linden,0
+HRDBV,Dubrovnik - Ragusa,0
+HRDUR,Dugi Rat,0
+GRPER,Perama,0
+SELIM,Limhamn,0
+ARSMA,San Martin,0
+AUBUV,Buffalo Venture,0
+JPMIS,Misumi,0
+CNLSH,Lushun Kou,0
+CNTNJ,Tianjin,0
+IDSRI,Samarinda,0
+INJGD,Jaigarh,0
+VNCLN,Cai Lan,0
+ARCLC,Caleta Cordova,0
+CNCJG,Caojing,0
+ESCCN,Corcubion,0
+USLOR,Lorain,0
+VNPHU,Phu My,0
+USNIK,Nikiski,0
+GBSOU,Southampton,0
+AUCCU,Cape Cuvier,0
+CNDFG,Dafeng,0
+AODAL,Dalia Terminal,0
+EESLM,Sillamae,0
+LYDRX,Derna,0
+THERA,Erawan,0
+CNWHI,Wuhu,0
+KMDZA,Mayotte Island,0
+IQUQR,Umm Qasr,0
+JPFKW,Funakawa,0
+CNHIG,Haikou,0
+AEHAM,Hamriyah,0
+AUHPT,Hay Point,0
+VNHON,Hon Gai,0
+NLHVH,Hook of Holland,0
+CNHUH,Huanghua,0
+TRIDM,Isdemir,0
+CMLIM,Limbe,0
+ITCVV,Civitavecchia,0
+INGGV,Gangavaram,0
+IDBET,Belida,0
+GRAGM,Agia Marina,0
+GRAGA,Agria,0
+MMMNU,Moulmein,0
+USCDV,Cordova,0
+TNLSK,La Skhirra,0
+CNLZO,Laizhou,0
+USSEW,Seward,0
+CNLYA,Luoyuanwan,0
+CAPCA,Port Cartier,0
+CAPOW,Powell River,0
+GRAXD,Alexandroupolis,0
+PGNAP,Napa Napa,0
+PHNAS,Nasipit,0
+RUMCX,Makhachkala,0
+ZANGQ,Ngqura,0
+CNBHT,Tieshan,0
+USHPW,Hopewell,0
+CNYCG,Yancheng,0
+VEPAM,Pamatacual,0
+GRLAV,Lavrion,0
+GRMGR,Megara,0
+USKAM,Kalama,0
+ARGHU,Gualeguaychu,0
+VESCA,San Carlos Island,0
+XZDHS,Dai Hung (STS),0
+VNDOH,Dong Hoi,0
+AOPAZ,Pazflor,0
+GBPEM,Pembroke Dock,0
+BHMIN,Mina Sulman,0
+USOSW,Oswego,0
+VIPAX,Port Alucroix,0
+USCDY,Conneaut,0
+CNXCU,Dongwu,0
+GRMLO,Milos Island,0
+USZZH,Northport,0
+TZTGT,Tanga,0
+AUBBG,Bing Bong,0
+CAYRH,Yarmouth,0
+RUPGN,Prigorodnoye,0
+VEPCU,Punta Cuchillo,0
+AUURN,Urangan,0
+AUUSL,Useless Loop,0
+EGRAB,Ras Budran,0
+	GHTK,Takoradi,0
+USPIE,St Petersburg (Usa),0
+ARAVD,Puerto Acevedo,0
+NORIV,Risavika,0
+RUSOC,Sochi,0
+CLSGR,Gregory Bay,0
+CLGYC,Guayacan,0
+AEULR,Umm Al Nar Petroleum Port,0
+ARPMY,Puerto Madryn,0
+CNFOS,Foshan,0
+AUCQP,Cape Flattery,0
+ARULA,San Julian,0
+TNZRZ,Zarzis,0
+AEDXB,Dubai,0
+AEKHL,Khalifa,0
+CNDAY,Daya Bay,0
+JPSOM,Soma,0
+USPSG,Petersburg,0
+JESTH,St Helier,0
+SESTO,Stockholm,0
+	GBST,Stornoway,0
+USCLM,Port Angeles,0
+USORG,Orange,0
+JPTBN,Tachibana,0
+PHTAC,Tacloban,0
+USPSY,Port Sulphur,0
+AURDN,Risdon,0
+CNTAX,Taixing,0
+ARPUD,Puerto Deseado,0
+RUTMR,Temryuk,0
+AUAIR,Airlie Island,0
+USSRE,St Rose,0
+ITVDL,Vado Ligure,0
+BRVDC,Vila do Conde,0
+RUVYS,Vysotsk,0
+SEWAL,Wallhamn,0
+CNCLJ,Chenglingji,0
+CAPRR,Prince Rupert,0
+CNXIP,Xingang,0
+GRSUD,Suda Bay,0
+JPYUR,Yura,0
+ITMFR,Manfredonia,0
+IDENO,Kuala Enok,0
+CAPRE,Prescott (Usa),0
+CNCSX,Changsha,0
+AEKLB,Khor Kalba,0
+CNCZZ,Cangzhou,0
+CNCFD,Caofeidian,0
+GRSKA,Skaramanga,0
+GRSYS,Stylis,0
+AERKT,Ras Al Khaimah,0
+ALSAR,Sarande,0
+IDMBK,Muara Bangkong,0
+ALSHG,Shengjin,0
+AOMSZ,Namibe,0
+CNCZX,Changzhou,0
+CNCOZ,Chaozhou,0
+AUCLT,Cape Lambert,0
+AURAB,Rapid Bay,0
+XZOCA,Bayu-Undan,0
+UYCYR,Colonia,0
+UYLAP,La Paloma,0
+CABDF,Bedford,0
+AOPBN,Porto Amboim,0
+AOSOQ,Quinfuquena,0
+GRYLI,Yali Island,0
+GTPBR,Puerto Barrios,0
+CNMAC,Macun,0
+CNCIG,Chenjiagang,0
+CNCKG,Chongqing,0
+CNDAG,DALIAN,0
+CNDAX,Daxie,0
+ARASO,Arroyo Seco,0
+ARROC,Puerto Rocca,0
+ARPCO,Punta Colorada,0
+ARQQN,Quequen,0
+ARRGL,Rio Gallegos,0
+AUSKA,Skardon River,0
+AUSPB,Spring Bay,0
+CACPT,Canaport,0
+GRRHO,Rhodes,0
+ESCUR,Castro-Urdiales,0
+AUSTA,Stanley,0
+MOMFM,MACAO,0
+IDMPN,Muara Pantai Anchorage,0
+AUCPN,Cape Preston,0
+CNCYH,Haimen,0
+CNHSI,Huangshi,0
+AUCVQ,Carnarvon,0
+AUDRB,Derby,0
+AUPEX,Exmouth,0
+AUKTA,Karratha,0
+AUPBT,Port Botany,0
+AUPHU,Port Huon,0
+ESBRE,Escee,0
+CADAR,Dartmouth,0
+CNSYA,Sanya,0
+CNSHH,Shanhaiguan,0
+CNSWE,Shanwei,0
+GYGEO,"Georgetown, Guyana",0
+CNZHH,Zhenhai,0
+CNZSN,Zhongshan,0
+CWEMM,EMMASTAD,0
+CLBAG,Gregorio,0
+AUYAM,Yampi Sound,0
+BEBRU,Brussels,0
+BHSIT,Sitra,0
+BQKRA,Kralendijk,0
+BRIGI,Itaguai,0
+BRITQ,Itaqui,0
+BRPOA,Porto Alegre,0
+BRSEP,Sepetiba,0
+CNHUD,Huludao,0
+CNHMN,HUMEN,0
+CNHZH,Huzhou,0
+CNJIX,Jiaxing,0
+CNJTG,JINGTANG,0
+JPTTJ,Tottori,0
+BRSPB,Sepetiba Bay,0
+CNJNS,Jinshan,0
+CNJIU,Jiujiang,0
+ESPSM,Puerto De Santa Maria,0
+CNLGY,Longyan,0
+CNLJK,Luanjiakou,0
+CNQAW,Qianwan,0
+CNTAO,Qingdao (formerly Tsingtao),0
+CNQZL,QUANZHOU,0
+FRBAS,Bassens,0
+GBEAM,Eastham,0
+CNSZH,Suzhou,0
+CNRZH,Rizhao,0
+CNXNA,Xinsha,0
+CNXYG,Xiuyu,0
+GBHUL,Hull,0
+GBTNM,Teignmouth,0
+HRPLE,Kardeljevo,0
+HRPLM,Plomin,0
+HRPUY,Pula,0
+HRSPU,Split,0
+HTPAP,Port-au-Prince,0
+GBBWK,Berwick Upon Tweed,0
+GBBID,Bideford,0
+IDSMQ,Sampit,0
+CNSHU,Shihu,0
+ESFUE,PUERTO DEL ROSARIO,0
+GBGVS,Gravesend,0
+	CNTA,TAICANG,0
+FMPNI,Pohnpei Harbour,0
+FOFUG,Fuglafjordur,0
+IDBOA,Benoa,0
+JPHIC,Hitachinaka,0
+CNTZO,Taizhou,0
+GBSEA,Seaham Harbour,0
+CNTOJ,Tongjiang,0
+CNWUX,Wuxi,0
+FRAMS,Ambes,0
+CNXIN,Xinhui,0
+CNYJI,Yangjiang,0
+CNYGS,Yangshan,0
+GBRCS,Rochester,0
+CNZQG,Zhaoqing,0
+DKSTG,Stigsnaes,0
+FRLEH,Le Havre,0
+GBWOR,Workington,0
+GBXSS,Seal Sands,0
+GBSSS,Sharpness And Gloucester,0
+IDTPN,Tanjung Pemancingan,0
+DOPAL,Palenque,0
+DZTEN,Tenes,0
+EEMUG,Muuga,0
+EGSUZ,Suez Port,0
+EHVIC,Dakhla,0
+ID OK,Offshore Karimun Besar (Tsa),0
+IDPGA,Pagerungan,0
+IDSSO,Pangkalan SPM; Susu,0
+IDSLG,Sibolga,0
+ESAGU,Aguilas,0
+ESEAS,San Sebastian,0
+ESTRF,Tarifa,0
+ESPAL,Palamos,0
+ESARI,Arguineguin,0
+ESESC,Escombreras,0
+ESGAN,Gandia,0
+ESJAV,Javea,0
+TRMUD,Mudanya,0
+ESMLN,Melilla,0
+GBGYS,Grays,0
+GGSPT,St Peter Port,0
+ESRIB,Ribadeo,0
+GBARD,Ardrossan (Uk),0
+IDBEN,Benete,0
+IDBKS,Bengkulu,0
+ESTOR,Torrevieja,0
+FIMTY,Mantyluoto,0
+GBAYR,Ayr,0
+GBBRK,Birkenhead,0
+GBBOW,Bowling,0
+GBBRX,Brixham,0
+IEGWY,Galway,0
+IEGRN,Greenore,0
+IEMOT,Money Point,0
+GBBHK,Bromborough,0
+GBBUC,Buckie,0
+GBMTH,Methil,0
+IDBIK,Biak,0
+IDMUB,Muara Berau Anchorage,0
+IDPAI,Paiton,0
+GBBTL,Burntisland,0
+GBCAN,Canvey Island,0
+XZSBY,Sibuko Bay,0
+GBCFG,Carrickfergus,0
+Coryt,Coryton,0
+GBDTM,Dartmouth (Uk),0
+IDTAB,Taboneo Anchorage,0
+TRORD,Ordu,0
+ITCTA,Catania,0
+IDPKS,Pangkalan Susu,0
+IDPKU,Pekanbaru,0
+GBFIS,Fishguard,0
+GBFLE,FLEETWOOD,0
+IDSGQ,Sangatta,0
+IDJOR,Jorong,0
+GBFRB,Fraserburgh,0
+GBGTN,Garston,0
+GBGOO,Goole,0
+USHOM,Homer,0
+ARPBG,Puerto Belgrano,0
+INMAP,Machilipatnam,0
+INMDA,Magdalla,0
+GBHYM,Heysham,0
+GBHDD,Howdendyke,0
+GRIKL,IRAKLION,0
+GRPME,Pachi,0
+IDBUN,Buatan,0
+IDUPG,Ujung Pandang (formerly Macassar),0
+TRRIZ,Rize,0
+GUAPR,Apra Harbor,0
+IDADB,Adang Bay ,0
+IDIAM,Asam Asam,0
+IDBJU,Banyuwangi,0
+IDBUR,Batu Ampar,0
+IDBIR,Biringkasi,0
+IDKSO,Kalbut Situbondo,0
+IEDRO,Drogheda,0
+IDFKQ,Fak-Fak,0
+IDGEB,Gebe Island,0
+IDGTO,Gorontalo,0
+IDJKT,Jakarta,0
+IDDJB,Jambi,0
+IDDJJ,Jayapura,0
+IDKDI,Kendari,0
+IEROE,Rosslare Europort,0
+IDPTO,"Okha, India",0
+TRTGT,Toros,0
+TVFUN,Funafuti,0
+TWAPG,Anping,0
+IRCYT,Soroosh,0
+IDKUM,Kumai,0
+IDMAK,Makassar,0
+IDMLI,Malili,0
+IDMDC,Manado,0
+IDMGB,Manggis,0
+TRYAL,Yalova,0
+TRYAR,Yarimca,0
+IDMKW,Manokwari,0
+ITTOA,Torre Annunziata,0
+IDMKQ,Merauke,0
+	IDME,Meulaboh,0
+UAKIA,Kiliya,0
+ITCHI,Chioggia,0
+NOSLA,Sola,0
+IDKID,Port Kijang,0
+KRBUK,Bukpyung,0
+IDSTU,Satui,0
+ISREY,Reykjavik,0
+MYKUN,Kunak,0
+PHLUG,Lugait,0
+IDTMH,Tanah Merah,0
+INBLK,Belekeri,0
+INDHP,Dabhol,0
+INDHU,Dahanu,0
+INDMT,Dharamtar,0
+INDIG,Dighi,0
+INJAK,Jakhau,0
+INJGA,JAMNAGAR,0
+JPMAR,Marugame,0
+INMDV,Mandvi,0
+INMDK,Muldwarka,0
+JPHHR,Higashi Harima,0
+INPNY,Pondicherry,0
+INOKH,Port Okha,0
+UARNI,Reni,0
+INRTC,Ratnagiri,0
+IQBSR,Basrah,0
+INRED,Redi,0
+JPMNG,Matsunaga,0
+PMFSP,St Pierre,0
+INRVD,Revdanda,0
+JPABA,Abashiri (Jap),0
+JPKAI,Kainan,0
+ITTPS,Trapani,0
+JPTSU,Tsumatsusaka (Tsu),0
+ITMDC,Marina de Carrara,0
+IRRBA,Ras Bahregan,0
+IRBUZ,Bushire,0
+IRKHO,Khorramshahr,0
+IRBSR,Bandar e Shahid Rajai,0
+ISGRT,Grundartangi,0
+ISHAF,Hafnarfjordur,0
+JMLUC,Lucea,0
+JPHKR,Hikari,0
+THCHU,Chumphon,0
+THSBP,Siam Bangkok Port,0
+TRTUZ,Tuzla Dockyard,0
+TWSUO,Su-Au Kang,0
+JPBPU,Beppu,0
+JPFNB,Funabashi,0
+JPKNZ,Kanazawa (Jap),0
+JPKNM,Kanmon,0
+CABEC,Becancour,0
+JPHMD,Hamada,0
+JPHAN,Hannan,0
+JPHAS,Hashihama,0
+VESFX,San Felix,0
+JPHRA,Hirao,0
+CABEL,Belledune,0
+ITSAL,Salerno,0
+ITSPA,Santa Panagia,0
+ITTRI,Termini Imerese,0
+JPSDU,Sodegaura,0
+PWROR,Malakal,0
+JPKMI,Miyazaki,0
+JPHRO,Hiro,0
+ITOLB,Olbia,0
+JPKDA,Kishiwada,0
+JPKKJ,Kitakyushu,0
+JPKCZ,Kochi,0
+JPONX,Onomichi,0
+PHDGT,Dumaguette,0
+MXPMD,Puerto Madero,0
+JPIMB,Imabari,0
+JPIMI,Imari,0
+JPINS,Innoshima,0
+PAPLP,La Palma,0
+JPITO,Itozaki,0
+ITOTN,Ortona,0
+ITOTO,Otranto (Pilots),0
+JPIZS,Izumisano,0
+JPZAJ,Tamashima,0
+JPKSA,Kasaoka,0
+KYCYB,Cayman Brac (Creek Bay),0
+JPKWZ,Kashiwazaki (Jap),0
+NOFFD,Flekkefjord,0
+NOGTD,Grimstad,0
+NOHAN,Halvorshavn,0
+JPKSN,Kesennuma (Jap),0
+NOSKE,Skien,0
+JPKIJ,Niigata-Nishi,0
+JPMII,Miike,0
+NOHOR,Horten,0
+JPMJR,Mitajiri,0
+JPSTO,Sakito,0
+JPTGO,Tagonoura,0
+THPCT,Petchburi,0
+USSIB,Silver Bay,0
+JPMYK,Miyako,0
+NOSPG,Sarpsborg,0
+JPNAZ,Naze,0
+SAMPL,Sample One,0
+USEPM,Eastport (Me),0
+USESX,Eddystone,0
+JPSHN,Shingu,0
+JPOKA,Okinawa,0
+JPOTK,Otake,0
+JPSAG,Saganoseki,0
+JPSAE,Saiki,0
+JPTKM,Takuma,0
+JPTAE,Tanabe,0
+KIFIS,Fanning Island,0
+KITRW,Tarawa Atoll,0
+KNBAS,Basseterre,0
+CACHR,Chandler,0
+CACHA,Charlottetown,0
+PHMNL,Manila,0
+IELMK,Limerick,0
+JPTOK,Tokachi,0
+JPTKA,Tokai,0
+MZUEL,Quelimane,0
+KWKWM,Khor Al Mufatta,0
+JPTND,Tonda,0
+KPWON,Wonsan,0
+KRBOR,Boryeong,0
+PHGIN,Gingook,0
+	PRGU,Tallaboa Bay,0
+NORAF,Rafnes,0
+KRCHA,Jeju,0
+KROKP,Okpo,0
+JPOMU,Omuta,0
+LYMTH,Mellita,0
+NORIS,Risor,0
+OMSLL,Salalah,0
+LBCHK,Chekka,0
+LBSEL,Selaata,0
+LCVIF,Vieux Fort,0
+LKJAF,Jaffna,0
+LKKNK,Kankesanturai,0
+BMBDA,"Hamilton, Bermuda (U.K.)",0
+LRCPA,Cape Palmas,0
+LRGRE,Greenville,0
+JPTKT,Taketoyo,0
+KHKOS,Sihanoukville,0
+PGKIM,Kimbe,0
+LVSKU,Skulte,0
+MXPAJ,Pajaritos,0
+MYBGK,Bunga Kekwa,0
+NLVLA,Vlaardingen,0
+LYABK,Abu Kammash,0
+CACHV,Churchill,0
+UYPTP,Punta Pereira,0
+NOIKR,Ikornes,0
+PELOB,Punta Lobitos,0
+MXACA,Acapulco,0
+MXCPE,Campeche,0
+NLSVG,Sas Van Ghent,0
+LYZUA,Zuara,0
+MCMON,Monaco,0
+PEATI,Atico,0
+PECAB,Cabo Blanco,0
+PECON,Conchan,0
+MYBWH,Butterworth,0
+CAWHH,Whiffen Head,0
+MEBIJ,Bijela,0
+NOAND,Aandalsnes,0
+METIV,Tivat,0
+MGEHL,Port Dehoala,0
+NCNEP,Nepoui,0
+MGPSL,Port Saint Louis,0
+MGTOA,Toamasina,0
+MYLGK,Langkawi,0
+USTHB,Two Harbors,0
+NOKRV,Knarrevik,0
+NOLOD,Lodingen,0
+MYTOD,Tioman Anchorage,0
+MHKWA,Kwajalein,0
+MMBSX,Bassein,0
+JPKMJ,Kumamoto,0
+JPMTS,Matsuura,0
+JPMUT,Mutsu Ogawara,0
+MYPGG,Pengerang,0
+MYPRA,Prai,0
+MXPVN,Punta Venado,0
+MXSJC,San Juan De La Costa,0
+MXSMI,San Marcos,0
+MXSRL,Santa Rosalia,0
+USUAC,Bristol (Usa),0
+PAAGD,Aguadulce,0
+MZPEB,Pebane,0
+NCKOU,Kouaoua,0
+NCPOR,PORO,0
+NCVAV,Vavouto Port,0
+NGAPP,Apapa,0
+NGBOT,Bonga,0
+NZPOE,Port Chalmers,0
+NZTHH,Taharoa,0
+NZWAG,Wanganui,0
+NGBUR,Burutu,0
+CASUM,Summerside,0
+CASYD,"Sydney, N.S., Canada",0
+TRDIK,Dikili,0
+TRDYL,Dortyol,0
+USBAY,Bayonne (Nj),0
+NGOKR,Okrika,0
+NGOKW,Okwori Opl 90,0
+NGTIN,Tin Can Island,0
+KNNEV,"Charlestown, (Nevis Is.), St. Kitts",0
+PHMSC,Masinloc,0
+PHMXI,Mati,0
+NOLIL,Lillesand,0
+SESTU,Stugsund,0
+NIPUZ,Puerto Cabezas,0
+NISJS,San Juan Del Sur,0
+NLROZ,Rozenburg,0
+KRTJI,Tangjin,0
+TRFAS,Fatsa,0
+USATR,Atreco,0
+LBQJN,Jounieh,0
+UAIZM,Izmail,0
+PHQUE,Quezon,0
+SEVVK,Vastervik,0
+NOHUS,Husnes,0
+NOKAS,Karmsund,0
+NOKRA,Kragero,0
+LRHAR,Harper,0
+NOKVD,Kvinesdal,0
+QAHMD,Hamad Port ,0
+SJLYR,Longyearbyen,0
+NOMOL,Molde,0
+NOMOS,Mosterhamn,0
+NOSRA,Sorreisa,0
+NOTHA,Thamshavn,0
+SEUTA,Utansjo,0
+SEVAJ,Vaja,0
+NZOPX,Opua,0
+NOTVE,Tvedestrand,0
+OMMCT,Muscat,0
+NOTSX,Tyssedal,0
+MARBA,Rabat,0
+MA PT,Tanger-Mediterranee,0
+MGTMM,Tamatave,0
+MGTLE,Tulear,0
+MXCME,Ciudad Del Carmen,0
+MYJHB,Johore Bahru,0
+PEEEN,Eten,0
+NOASV,Austevoll,0
+CA SS,Sault Ste. Marie,0
+NZPCN,Picton,0
+PABOC,Bocas Del Toro,0
+PACSO,Coco Solo North,0
+REREU,Port Reunion,0
+ROBRA,Braila,0
+ROSUL,Sulina,0
+CASEI,Seven Islands,0
+PEHCO,Huacho,0
+NLMSL,Maassluis,0
+USPLL,Port Allen (Haw),0
+CKAIT,Aitutaki Is.,0
+SARAZ,Ras Al Khair,0
+PEPMC,Pampa Melchorita,0
+PEPMT,Pimintel,0
+	PESU,Supe Bay,0
+PGGUR,Alotau,0
+SEKUB,Kubikenborg,0
+PGKVG,Kavieng,0
+NOHOL,Holmestrand,0
+RUPKC,Petropavlovsk,0
+USDLH,Duluth-Superior,0
+PGKIE,Kieta,0
+USSKY,Sandusky,0
+YTLON,Longoni,0
+PKGWD,Gwadar,0
+BRMGU,Munguba,0
+BRNAT,"Natal, Brazil",0
+SESKE,Skelleftehamn,0
+ZAZBA,Coega,0
+PGLOR,Lorengau,0
+CASOR,Sorel,0
+CGPNR,"Pointe Noire, Congo, Rep. of",0
+TRFET,Fethiye,0
+USUDE,Burnside,0
+TRGEL,Gelibolu,0
+PGVAI,Vanimo,0
+PRPNU,Puerto Nuevo (Puerto Rico),0
+PHALC,Alcoy,0
+PKQCT,Muhammad Bin Qasim,0
+PHMBT,Masbate,0
+PHOLO,Olongapo,0
+PLKOL,Kolobrzeg,0
+USPEA,Pearl Harbour,0
+OMRAY,Mina Raysut,0
+PHAPR,Aparri,0
+BRGUA,Guamare,0
+BRIOS,Ilheus,0
+PHJPM,Jose Panganiban,0
+VN CR,Ba Ngoi,0
+PHBPH,Bislig,0
+USPBG,Pittsburg (Ca),0
+SEKLI,Klintehamn,0
+BRIBB,Imbituba,0
+PRPJO,Aguirre,0
+PHJOL,Jolo,0
+USBUF,Buffalo,0
+PHLIC,Legazpi,0
+PFPPT,Papeete,0
+PGMAS,Manus Island,0
+CASQA,Squamish,0
+AEAJM,Ajman,0
+PHTBG,Tabangao,0
+USMNM,Menominee,0
+PTCNL,Canical,0
+PHPLC,Polloc,0
+THPKK,Bangsaphan,0
+PHPPS,Puerto Princesa,0
+SDSWA,Suakin,0
+PHRXS,Roxas,0
+PKBQM,Port Muhammad Bin Qasim,0
+PTFAO,Faro,0
+PHSCA,San Carlos (Philippines),0
+PHSFE,San Fernando,0
+TTCHA,Chaguaramas,0
+PHTTO,Taganito,0
+PHSNG,Sangi,0
+PTFDF,Figueira Da Foz,0
+PTOPO,Oporto,0
+PTVRL,Vila Real De Santo Antonio,0
+AEMKH,Mina Khalid,0
+PHSMA,Santa Maria (Philippines),0
+PHSUG,Surigao,0
+PHTBC,Tabaco,0
+PHTGO,Tagoloan,0
+PHTLD,Toledo (Philippines),0
+REPDG,Pointe Des Galets,0
+PRGUX,Guanica,0
+PHMNN,Manila - Harbour Centre,0
+PHMNS,Manila - South Harbour,0
+THKBV,Krabi,0
+ROGAL,Galati,0
+RUSAK,Aleksandrovsk Sakhalinsky,0
+INSTV,Surat,0
+BRPOU,Ponta Ubu,0
+RUAMV,Amderma,0
+RUAZO,Azov,0
+QA ME,Mesaieed,0
+STTMS,Sao Tome,0
+RERUN,Port Est; Reunion Port,0
+USZMV,Melville,0
+CNYNT,Yantai,0
+CASJF,"St John""s, Newfoundland, Canada",0
+CASTV,Stephenville,0
+BRMCZ,Maceio,0
+RUBOS,Boshnyakovo,0
+RUDUD,Dudinka,0
+RUIAA,Igarka,0
+SEVAL,Vallvik,0
+BRPEC,Pecem,0
+RUMVO,Moskalvo,0
+SARAM,Ras Al Mishab,0
+BRSAN,Santana,0
+CLCLR,Caleta Clarencia,0
+TGKPE,Kpeme,0
+USHTD,Huntington Beach,0
+RUOYE,OKTYABRSK,0
+RU VA,Varandey,0
+USCZS,Chelsea,0
+RUONG,Onega,0
+SNKLC,Kaolak,0
+USEZA,Elizabeth (Nj),0
+THURT,Surat Thani,0
+RUPWE,Pevek,0
+USRWC,Redwood City,0
+CLCLD,"Caldera, Chile",0
+TRGCK,Gocek,0
+RUPVS,Provideniya,0
+TTLAB,La Brea,0
+RURND,Rostov-Na-Donu,0
+SEHUS,Husum,0
+SBXYA,Yandina,0
+RUSAB,Sabetta,0
+RUSHA,Shakhtersk,0
+RUSOK,Sovetskaya Gaven,0
+RUTAM,Taman,0
+RUUGL,Uglegorsk,0
+RUZAR,Zarubino,0
+VNVCA,Can Tho,0
+USRSF,Reserve,0
+USREZ,Revere,0
+SEKHN,Kristinehamn,0
+SELDK,Lidkoping,0
+SELOU,Loudden,0
+SEMSD,Marstrand,0
+USBOH,Bohemia,0
+SESAE,Sandarne,0
+SESFT,Skelleftea,0
+SEVBY,Visby,0
+SENCS,Nacka - Bergs Oil Harbour,0
+SGJUR,Jurong Marine Base,0
+SGSCT,Keppel Harbour,0
+SHASC,Ascension Island,0
+SEMON,Monsteras,0
+SERNB,Ronneby,0
+SERUV,Rundvik,0
+SNZIG,Ziguinchor,0
+INCOK,Cochin,0
+INDAH,Dahej,0
+INHAL,Haldia,0
+JPNNO,Nanao,0
+PGLAE,Lae,0
+IDBXT,Bontang,0
+TRBTN,Bartin,0
+INPAV,Pipavav,0
+INPBD,Porbandar,0
+INTUT,Tuticorin,0
+MYPGU,Pasir Gudang,0
+TMKRW,Turkmenbashi,0
+BSOCE,Ocean Cay,0
+TNTUN,Tunis,0
+USASX,Ashland,0
+TRBXN,Bodrum,0
+TRDAR,Darica,0
+UAYAL,Yalta,0
+USGHR,Aberdeen (Usa),0
+ARPLO,Punta Loyola,0
+USBTH,Bath,0
+USBCY,Bay City,0
+USHNH,Hoonah,0
+USCCJ,Cape Charles,0
+USFEB,Fernandina,0
+USOYF,Coeymans,0
+USCRM,Crockett,0
+USDEX,Deer Park,0
+USKES,Kenner,0
+USOTZ,Kotzebue,0
+CATOR,Toronto,0
+USERI,Erie,0
+USEKA,Eureka,0
+BNKUB,Kuala Belait,0
+VEARA,Araya,0
+VEBOC,Boca Grande (Ven),0
+CAVLF,Valleyfield,0
+USFPR,Fort Pierce,0
+USGPK,Galena Park,0
+USGGE,Georgetown (Sc),0
+USGRB,Green Bay,0
+USPHX,Phoenix,0
+USPTT,"Port Allen, Louisiana, U.S.A.",0
+AWORJ,Oranjestad,0
+AWAUA,Barcadera,0
+USHQM,Hoquiam,0
+USHYG,Hydaburg,0
+SHSHN,Jamestown,0
+USFOC,Port Fourchon,0
+BEBGS,Bruges,0
+USJOA,Johnston Island Harbor,0
+USJNU,Juneau,0
+ARPGV,Puerto Galvan,0
+VNDQT,Dung Quat Petroleum Port,0
+BRTMT,Trombetas,0
+COCIE,Cienaga,0
+BSSRP,South Riding Point,0
+USMTM,Metlakatla,0
+USSUT,Sunny Point,0
+USTVC,Traverse City,0
+USLMO,Morgan City,0
+VNGDA,Go Dau,0
+USMLG,Moss Landing,0
+USMKG,Muskegon,0
+USNNK,Naknek,0
+USNIJ,Nawiliwili,0
+USNPT,Newport (Ri),0
+USOGS,Ogdensburg,0
+USOL2,Oleum,0
+USOLM,Olympia,0
+GQLUB,Luba,0
+ISNES,Neskaupstadur,0
+ISVES,Vestmannaeyjar,0
+CLHSO,Huasco,0
+CLLQN,Lirquen,0
+VELEC,Bulkwayuu,0
+USPIS,Port Isabel,0
+USSPQ,San Pedro Calif,0
+USPLV,Port Lavaca,0
+USPMV,Port Mackenzie,0
+USLUA,Port Of South Louisiana,0
+USPRJ,Port Royal (Sc),0
+USSAB,Sabine,0
+USSBA,Santa Barbara,0
+USSEL,Selby,0
+USXLX,Stamford (Ct),0
+VELSP,Las Piedras,0
+VNNGT,Nghe Tinh,0
+CNLIH,Lianhuashan,0
+VEPLA,Palua,0
+CLSAI,"San Antonio, Chile",0
+USTTN,Trenton,0
+BRBVS,Breves,0
+CAGOO,Goose Bay,0
+CAHAM,"Hamilton, Ontario, Canada",0
+CAHMC,Harmac,0
+USWQF,Whittier,0
+USWRG,Wrangell,0
+USWVF,Wrightsville,0
+IDPLA,Plaju,0
+USYAK,Yakutat,0
+VEGUI,Guiria,0
+VEPHO,Puerto De Hierro,0
+VEPSU,Puerto Sucre,0
+CAHOD,Holyrood,0
+VNXNG,Quang Ngai,0
+CNNBO,Ningbo,0
+CNNGB,Ningbo,0
+YESAL,Saleef,0
+YTDZA,Dzaoudzi,0
+CLTAL,Talcahuano,0
+TWKEL,Keelung,0
+AUPST,Port Stanvac,0
+AUPTJ,"Portland, Vic., Australia",0
+CNHUA,Huangpu (formerly Whampoa),0
+SRMOJ,Moengo,0
+	SRSM,Smalkalden,0
+USHR3,Hampton Roads,0
+VNDNA,Dong Nai,0
+VNNGH,Nghi Son,0
+CNTXG,Tianjin Xingang,0
+ADZZZ,O P ANDORRA,1
+AEAUH,ABU DHABI,1
+AEFAT,FATEH TERMINAL,1
+AEMUB,MUBAREK TERMINAL,1
+AERUW,RUWAIS,1
+AEZZZ,O P UNITED ARAB EMIRATES,1
+AFBIN,BAMIAN,1
+AFCCN,CHAKCHARAN,1
+AFDAZ,DARWAZ,1
+AFFBD,FAIZABAD,1
+AFHEA,HERAT,1
+AFKBL,KABUL,1
+AFKDH,KANDAHAR,1
+AFLQN,QALA NAU,1
+AFMMZ,MAIMANA,1
+AFMZR,MAZAR-I-SHARIF,1
+AFSGA,SHEGHNAN,1
+AFTII,TIRINKOT,1
+AFUND,KUNDUZ,1
+AFURZ,UROOZGAN,1
+AFZZZ,O P AFGHANISTAN,1
+AGANU,ANTIGUA/ST JOHNS,1
+AGBBQ,BARBUDA,1
+AGZZZ,O P ANTIGUA & BARBUDA,1
+AIAXA,ANGUILLA/WALL BAKE APT,1
+AIBLP,BLOWING POINT,1
+AIFOR,THE FOREST,1
+AIROA,THE ROAD,1
+AIZZZ,O P ANGUILLA,1
+ALTIA,TIRANA,1
+ALZZZ,O P ALBANIA,1
+AMDJU,DJULFA,1
+AMKKN,KIROVAKAN,1
+AMLNK,LENINAKAN,1
+AMYRN,YEREVAN,1
+AMZZZ,O P ARMENIA,1
+ANAUA,ARUBA,1
+ANBAR,BARCADERA,1
+ANBON,BONAIRE APT,1
+ANBUB,BULLEN BAY,1
+ANBUS,BUSHIRIBANA,1
+ANCRB,"CARACAS BAY, CURACAO",1
+ANCUR,CURACAO/HATO APT,1
+ANEMM,EMMASTAD,1
+ANEUX,ST EUSTATIUS,1
+ANFUI,FUIK BAY,1
+ANKRA,"KRALENDIJK, BONAIRE",1
+ANORJ,"ORANJESTAD, ARUBA",1
+ANRIN,"RINCON, BONAIRE",1
+ANSAB,SABA IS,1
+ANSFG,ST MARTIN,1
+ANSMB,ST MICHIELS BAY,1
+ANSNL,"SAN NICOLAAS, ARUBA",1
+ANSXM,ST MAARTEN,1
+ANWIL,"WILLEMSTAD, CURACAO",1
+ANZZZ,O P NETHERLANDS ANTILLES,1
+AOAMZ,AMBRIZ,1
+AOBDD,BARRA DO DANCE,1
+AOBDT,BAIA DOS TIGRES,1
+AOBUG,BENGUELA,1
+AOCAV,CAZOMBO,1
+AODGR,DOMBE GRANDE,1
+AOJMB,JAMBA,1
+AOLAA,LANDANA,1
+AOLIE,LIEURA,1
+AOLUC,LUCIRA,1
+AOMEG,MALANGE,1
+AONOE,NOVO REDONDO,1
+AOPLE,PORTO ALEXANDRE,1
+AOSAZ,SAN ANTONIO DO ZAIRE,1
+AOZZZ,O P ANGOLA,1
+AQMCM,MCMURDO,1
+AQPLM,PALMER,1
+AQZZZ,O P ANTARCTICA,1
+ARAEP,BUENOS AIRES-AEROPARQUE APT,1
+ARAFA,SAN RAFAEL,1
+ARAOL,PASO DE LOS LIBRES,1
+ARARR,ALTO RIO SENGUERR,1
+ARBQS,BARRANQUERAS,1
+ARBRC,SAN CARLOS DE BARILOCHE,1
+ARCLO,CALETA OLIVIA,1
+ARCNQ,CORRIENTES,1
+ARCOC,CONCORDIA,1
+ARCOL,COLON,1
+ARCOR,CORDOBA,1
+ARCTC,CATAMARCA,1
+AREQS,ESQUEL,1
+AREZE,BUENOS AIRES-EZEIZA APT,1
+ARFMA,FORMOSA,1
+ARGGS,GOBERNADOR GREGORES,1
+ARGPO,GENERAL PICO,1
+ARIGR,IGUAZU,1
+ARING,LAGO ARGENTINO,1
+ARIRJ,LA RIOJA,1
+ARJSM,JOSE DE SAN MARTIN,1
+ARJUJ,JUJUY,1
+ARLUQ,SAN LUIS,1
+ARMDN,PUERTO MADRYN,1
+ARMDZ,MENDOZA,1
+ARNQN,NEUQUEN,1
+AROYA,GOYA,1
+AROYO,TRES ARROYOS,1
+ARPCY,PILCOMAYO,1
+ARPMQ,PERITO MORENO,1
+ARPSS,POSADAS,1
+ARRCQ,RECONQUISTA,1
+ARRCU,RIO CUARTO,1
+ARREL,TRELEW,1
+ARRES,RESISTENCIA,1
+ARROY,RIO MAYO,1
+ARRSA,SANTA ROSA,1
+ARRYO,RIO TURBIO,1
+ARRZA,SANTA CRUZ,1
+ARSDE,SANTIAGO DEL ESTERO,1
+ARSLA,SALTA,1
+ARSPD,SAN PEDRO,1
+ARTUC,TUCUMAN,1
+ARUAQ,SAN JUAN,1
+ARUSH,USHUAIA,1
+ARUZU,CURUZU CUATIA,1
+ARVDM,VIEDMA,1
+ARVLG,VILLA GESELL,1
+ARVME,VILLA MERCEDES,1
+ARZZZ,O P ARGENTINA,1
+ASZZZ,O P AMERICAN SAMOA,1
+ATSZG,SALZBURG,1
+ATVEN,VIENNA,1
+ATVIE,WIEN,1
+ATZZZ,O P AUSTRIA,1
+AUABG,"ABINGDON, QL",1
+AUABH,"ALPHA, QL",1
+AUABM,"BAMAGA, QL",1
+AUABX,"ALBURY, NS",1
+AUADO,"ANDAMOOKA, SA",1
+AUAGW,"AGNEW, QL",1
+AUARD,"ARDROSSAN, SA",1
+AUARM,"ARMIDALE, NS",1
+AUASP,"ALICE SPRINGS, NT",1
+AUAXC,"ARAMAC, QL",1
+AUAXL,"ALEXANDRIA, NT",1
+AUAYQ,"AYERS ROCK, NT",1
+AUBAH,"BALLAST HEAD, SA",1
+AUBCH,"BEACHPORT, SA",1
+AUBCI,"BARCALDINE, QL",1
+AUBDB,"BUNDABERG, QL",1
+AUBHQ,"BROKEN HILL, NS",1
+AUBHS,"BATHURST, NS",1
+AUBIP,"BULIMBA, QL",1
+AUBKQ,"BLACKALL, QL",1
+AUBLS,"BOLLON, QL",1
+AUBLT,"BLACKWATER, QL",1
+AUBMP,"BRAMPTON, QL",1
+AUBMW,"BROADMEADOWS, VI",1
+AUBQW,"BALGO HILLS, WA",1
+AUBRK,"BOURKE, NS",1
+AUBRT,"BATHURST ISLAND, NT",1
+AUBRW,"BARROW ISLAND, WA",1
+AUBSJ,"BAIRNSDALE, VI",1
+AUBUR,"BURNIE, TS",1
+AUBUS,"BUSSELTON, WA",1
+AUBVI,"BIRDSVILLE, QL",1
+AUBVL,BROCKVILLE,1
+AUBWQ,"BREWARRINA, NS",1
+AUBYP,"BEAUTY POINT, TG",1
+AUCAZ,"COBAR, NS",1
+AUCBC,"CHERRABUN, WA",1
+AUCBR,CANBERRA,1
+AUCBX,"CONDOBOLIN, NS",1
+AUCED,"CEDUNA, SA",1
+AUCFS,"COFFS HARBOUR, NS",1
+AUCHB,"CATHERINE HILL BAY, NS",1
+AUCKI,"CROKER ISLAND, NT",1
+AUCLL,COLLAN ISLANDS,1
+AUCLR,"CLARENCE RIVER, NS",1
+AUCMA,"CUNNAMULLA, QL",1
+AUCMD,"COOTAMUNDRA, NS",1
+AUCML,"CAMOOWEAL, QL",1
+AUCMQ,"CLERMONT, QL",1
+AUCNJ,"CLONCURRY, QL",1
+AUCOB,"CORIO BAY, VI",1
+AUCOM,"COOMA, NS",1
+AUCOW,"COROWA, NS",1
+AUCPD,"COOBER PEDY, SA",1
+AUCSI,"CASINO, NS",1
+AUCTL,"CHARLEVILLE, QL",1
+AUCTN,"COOKTOWN, QL",1
+AUCUD,"CALOUNDRA, QL",1
+AUCUY,"CUE, WA",1
+AUCVC,"CLEVE, SA",1
+AUCWT,"COWRA, NS",1
+AUCXT,"CHARTERS TOWERS, QL",1
+AUDAA,"DARRA, QL",1
+AUDBO,"DUBBO, NS",1
+AUDDI,"DAYDREAM ISLAND, QL",1
+AUDGE,"MUDGEE, NS",1
+AUDKI,"DUNK ISLAND, QL",1
+AUDNM,"DENHAM, WA",1
+AUDNQ,"DENILIQUIN, NS",1
+AUDRN,"DIRRANBANDI, QL",1
+AUEDB,"EDITHBURGH, SA",1
+AUELC,"ELCHO ISLAND, NT",1
+AUELE,"ELECTRONA, TA",1
+AUEMD,"EMERALD, QL",1
+AUEXM,"EXMOUTH GULF, WA",1
+AUFLS,"FLINDERS ISLAND, TS",1
+AUFLY,"FINLEY, NS",1
+AUFRA,FRASER PORT,1
+AUGAH,"GAYNDAH, QL",1
+AUGBL,"GOULBURN ISLAND, NT",1
+AUGFF,"GRIFFITH, NS",1
+AUGFN,"GRAFTON, NS",1
+AUGKL,"GREAT KEPPEL, QL",1
+AUGLI,"GLEN INNES, NS",1
+AUGLY,"GOLDSWORTHY, WA",1
+AUGOO,"GOONDIWINDI, QL",1
+AUGPN,"GARDEN POINT, NT",1
+AUGRH,GREENHEAD,1
+AUGSC,"GASCOYNE JUNCTION, WA",1
+AUGTE,"GROOTE EYLANDT, NT",1
+AUHAP,"HAPPY BAY, QL",1
+AUHGD,"HUGHENDEN, QL",1
+AUHIS,"HAYMAN ISLAND, QL",1
+AUHLT,"HAMILTON, VI",1
+AUHNK,"HINCHINBROOK ISLAND, QL",1
+AUHOK,"HOOKER CREEK, NT",1
+AUHOT,HOPE TOWN,1
+AUHRN,"HORN ISLAND, QL",1
+AUHVB,"HERVEY BAY, QL",1
+AUHXX,"HAY, NS",1
+AUIFL,"INNISFAIL, QL",1
+AUIPS,"IPSWICH, QL",1
+AUISA,"MOUNT ISA, QL",1
+AUISI,"ISISFORD, QL",1
+AUJCK,"JULIA CREEK, QL",1
+AUKAH,"MELBOURNE-CITY HELIPORT, VI",1
+AUKCE,"COLLINSVILLE, QL",1
+AUKGC,"KINGSCOTE, SA",1
+AUKGI,"KALGOORLIE, WA",1
+AUKIB,KING BAY,1
+AUKIT,"KINGSTON, SA",1
+AUKKP,"KOOLBURRA, QL",1
+AUKLP,KLEIN POINT,1
+AUKNS,"KING ISLAND, TS",1
+AUKNX,"KUNUNURRA, WA",1
+AUKPS,"KEMPSEY, NS",1
+AUKTR,"KATHERINE, NT",1
+AULAB,"LADY BARRON, TS",1
+AULDH,"LORD HOWE ISLAND, NS",1
+AULEA,"LEARMONTH, WA",1
+AULEL,"LAKE EVELLA, NT",1
+AULGH,"LEIGH CREEK, SA",1
+AULLL,"LISSADELL, WA",1
+AULNO,"LEONORA, WA",1
+AULRE,"LONGREACH, QL",1
+AULVO,"LAVERTON, WA",1
+AUMBB,"MARBLE BAR, WA",1
+AUMBH,"MARYBOROUGH, QL",1
+AUMCY,"MAROOCHYDORE, QL",1
+AUMEB,"MELBOURNE-ESSENDON APT, VI",1
+AUMIH,"MITCHELL PLATEAU, WA",1
+AUMIM,"MERIMBULA, NS",1
+AUMIN,"MINNIPA, SA",1
+AUMIZ,"MAINORU, NT",1
+AUMLR,"MELROSE, SA",1
+AUMMG,"MOUNT MAGNET, WA",1
+AUMNG,"MANINGRIDA, NT",1
+AUMOV,"MORANBAH, QL",1
+AUMQL,"MILDURA, VI",1
+AUMRZ,"MOREE, NS",1
+AUMTQ,"MITCHELL, QL",1
+AUNAA,"NARRABRI, NS",1
+AUNGA,"YOUNG, NS",1
+AUNLL,"NULLAGINE, WA",1
+AUNOA,"NOWRA, NS",1
+AUNRA,"NARRANDERA, NS",1
+AUNSM,"NORSEMAN, WA",1
+AUNSO,"SCONE, NS",1
+AUNUB,"NUMBULWAR, NT",1
+AUNYN,"NYNGAN, NS",1
+AUOBA,"OBAN, QL",1
+AUODD,"OODNADATTA, SA",1
+AUOKB,"ORCHID BEACH, QL",1
+AUOKR,"YORKE ISLAND, QL",1
+AUOKY,"OAKEY, QL",1
+AUOPI,"OENPELLI, NT",1
+AUOSB,"OSBORNE ISLAND, WA",1
+AUPAE,PORT ADELAIDE,1
+AUPAU,"PORT ARTHUR, TS",1
+AUPBO,"PARABURDOO, WA",1
+AUPCT,PORT CURTIS,1
+AUPDG,"PORT DOUGLAS, QL",1
+AUPEA,"PENNESHAW, SA",1
+AUPER,"PERTH, WA",1
+AUPKE,"PARKES, NS",1
+AUPPP,"PROSERPINE, QL",1
+AUPQQ,"PORT MACQUARIE, NS",1
+AUPRB,PROPER BAY,1
+AUPRC,"PRICE, SA",1
+AUPWI,POINT WILSON,1
+AUPWR,PORT WARRENDER,1
+AURAM,RAMINGINING,1
+AURCM,"RICHMOND, QL",1
+AURMK,"RENMARK, SA",1
+AUROK,"ROCKHAMPTON, QL",1
+AURPM,"ROPER RIVER, NT",1
+AURTS,"ROTTNEST ISLAND, WA",1
+AUSBR,"SAIBAI ISLAND, QL",1
+AUSGO,"SAINT GEORGES, SA",1
+AUSGP,"SHAY GAP, WA",1
+AUSHB,"SHARK BAY, WA",1
+AUSIO,"SMITHTON, TS",1
+AUSNB,"SNAKE BAY, NT",1
+AUSNH,"STANTHORPE, QL",1
+AUSOI,"SOUTH MOLLE ISLAND, QL",1
+AUSRN,"STRAHAN, TS",1
+AUSXE,"SALE, VI",1
+AUTCA,"TENNANT CREEK, NT",1
+AUTHG,"THANGOOL, QL",1
+AUTIS,"THURSDAY ISLAND, QL",1
+AUTMW,"TAMWORTH, NS",1
+AUTOB,TOWFORD BAY,1
+AUTRO,"TAREE, NS",1
+AUTUM,"TUMUT, NS",1
+AUTWB,"TOOWOMBA, QL",1
+AUUEE,"QUEENSTOWN, TS",1
+AUUIR,"QUIRINDI, NS",1
+AUULP,"QUILPIE, QL",1
+AUUTB,"MUTTABURRA, QL",1
+AUVCD,"VICTORIA RIVER DOWNS, NT",1
+AUWAV,"WAVE HILL, NT",1
+AUWAZ,"WARWICK, QL",1
+AUWEP,"WESTERNPORT, VI",1
+AUWGA,"WAGGA WAGGA, NS",1
+AUWGE,"WALGETT, NS",1
+AUWIN,"WINTON, QL",1
+AUWIT,"WITTENDOM, WA",1
+AUWLL,WOLLOGORANG,1
+AUWNR,"WINDORAH, QL",1
+AUWNY,"WYNYARD, TS",1
+AUWOO,"WOOMERA, VI",1
+AUWOT,"WONTHAGGI, VI",1
+AUWUD,"WUDINNA, SA",1
+AUWUN,"WILUNA, WA",1
+AUWWY,"WEST WYALONG, NS",1
+AUWYD,"WYNDHAM, TS",1
+AUYUE,YUENDUMU,1
+AUZBO,"BOWEN, QL",1
+AUZVG,"SPRINGVALE, WA",1
+AUZZZ,O P AUSTRALIA,1
+AWZZZ,O P ARUBA,1
+AZBAK,BAKU,1
+AZKVD,KIROVABAD,1
+AZZZZ,O P AZERBAIJAN,1
+BAOMO,MOSTAR,1
+BASJJ,SARAJEVO,1
+BAZZZ,OTHER,1
+BBBGI,BRIDGETOWN,1
+BBZZZ,O P BARBADOS,1
+BDBZL,BARISAL,1
+BDCHL,CHALNA,1
+BDCLA,CUMILLA,1
+BDCXB,COX'S BAZAAR,1
+BDDAC,DHAKA,1
+BDDCA,DACCA,1
+BDIRD,ISHURDI,1
+BDJSR,JASHORE,1
+BDKHL,KHULNA,1
+BDMON,MONELLA,1
+BDNAR,NARAYANGANJ,1
+BDTKR,THAKURGAON,1
+BDZYL,SYLHET,1
+BDZZZ,O P BANGLADESH,1
+BECRL,CHARLEROI,1
+BELGG,LIEGE,1
+BENIE,NIEUWPOORT,1
+BEZZZ,O P BELGIUM,1
+BFBOY,BOBO DIOULASSO,1
+BFOUA,OUAGADOUGOU,1
+BFPUP,PO,1
+BFZZZ,O P BURKINA FASO,1
+BGAKH,AKHOTOPOL,1
+BGBRE,BREGOVO,1
+BGDKO,DUZAN KULAK,1
+BGGJE,GJECHEVO,1
+BGIOV,IOVKOVO,1
+BGKAL,KALOTINA,1
+BGKAN,KAPITAN ANDREEVO,1
+BGKAR,KARDAM,1
+BGKOL,KULATA,1
+BGLOM,LOM,1
+BGMTI,MALKO TARNOVO,1
+BGOLT,OLTOMANTSI,1
+BGORE,ORICHOVO,1
+BGPDV,PLOVDIV,1
+BGRDU,RUSE,1
+BGSLI,STANKE LISTCHKOVO,1
+BGSLS,SILISTRA,1
+BGSOF,SOFIA,1
+BGSOM,SOMOVIT,1
+BGSTR,STRESIMIROVTSI,1
+BGSVI,SVISTOV,1
+BGSWG,SVILENGRAD,1
+BGTOL,TOLBUHIN,1
+BGVAZ,VARNA-ZAPAD,1
+BGVID,VIDIN,1
+BGVTC,VRAACHKA TCHUKA,1
+BGZLA,ZLATAREVO,1
+BGZZZ,O P BULGARIA,1
+BHBAH,BAHRAIN,1
+BHMAN,MANAMA,1
+BHRAS,AL MUTAE,1
+BHZZZ,O P BAHRAIN,1
+BIBJM,BUJUMBURA,1
+BIZZZ,O P BURUNDI,1
+BJZZZ,O P BENIN,1
+BMFPT,FREEPORT,1
+BMHBI,HARBOR ISLAND,1
+BMSGE,ST GEORGES,1
+BMZZZ,O P BERMUDA,1
+BNBTN,BRUNEI TOWN,1
+BNBWN,BANDAR SERI BEGAWAN,1
+BNLUM,LUMUT,1
+BNZZZ,O P BRUNEI DARUSSALAM,1
+BOASC,ASCENSION,1
+BOCAM,CAMIRI,1
+BOCBB,COCHABAMBA,1
+BOCEP,CONCEPCION,1
+BOCIJ,COBIJA,1
+BOGUQ,GUAQUI,1
+BOGYA,GUAYARAMERIN,1
+BOLPB,LA PAZ,1
+BOMGD,MAGDALENA,1
+BOORU,ORURO,1
+BOPBU,PUERTO BUSCH,1
+BOPOI,POTOSI,1
+BOPSZ,PUERTO SUAREZ,1
+BORBQ,RURRENABAQUE,1
+BORIB,RIBERALTA,1
+BOSBL,SANTA ANA,1
+BOSJB,SAN JOAQUIN,1
+BOSJV,SAN JAVIER,1
+BOSRE,SUCRE,1
+BOSRJ,SAN BORJA,1
+BOSRZ,SANTA CRUZ,1
+BOTDD,TRINIDAD,1
+BOTJA,TARIJA,1
+BOZZZ,O P BOLIVIA,1
+BRAAI,ARRAIAS,1
+BRAAX,"ARAXA, MG",1
+BRALQ,"ALEGRETE, RS",1
+BRANT,"ANTONINA, PR",1
+BRAPS,"ANAPOLIS, GO",1
+BRAPU,"APUCARANA, PR",1
+BRARS,ARAGARCAS,1
+BRATM,ALTAMIRA,1
+BRAUX,ARAGUAINA,1
+BRBDC,BARRA DO CORDA,1
+BRBGV,"BENTO GONCALVES, RS",1
+BRBGX,"BAGE, RS",1
+BRBHZ,"BELO HORIZONTE/PAMPULHA APT,MG",1
+BRBNU,"BLUMENAU, SC",1
+BRBRB,BARREIRINHAS,1
+BRBSB,"BRASILIA, DF",1
+BRBSS,BALSAS,1
+BRBTF,BARAO DE TEFFE (ANTONINA),1
+BRBVB,"BOA VISTA, RR",1
+BRBVM,BELMONTE,1
+BRCAC,"CASCAVEL, PR",1
+BRCAU,"CARUARU, PE",1
+BRCAW,"CAMPOS, RJ",1
+BRCCI,"CONCORDIA, SC",1
+BRCDJ,CONCEICAO,1
+BRCGB,"CUIABA, MT",1
+BRCGH,SAO PAULO-COGONHAS APT,1
+BRCGR,"CAMPO GRANDE, MS",1
+BRCKO,"CORNELIO PROCOPIO, PR",1
+BRCMG,"CORUMBA, MS",1
+BRCNF,"BELO HORIZONTE, MG",1
+BRCPQ,"CAMPINAS, SP",1
+BRCPU,CURURUPU,1
+BRCPV,"CAMPINA GRANDE, PB",1
+BRCUK,SAO PAULO-CUMBICA APT,1
+BRCWB,"CURITIBA, PR",1
+BRCXJ,"CAXIAS DO SUL, RS",1
+BRCZB,"CRUZ ALTA, RS",1
+BRCZS,"CRUZEIRO DO SUL, AC",1
+BRDIQ,DIVINOPOLIS,1
+BRDNO,DIANOPOLIS,1
+BRERM,"ERECHIM, RS",1
+BRFEN,FERNANDO NORONHA,1
+BRFLN,"FLORIANOPOLIS, SC",1
+BRGEL,"SANTO ANGELO, RS",1
+BRGIG,RIO DE JANEIRO-GALEAO APT,1
+BRGJM,"GUAJARA MIRIM, GO",1
+BRGUJ,"GUARATINGUETA, SP",1
+BRGYN,"GOIANIA, GO",1
+BRIDO,SANTA ISABEL,1
+BRIGU,"IGUASSU FALLS, PR",1
+BRIJU,"IJUI, RS",1
+BRIMP,"IMPERATRIZ, MA",1
+BRITN,"ITABUNA, BA",1
+BRJCB,"JOACABA, SC",1
+BRJDF,"JUIZ DE FORA, MG",1
+BRJDO,JUAZEIRO DO NORTE,1
+BRJOI,"JOINVILLE, SC",1
+BRJPA,"JOAO PESSOA, PB",1
+BRLAJ,"LAJES, SC",1
+BRLDB,"LONDRINA, PR",1
+BRLVB,"LIVRAMENTO, RS",1
+BRMAB,"MARABA, PA",1
+BRMCU,"MACAU, RN",1
+BRMEA,"MACAE, RJ",1
+BRMGF,"MARINGA, PR",1
+BRMOC,"MONTES CLAROS, MG",1
+BRMTE,"MONTE ALEGRE, PA",1
+BRMVF,"MOSSORO, RN",1
+BRNTR,"NITEROI, RJ",1
+BRNVT,"NAVEGANTES, SC",1
+BROBI,OBIDOS,1
+BRPAV,"PAULO AFONSO, BA",1
+BRPET,"PELOTAS, RS",1
+BRPFB,"PASSO FUNDO, RS",1
+BRPGZ,"PONTA GROSSA, PR",1
+BRPHB,PARNAIBA,1
+BRPHY,PINHEIRO,1
+BRPME,PRAIA MOLE,1
+BRPNB,PORTO NACIONAL,1
+BRPPB,"PRES. PRUDENTE, SP",1
+BRPSW,"PASSOS, MG",1
+BRPTO,"PATO BRANCO, PR",1
+BRPVH,"PORTO VELHO, RO",1
+BRPVI,"PARANAVAI, PR",1
+BRQAB,"BRUSQUE, SC",1
+BRQAD,"GUARAPUAVA, PR",1
+BRQAH,"ALCANTARA, RJ",1
+BRQAU,"BEBEDOURO, SP",1
+BRQAV,"BENJAMIN CONSTANT, AM",1
+BRQBD,"BARRA DO PIRAI, RJ",1
+BRQBN,"BARRA MANSA, RJ",1
+BRQBX,"SOBRAL, CE",1
+BRQCC,"CAMACARI, BA",1
+BRQCD,"CAMPO BOM, RS",1
+BRQCF,"BIRIGUI, SP",1
+BRQCG,"CATAGUAZES, MG",1
+BRQCJ,"BOTUCATU, SP",1
+BRQCK,"CABO FRIO, RJ",1
+BRQCN,"CANELA, RS",1
+BRQCP,"CURRAIS NOVOS, RN",1
+BRQCV,"GUARULHOS, SP",1
+BRQCX,"SAO CAETANO DO SUL, SP",1
+BRQDB,"CACHOEIRA DO SUL, RS",1
+BRQDC,"DRACENA, SP",1
+BRQDF,"CONSELHEIRO LAFAIETE, MG",1
+BRQDL,"GUARAPARI, ES",1
+BRQDO,"ICOARACI, PA",1
+BRQDP,"DOM PEDRITO, RS",1
+BRQDQ,"DUQUE DE CAXIAS, RJ",1
+BRQGA,"GUAIRA, PR",1
+BRQGC,"LENCOIS PAULISTA, SP",1
+BRQGF,"MONTENEGRO, RS",1
+BRQGR,"POUSO ALEGRE, MG",1
+BRQHB,"PIRACICABA, SP",1
+BRQHE,"SAO BENTO DO SUL, SC",1
+BRQHF,"SAO SEBASTIAO DO CAI, RS",1
+BRQHG,"SETE LAGOAS, MG",1
+BRQHL,"CASTANHAL, PA",1
+BRQHT,"TEREZOPOLIS, RJ",1
+BRQHV,"NOVO HAMBURGO, RS",1
+BRQID,"TRES CORACOES, MG",1
+BRQIG,"IGUATU, CE",1
+BRQIH,"TRES RIOS, RJ",1
+BRQJA,"JARAGUA DO SUL, SC",1
+BRQJO,"CAMPOS DO JORDAO, SP",1
+BRQLB,"LAJEADO, RS",1
+BRQLL,"SAO LEOPOLDO, RS",1
+BRQMF,"MAFRA, SC",1
+BRQMI,"MOGI DAS CRUZES, SP",1
+BRQNE,"RIO NEGRINHO, SC",1
+BRQOC,"OSASCO, SP",1
+BRQPE,"PETROPOLIS, RJ",1
+BRQPS,"PIRASSUNUNGA, SP",1
+BRQRP,"GRAMADO, RS",1
+BRQRU,"RIO DO SUL, SC",1
+BRQRZ,"RESENDE, RJ",1
+BRQSB,"SAO BERNARDO DO CAMPO, SP",1
+BRQSC,"SAO CARLOS, SP",1
+BRQSD,"SAO GONCALO, RJ",1
+BRQSE,"SANTO ANDRE, SP",1
+BRQSJ,"SAO JOAO DEL REI, MG",1
+BRQVB,"UNIAO DA VITORIA, PR",1
+BRQVR,"VOLTA REDONDA, RJ",1
+BRRAO,"RIBEIRAO PRETO, SP",1
+BRRBR,"RIO BRANCO, AC",1
+BRRIA,"SANTA MARIA, RS",1
+BRRIO,"RIO DE JANEIRO, RJ",1
+BRSAO,"SAO PAULO, SP",1
+BRSDU,RIO DE JANEIRO-SANTOS DUMONT,1
+BRSJK,"SAO JOSE DOS CAMPOS, SP",1
+BRSTZ,SANTA TEREZINHA,1
+BRTBT,"TABATINGA, AM",1
+BRTFF,"TEFE, AM",1
+BRTHE,TERESINA,1
+BRTOW,TOLEDO,1
+BRUBA,"UBERABA, MG",1
+BRUBT,"UBATUBA, SP",1
+BRUDI,"UBERLANDIA, MG",1
+BRUMU,"UMUARAMA, PR",1
+BRURG,"URUGUAIANA, RS",1
+BRVCP,SAO PAULO-VIRACOPOS APT,1
+BRVOT,"VOTUPORANGA, SP",1
+BRXAP,"CHAPECO, SC",1
+BRZZZ,O P BRAZIL,1
+BSASD,"ANDROS TOWN, ANDROS ISLAND",1
+BSATC,"ARTHUR'S TOWN, CAT ISLAND",1
+BSBIM,BIMINI,1
+BSCCZ,"CHUB CAY, BERRY ISLANDS",1
+BSCEL,"CAPE ELEUTHERA, ELEUTHERA",1
+BSCOX,"CONGO TOWN, ANDROS ISLAND",1
+BSCRI,CROOKED ISLAND,1
+BSELH,NORTH ELEUTHERA,1
+BSGGT,"GEORGE TOWN, GREAT EXUMA ISL",1
+BSGHB,"GOVERNORS HARBOUR, ELEUTHERA",1
+BSGHC,"GREAT HARBOUR CAY, BERRY ISL",1
+BSGTC,"GREEN TURTLE CAY, GREAT ABACO",1
+BSHBI,"HARBOUR ISLAND, ELEUTHERA",1
+BSIGA,INAGUA,1
+BSLGI,"DEADMANS CAY, LONG ISLAND",1
+BSMHH,"MARSH HARBOUR, GREAT ABACO ISL",1
+BSMYG,MAYAGUANA ISLAND,1
+BSRSD,"ROCK SOUND, ELEUTHERA",1
+BSSAQ,"SAN ANDROS, ANDROS ISLAND",1
+BSSML,"STELLA MARIS, LONG ISLAND",1
+BSSWL,"SPANISH WELLS, ELEUTHERA",1
+BSTBI,"THE BIGHT, CAT ISLAND",1
+BSTCB,"TREASURE CAY, GREAT ABACO ISL",1
+BSWKR,WALKER'S CAY,1
+BSWTD,"WEST END, GRAND BAHAMA",1
+BSZSA,SAN SALVADOR ISLAND,1
+BSZZZ,O P BAHAMAS,1
+BTZZZ,O P BHUTAN,1
+BVZZZ,O P BOUVET ISLAND,1
+BWGBE,GABORONE,1
+BWKHW,KHWAI RIVER LODGE,1
+BWMUB,MAUN,1
+BWORP,ORAPA,1
+BWZZZ,O P BOTSWANA,1
+BYBQT,BREST,1
+BYMSQ,MENSK,1
+BYSVS,SVISLOCH,1
+BYZZZ,O P BELARUS,1
+BZCOL,COLINTO,1
+BZCZH,COROZAL,1
+BZMDB,MELINDA,1
+BZORZ,ORANGE WALK,1
+BZPND,PUNTA GORDA,1
+BZSPR,SAN PEDRO,1
+BZZZZ,O P BELIZE,1
+CAAAL,"ALERT BAY, BC",1
+CAAVO,"AVONDALE, NS",1
+CABAT,"BATHURST, NB",1
+CABCK,"BROCKVILLE, OT",1
+CABEA,"BEAVER COVER, BC",1
+CABGT,"BAGOTVILLE, QU",1
+CABJO,"BAIE JOHAN BEETZ, QU",1
+CABRI,"BRITANNIA BEACH, BC",1
+CABUI,"BURIN, NF",1
+CABUS,"BURNSIDE, NF",1
+CACAL,"CALGARY, AL",1
+CACAM,"CAMPBELL RIVER, BC",1
+CACAQ,"CARAQUET, NB",1
+CACAT,"CATALINA, NF",1
+CACCB,"COWICHAN BAY, BC",1
+CACHM,"CHEMAINUS, BC",1
+CACHT,"CHETICAMP, NS",1
+CACOL,"COLLINGWOOD, OT",1
+CACOM,"CAMPBELLTON, NB",1
+CACOP,"COPPERMINE, NT",1
+CACOU,"COURTENAY, BC",1
+CACRO,"CROFTON, BC",1
+CACRT,"CARTIER, OT",1
+CACWL,"CORNWALL, OT",1
+CADCN,"DUNCAN BAY, BC",1
+CADIG,"DIGBY, NS",1
+CADWL,"DINGWALL, NS",1
+CAEDM,EDMONTON,1
+CAENG,"ENGELWOOD, BC",1
+CAFAL,"FORT ALBANY, OT",1
+CAFBB,"FROBISHER BAY, NT",1
+CAFCM,"FORT CHIMO, QU",1
+CAFFS,"FORT FRANCES, OT",1
+CAFOR,"FORTUNE, NF",1
+CAFRE,"FREDRICTON, NB",1
+CAFRM,"FRASER MILLS, BC",1
+CAFSI,"FORT SIMPSON, NT",1
+CAFSJ,"FORT ST. JOHN, BC",1
+CAFSM,"FORT SMITH, NT",1
+CAGAL,"CAMBRIDGE (EX GALT), OT",1
+CAGAN,"GANDER, NF",1
+CAGDE,"GRANDEMERE, QU",1
+CAGGW,"GEORGETOWN, OT",1
+CAGOL,"GOLD RIVER, NS",1
+CAGPE,"GASPE, QU",1
+CAHAR,"HARRIET, BC",1
+CAHAT,"HATCH POINT, BC",1
+CAHOP,"HOPEDALE, NF",1
+CAHRE,"HARBOUR GRACE, NF",1
+CAHSG,"HAUT-SAGUENAY, QU",1
+CAJED,"JEDWAY, BC",1
+CAKOV,"KOVIK BAY, QU",1
+CAKTC,"KITCHENER, OT",1
+CALAC,"LACHINE, QU",1
+CALAD,"LADYSMITH, BC",1
+CALEV,"LEVIS, QU",1
+CALIV,"LIVERPOOL, NS",1
+CALMD,"LOMOND, NF",1
+CALOU,"LOUISBOURG, NS",1
+CALTW,"LISTOWEL, OT",1
+CALUN,"LUNENBURG, NS",1
+CAMIR,"MIRAMICHI BAY, NB",1
+CAMNT,"MONCTON, NB",1
+CAMOU,"MOOSONEE, OT",1
+CANAI,"NAIN, NF",1
+CANCT,"NEWCASTLE, NB",1
+CANEP,"NEPTUNE, SA",1
+CANIM,"NIMPKISH, BC",1
+CANNE,"NANOOSE, BC",1
+CANOR,"NORTH BAY, OT",1
+CANWE,"NEW WESTMINSTER, BC",1
+CANWP,"ARGENTIA, NF",1
+CAOAK,"OAKVILLE, OT",1
+CAOFA,"OCEAN FALLS, BC",1
+CAOTT,"OTTAWA, OT",1
+CAPAB,"PORT ALBERNI, BC",1
+CAPAC,"PORT ALICE, BC",1
+CAPAR,"PARRSBORO, NS",1
+CAPBH,"PETERBOROUGH, OT",1
+CAPBQ,"PORT AUX BASQUES, NF",1
+CAPCO,"PORT COLBORNE, OT",1
+CAPCR,"PORT CREDIT, OT",1
+CAPDV,"PORT DOVER, OT",1
+CAPER,"PERTH, OT",1
+CAPHY,"PORT HARDY, BC",1
+CAPIC,"PICTON, OT",1
+CAPMA,"PORT MCNEILL, BC",1
+CAPME,"PORT MENIER, QU",1
+CAPML,"PORT MELLON, BC",1
+CAPMO,"PORT MOODY, BC",1
+CAPNE,PORT NELSON,1
+CAPRS,"PARRY SOUND, OT",1
+CAPSI,"PORT SIMPSON, BC",1
+CAPST,"PORT STANLEY, OT",1
+CAPTA,"PORT TAHSIS, BC",1
+CAPWE,"PORT WELLER, OT",1
+CAQWA,OSHAWA,1
+CARDL,"RIVIERE-DU-LOUP, OT",1
+CAREG,"REGINA, SA",1
+CARIM,"RIMOUSKI, QU",1
+CASAD,"ST ANDREWS, NB",1
+CASAT,"ST ANTHONY, NF",1
+CASAU,"ST AUGUSTIN, QU",1
+CASBR,"SHERBROOKE, QU",1
+CASBU,"SHELBURNE, NS",1
+CASIC,"SIMCOE, OT",1
+CASJB,"SAINT JOHN, NB",1
+CASOU,"SOURIS, PE",1
+CASSM,"SAULT STE MARIE, OT",1
+CATAS,"TASU, BC",1
+CATEX,"TEXADA ISLAND, BC",1
+CATOQ,"TOQUART BAY, BC",1
+CATUK,"TUKTOYAKTUK, NT",1
+CAWAT,"WATSON LAKE, BC",1
+CAWEL,"WELLAND, OT",1
+CAWHI,"WHITBY, OT",1
+CAWND,"WINDSOR, OT",1
+CAWNP,"WINNIPEG, MN",1
+CAWOO,"WOODFIBRE, BC",1
+CAWTN,"WALTON, NS",1
+CAXBR,"BROCKVILLE APT, OT",1
+CAYAG,"FORT FRANCES APT, OT",1
+CAYAL,"ALERT BAY APT, BC",1
+CAYAM,"SAULT STE MARIE APT, OT",1
+CAYBC,"BAIE COMEAU APT, QU",1
+CAYBG,"BAGOTVILLE APT, QU",1
+CAYBJ,"BAIE JOHAN BEETZ APT, QU",1
+CAYBL,"CAMPBELL RIVER APT, BC",1
+CAYBU,"BURNSIDE APT, NF",1
+CAYBW,"BOTWOOD APT, NF",1
+CAYCD,"NANAIMO APT, BC",1
+CAYCO,"COPPERMINE APT, NT",1
+CAYFA,"FORT ALBANY APT, OT",1
+CAYFB,"FROBISHER BAY APT, NT",1
+CAYFC,"FREDRICTON APT, NB",1
+CAYFS,"FORT SIMPSON APT, NT",1
+CAYGK,"KINGSTON APT, OT",1
+CAYGP,"GASPE APT, QU",1
+CAYHM,"HAMILTON APT, OT",1
+CAYHO,"HOPEDALE APT, NF",1
+CAYHZ,"HALIFAX APT, NS",1
+CAYIF,"ST AUGUSTIN APT, QU",1
+CAYKF,"KITCHENER APT, OT",1
+CAYMO,"MOOSONEE APT, OT",1
+CAYPB,"PORT ALBERNI APT, BC",1
+CAYPD,"PARRY SOUND APT, OT",1
+CAYPN,"PORT MENIER APT, QU",1
+CAYPQ,"PETERBOROUGH APT, OT",1
+CAYPR,"PRINCE RUPERT APT, BC",1
+CAYPW,"POWELL RIVER APT, BC",1
+CAYQB,"QUEBEC APT, QU",1
+CAYQG,"WINDSOR APT, OT",1
+CAYQH,"WATSON LAKE APT, BC",1
+CAYQI,"YARMOUTH, NS",1
+CAYQM,"MONCTON APT, NB",1
+CAYQR,"REGINA APT, SA",1
+CAYQT,"THUNDER BAY APT, OT",1
+CAYQX,"GANDER APT, NF",1
+CAYQY,"SYDNEY APT, NS",1
+CAYRI,"RIVIERE DU LOUP APT, QU",1
+CAYSC,"SHERBROOKE APT, QU",1
+CAYSJ,"SAINT JOHN APT, NB",1
+CAYSM,"FORT SMITH APT, NT",1
+CAYSU,"SUMMERSIDE APT, PE",1
+CAYTU,"TASU APT, BC",1
+CAYUL,"MONTREAL-DORVAL APT, QU",1
+CAYVP,"FORT CHIMO APT, QU",1
+CAYVR,"VANCOUVER APT, BC",1
+CAYWG,"WINNIPEG APT, MN",1
+CAYWJ,"FORT FRANKLIN, NT",1
+CAYXJ,"FORT ST. JOHN APT, BC",1
+CAYXK,"RIMOUSKI APT, QU",1
+CAYYB,"NORTH BAY APT, OT",1
+CAYYC,"CALGARY APT, AL",1
+CAYYG,"CHARLOTTETOWN APT, PE",1
+CAYYJ,"VICTORIA APT, BC",1
+CAYYQ,"CHURCHILL APT, MN",1
+CAYYR,"GOOSE BAY APT, NF",1
+CAYYT,"ST JOHNS APT, NF",1
+CAYYZ,"TORONTO APT, OT",1
+CAYZR,"SARNIA APT, OT",1
+CAYZT,"PORT HARDY APT, BC",1
+CAYZV,"SEPT ILES/SEVEN ISLANDS APT,QU",1
+CAZBF,"BATHURST APT, NB",1
+CAZEB,"ZEBALLOS, BC",1
+CAZOF,"OCEAN FALLS APT, BC",1
+CAZZZ,O P CANADA,1
+CCCCK,COCOS ISLANDS,1
+CCZZZ,O P COCOS (KEELING) ISL,1
+CDANG,ANGO-ANGO,1
+CDBKY,BUKAVU,1
+CDBMB,BUMBA,1
+CDBNW,BANANA,1
+CDBOA,BOMA,1
+CDBSU,BASANKUSU,1
+CDBUX,BUNIA,1
+CDFBM,LUBUMBASHI,1
+CDFDU,BANDUNDU,1
+CDFKI,KISANGANI,1
+CDFMI,KALEMIE,1
+CDGMA,GEMENA,1
+CDGOM,GOMA,1
+CDIKL,IKELA,1
+CDINO,INONGO,1
+CDIRP,ISIRO,1
+CDKGA,KANANGA,1
+CDKKW,KIKWIT,1
+CDKMN,KAMINA,1
+CDKOO,KONGOLO,1
+CDLIE,LIBENGE,1
+CDLIQ,LISALA,1
+CDLJA,LODJA,1
+CDMAT,MATADI,1
+CDMDK,MBANDAKA,1
+CDMJM,MBUJI-MAYI,1
+CDMKL,MAKALA,1
+CDMNB,MOANDA,1
+CDMNO,MANONO,1
+CDNIO,NIOKI,1
+CDTSH,TSHIKAPA,1
+CDZZZ,O P CONGO DEM REP OF,1
+CFBBT,BERBERATI,1
+CFBGF,BANGUI,1
+CFBGU,BANGASSOU,1
+CFBOP,BOUAR,1
+CFIRO,BIRAO,1
+CFZZZ,O P CENTRAL AFRICAN REP,1
+CGBZV,BRAZZAVILLE,1
+CGDIS,LOUBOMO,1
+CGDJM,DJAMBALA,1
+CGEWO,EWO,1
+CGGMM,GAMBOMA,1
+CGION,IMPFONDO,1
+CGKMK,MAKABANA,1
+CGMBI,MBINDA,1
+CGMKJ,MAKOUA,1
+CGMOS,MOSSAKA,1
+CGNKY,NKAYI,1
+CGOUE,OUESSO,1
+CGOYO,OYO,1
+CGZZZ,O P CONGO,1
+CHBRN,BERN,1
+CHBSL,BASEL,1
+CHGVA,GENEVE,1
+CHZRH,ZURICH,1
+CHZZZ,O P SWITZERLAND,1
+CIASK,YAMOUSSOUKRO,1
+CIASS,ASSINIE,1
+CIBBE,BOUBELE,1
+CIBDK,BONDOUKOU,1
+CIBYK,BOUAKE,1
+CIDJO,DALOA,1
+CIFRE,FRESCO,1
+CIGBA,GRAND BASAM,1
+CIGLU,GRAND LAHOU,1
+CIHGO,KORHOGO,1
+CIJAB,JABOU,1
+CIJAC,JACQUIVILLE,1
+CIKEO,ODIENNE,1
+CIKOS,KOSAO,1
+CIMJC,MAN,1
+CIOGO,ABENGOUROU,1
+CIPBT,PORT BOUET,1
+CISPY,SAN PEDRO,1
+CITXU,TABOU,1
+CIZSS,SASSANDRA,1
+CIZZZ,O P COTE D'IVOIRE,1
+CKMOI,MITIARO ISLAND,1
+CKMUK,MAUKE ISLAND,1
+CKRAR,RAROTONGA,1
+CKZZZ,O P COOK ISL,1
+CLBAR,BARQUITO,1
+CLBBA,BALMACEDA,1
+CLCAL,CALETA PARILLOS,1
+CLCCP,CONCEPCION/TALCAHUANO,1
+CLCJC,CALAMA,1
+CLCPO,COPIAPO,1
+CLCRR,CORRAL,1
+CLCXQ,COYHAIQUE,1
+CLESR,EL SALVADOR,1
+CLIPC,ISLA DE PASCUA,1
+CLISG,ISLA GUARELLO,1
+CLKNA,VINA DEL MAR,1
+CLLEB,LEBU,1
+CLLOS,LOS VILOS,1
+CLLSC,LA SERENA,1
+CLLTA,LOTA,1
+CLMJS,MEJILLONES,1
+CLOVL,OVALLE,1
+CLPEO,PENCO,1
+CLPNT,PUERTO NATALES,1
+CLPPY,PUERTO PERCY,1
+CLPTI,PATILLOS,1
+CLQMC,QUEMCHI,1
+CLSCL,SANTIAGO-PUDAHUEL APT,1
+CLTHO,TALCAHUANO,1
+CLTLX,TALCA,1
+CLTOM,TOME,1
+CLTTC,TALTAL,1
+CLULC,SANTIAGO-LOS CERILLOS APT,1
+CLWCA,CASTRO,1
+CLWCH,CHAITEN,1
+CLWPA,PUERTO AYSEN/CHACABUCO,1
+CLWPU,PUERTO WILLIAMS,1
+CLZAL,VALDIVIA,1
+CLZCO,TEMUCO,1
+CLZIC,VICTORIA,1
+CLZOS,OSORNO,1
+CLZUD,ANCUD,1
+CLZZZ,O P CHILE,1
+CMBLC,BALI,1
+CMDSC,DSCHANG,1
+CMGOU,GAROUA,1
+CMKOB,KOUTABA,1
+CMMMF,MAMFE,1
+CMMVR,MAROUA,1
+CMOUR,BATOURI,1
+CMTKC,TIKO,1
+CMVCC,VICTORIA,1
+CMYAO,YAOUNDE,1
+CMZZZ,O P CAMEROON,1
+CNAKL,ALATAWSHA,1
+CNART,ARHAXAT,1
+CNASN,ANSHAN,1
+CNBAO,BAOSHANMATOU,1
+CNBAS,BASUO,1
+CNBAY,BAYUQUAN,1
+CNBHY,BEIHAI,1
+CNBJO,BEIJIAO,1
+CNBJS,BEIJING,1
+CNBUR,BURANG,1
+CNCAN,GUANGZHOU,1
+CNCGO,ZHENGZHOU,1
+CNCGQ,CHANGCHUN,1
+CNCGU,CHANGSHU,1
+CNCHE,CHENGAO,1
+CNCHG,CHENGHAI,1
+CNCHN,CHANG'AN,1
+CNCNH,CONGHUA,1
+CNCTU,CHENGDU,1
+CNCYG,CHAOYANG,1
+CNDAN,DAAN,1
+CNDGG,DONGGUAN,1
+CNDJT,DONGJIAOTOU,1
+CNDLC,DALIAN,1
+CNDNS,DANSHUI,1
+CNDOD,DANDONG,1
+CNDON,DONGNING,1
+CNDOU,DOUMEN,1
+CNDOX,DONGXING,1
+CNDQG,DAQING,1
+CNENP,ENPING,1
+CNFCN,FANGCUN,1
+CNFOC,FUZHOU,1
+CNFSN,FUSHUN,1
+CNFUG,FUQING,1
+CNFUJ,FUJIN,1
+CNFUY,FUYUAN,1
+CNGAO,GAOGANG,1
+CNGBP,GONGBEI,1
+CNGHI,GUANGHAI,1
+CNGIR,GYIRONG,1
+CNGNY,GUAN YAO,1
+CNGOM,GAOMING,1
+CNGQD,GANQMOD,1
+CNGUG,GUIGANG,1
+CNHAF,HAIFENG,1
+CNHAI,HAIAN,1
+CNHAK,HAIKOU,1
+CNHCN,HUACHUAN,1
+CNHDU,HUADU,1
+CNHEK,HEIHE,1
+CNHET,HOHHOT,1
+CNHFE,HEFEI,1
+CNHGG,HENGGANG,1
+CNHKM,HEKOU,1
+CNHKN,HAIKANG,1
+CNHLD,HAILAR,1
+CNHME,HAIMEN,1
+CNHNK,HANKOU,1
+CNHNY,HENGYANG,1
+CNHOP,HUANGPU OLD PORT,1
+CNHRB,HARBIN,1
+CNHRS,HORGOS,1
+CNHSC,SHAOGUAN,1
+CNHSH,HUANGSHAN,1
+CNHSN,HESHAN,1
+CNHST,HEISHANTOU,1
+CNHSZ,HONGSHANZUI,1
+CNHUC,HUNCHUN,1
+CNHUG,HUANGGANG,1
+CNHUL,HULIN,1
+CNHUM,HUMA,1
+CNHUN,HUANGPU NEW PORT,1
+CNJAY,JIAYIN,1
+CNJDZ,JINGDEZHEN,1
+CNJEM,JEMINAY,1
+CNJGH,JIANGHAI,1
+CNJGM,JINGMEN,1
+CNJGZ,JINGZHOU,1
+CNJHA,JINHUA,1
+CNJHG,JINGHONG,1
+CNJIA,JIANGYIN,1
+CNJIS,JIANGSHAN,1
+CNJMU,JIAMUSI,1
+CNJNG,JINING,1
+CNJSH,JINSHUIHE,1
+CNJXI,JIEXI,1
+CNJYG,JIEYANG,1
+CNJZU,JIUZHOU,1
+CNKAI,KAIKOU,1
+CNKHG,KASHI,1
+CNKHN,NANCHANG,1
+CNKJP,KUNJIRAP,1
+CNKMG,KUNMING,1
+CNKNC,JI'AN,1
+CNKST,KAISHANTUN,1
+CNKUS,KUNSHAN,1
+CNKWE,GUIYANG,1
+CNKWL,GUILIN,1
+CNLGG,LONGGANG,1
+CNLGN,LONGYAN,1
+CNLHW,LANZHOU,1
+CNLIN,LINJIANG,1
+CNLSI,LANSHI,1
+CNLUB,LUOBEI,1
+CNLUU,LELIU,1
+CNLWU,LAIWU,1
+CNLXA,LHASA,1
+CNLYG,LIANYUNGANG,1
+CNLYI,LINYI,1
+CNLYM,LAOYEMIAO,1
+CNLZH,LIUZHOU,1
+CNMAA,MAANSHAN,1
+CNMAN,MANZHOULI,1
+CNMAW,MAWEI,1
+CNMEZ,MEIZHOU,1
+CNMHN,MOHAN,1
+CNMIS,MISHAN,1
+CNMMI,MAOMING,1
+CNMOH,MOHE,1
+CNMZS,MAZONGSHAN,1
+CNNAH,NANHAI,1
+CNNAN,NANAO,1
+CNNAP,NANPING,1
+CNNDG,QIQIHAR,1
+CNNGG,NANGANG,1
+CNNKG,NANJING,1
+CNNNG,NANNING,1
+CNNTU,NANTOU,1
+CNPEK,CAPITAL INT APT-BEIJING,1
+CNPGW,PING WU,1
+CNPIN,PINGXIANG,1
+CNPNY,PANYU,1
+CNPUT,PUTIAN,1
+CNPVG,SHANGHAI PU DONG APT,1
+CNQLN,QINGLAN,1
+CNQSA,QISHA,1
+CNQYN,QINGYUAN,1
+CNQZJ,QUANZHOU,1
+CNRIW,RIWO,1
+CNRLC,ERENHOT,1
+CNRNG,RONGCHENG,1
+CNROH,RAOHE,1
+CNROQ,RONGQI,1
+CNRUI,RUILI,1
+CNSAH,SANHE,1
+CNSBM,SAN BEIMAN,1
+CNSBU,SANBU,1
+CNSFE,SUIFENHE,1
+CNSHA,SHANGHAI,1
+CNSHE,SHENYANG,1
+CNSIA,XI AN,1
+CNSIH,SIHUI,1
+CNSIN,SHATIAN,1
+CNSJQ,SANSHUI,1
+CNSJW,SHIJIAZHUANG,1
+CNSKO,SHUIKOU,1
+CNSNG,SONGJIANG,1
+CNSNW,SHENWAN,1
+CNSON,SONGXIA,1
+CNSTB,SHITOUBU,1
+CNSTJ,SHATOUJIAO,1
+CNSUD,SHUNDE,1
+CNSUW,SUNWU,1
+CNSWA,SHANTOU,1
+CNSWI,SHIWEI,1
+CNSXG,SHAOXING,1
+CNSYM,SIMAO,1
+CNSYX,SANYA,1
+CNTAG,TAICANG,1
+CNTAI,TAIAN,1
+CNTAP,TAIPING,1
+CNTAS,TANGSHAN,1
+CNTBO,TIANBAO,1
+CNTGU,TANGGU,1
+CNTKK,TAYKEXKIN,1
+CNTME,TUMEN,1
+CNTNA,JINAN,1
+CNTOL,TONGLING,1
+CNTRT,TURUGART,1
+CNTSH,TAISHAN,1
+CNTSI,TANSHUI,1
+CNTSN,TIANJIN,1
+CNTYN,TAIYUAN,1
+CNULT,ULASTAI,1
+CNURC,URUMQI,1
+CNWAN,WANDING,1
+CNWAZ,WANZAI,1
+CNWFG,WEIFANG,1
+CNWJD,WEIJINDU,1
+CNWUH,WUHAN,1
+CNWUS,WUSONG,1
+CNWUZ,WUZHOU,1
+CNWYS,WUYISHAN,1
+CNXGG,XINGANG,1
+CNXHO,XIAOHUDAO,1
+CNXIS,XIAOSHAN,1
+CNXIX,XI XIANG,1
+CNXNN,XINING,1
+CNXUK,XUNKE,1
+CNXUZ,XUZHOU,1
+CNYIH,YINCHUAN,1
+CNYIN,YINING,1
+CNYNF,YUNFU,1
+CNYNJ,YANJI,1
+CNYYG,YOUYIGUAN,1
+CNZEQ,ZHUENGADABUQI,1
+CNZJA,ZHANJIAKOU,1
+CNZMU,ZHAM,1
+CNZNG,ZENGCHENG,1
+CNZZZ,O P CHINA PEO REP OF,1
+COADZ,SAN ANDRES,1
+COAPO,APARTADO,1
+COAUC,ARAUCA,1
+COAXM,ARMENTIA,1
+COBGA,BUCARAMANGA,1
+COBOG,BOGOTA,1
+COCLO,CALI,1
+COCUC,CUCUTA,1
+COEBG,EL BAGRE,1
+COEJA,BARRANCABERMEJA,1
+COIGO,CHIGORODO,1
+COLET,LETICIA,1
+COMDE,MEDELLIN,1
+COMTR,MONTERIA,1
+COMZL,MANIZALES,1
+COPBE,PUERTO BERRIO,1
+COPEI,PEREIRA,1
+COPSO,PASTO,1
+COPUC,PUERTO COLOMBIA,1
+CORCH,RIOHACHA,1
+COTLU,TOLU,1
+COUIB,QUIBDU,1
+COZZZ,O P COLOMBIA,1
+CRGLF,GOLFITO,1
+CRLIR,LIBERIA,1
+CRLSL,LOS CHILES,1
+CRNCT,NICOYA,1
+CRPMZ,PALMAR,1
+CRPUM,PUNTAMORALES,1
+CRQPS,QUEPOS,1
+CRSJO,SAN JOSE,1
+CRZZZ,O P COSTA RICA,1
+CUBAN,BANES,1
+CUBCA,BARACOA,1
+CUBHO,BAHIA HONDA,1
+CUBOG,BOCA GRANDE,1
+CUBOQ,BOQUERON,1
+CUBUF,BUFADERO,1
+CUBYM,BAYAMO,1
+CUCAB,CABANAS,1
+CUCAI,CAIBARIEN,1
+CUCAR,CARDENAS,1
+CUCAS,CASILDA,1
+CUCEI,CEIBA HUECA,1
+CUCMW,CAMAGUEY,1
+CUCOL,COLON,1
+CUGAO,GUANTANAMO-LOS CANOS APT,1
+CUGER,NUEVA GERONA,1
+CUHOG,HOLGUIN,1
+CUHVN,HAVANA,1
+CUJUC,JUCARO,1
+CUMEL,MEDIA LUNA,1
+CUMNT,MANATI,1
+CUNBW,GUANTANAMO-GUANTANAMO NAS APT,1
+CUNIQ,NIQUERO,1
+CUPAS,PASTELILLO,1
+CUPIL,PILON,1
+CUPTA,PUERTO TARAFA,1
+CUSCS,SANTA CRUZ DEL SUR/GUAYABAL,1
+CUSDT,SAGUA DE TANAMO,1
+CUSNU,SANTA CLARA,1
+CUVTU,VIC D.L. TUNAS,1
+CUZZZ,O P CUBA,1
+CVMMO,MAIO,1
+CVMTI,MOSTEIROS,1
+CVPGR,PORTO GRANDE,1
+CVSFL,SAO FILIPE,1
+CVSNE,SAO NICOLAU,1
+CVZZZ,O P CAPE VERDE,1
+CXZZZ,O P CHRISTMAS ISL,1
+CYECN,ERCAN,1
+CYKYR,KYRENIA,1
+CYLAT,LATCHI,1
+CYMPB,MORPHOU BAY,1
+CYNIC,NICOSIA,1
+CYPFO,PAPHOS,1
+CYZER,ZEROS,1
+CYZYY,ZYYI,1
+CYZZZ,O P CYPRUS,1
+CZASA,AS,1
+CZBDA,BOZI DAR,1
+CZBER,BEROUN,1
+CZBOH,BOHUMIN,1
+CZBRQ,BRNO APT,1
+CZCCA,CINOVEC,1
+CZCEK,CESKA KUBICE,1
+CZCHB,CHEB,1
+CZCKB,CESKE BUDEJOVICE,1
+CZDCB,DECIN,1
+CZDDA,DOLNI DVORISTE,1
+CZDLA,DOLNI LIPKA,1
+CZDVK,DVUR KRALOVE NAD LABEM,1
+CZFRY,FRYDLANT,1
+CZGTW,GOTTWALDOV,1
+CZHAT,HATE,1
+CZHDA,HORNI DVORISTE,1
+CZHEA,HEVLIN,1
+CZHOS,HORA SV. SEBESTIANA,1
+CZHUA,HRADEK N. N.,1
+CZHVA,HARRACHOV,1
+CZJRA,JIRIKOV,1
+CZKLV,KARLOVY VARY,1
+CZKRL,KRALOVEC,1
+CZKRN,KRNOV,1
+CZLBR,LIBEREC,1
+CZLVC,LOVOSICE,1
+CZMCA,MIKULOVICE,1
+CZMKA,MARIANSKE LAZNE,1
+CZMKL,MIKULOV,1
+CZMZA,MEZIMESTI,1
+CZNAA,NACHOD,1
+CZNCA,NOVA BYSTRICE,1
+CZOHA,POMEZI N.O.,1
+CZOSR,OSTRAVA,1
+CZPET,PETROVICE,1
+CZPKA,PETROVICE U KARVINE,1
+CZPLA,PLAVEC,1
+CZPRB,PARDUBICE,1
+CZPRG,PRAHA/RUZYNE APT,1
+CZRDA,ZELEZNA RUDA,1
+CZRUA,RUMBURK,1
+CZRZA,ROZVADOV,1
+CZSAA,SATOV,1
+CZSTA,STUDANKY,1
+CZSZA,STRAZNY,1
+CZTEA,CESKY TESIN,1
+CZUHE,UHERSKE HRADISTE,1
+CZULN,USTI NAD LABEM,1
+CZVEA,CESKE VELENICE,1
+CZVFA,VARNSDORF,1
+CZVJA,VOJTANOV,1
+CZZZZ,O P CZECH REPUBLIC,1
+DEAAH,AACHEN,1
+DEABF,ABBENFLETH,1
+DEABH,ABBEHAUSEN,1
+DEAGE,WANGEROOGE,1
+DEAMR,AMRUN I.,1
+DEAPE,APEN,1
+DEASS,ASSEL,1
+DEAUG,AUGUSTFEHN,1
+DEAUR,AURICH,1
+DEAWR,ACHTERWEHR RINGKANAL,1
+DEBAS,BASBECK,1
+DEBCL,BRUCHSAL,1
+DEBEI,BEIDENFLETH,1
+DEBEN,BENSERSIEL,1
+DEBER,BERLIN,1
+DEBES,BAD ESSEN,1
+DEBFL,BORSFLETH,1
+DEBMK,BORKUM,1
+DEBMV,BREMERVORDE,1
+DEBOC,BOCKHORST,1
+DEBOK,BOKEL,1
+DEBRA,BRAMEL,1
+DEBRG,BURG/DITHMARSCHEN,1
+DEBRK,BARNKRUG,1
+DEBRL,BARLAGE,1
+DEBRM,BRAMSCHE,1
+DEBRT,BREITENBERG,1
+DEBSK,"BURGSTAAKEN, FEHMARN",1
+DEBST,BORSTEL,1
+DEBUM,BUSUM,1
+DEBUT,BUTJADINGEN,1
+DEBUX,BUXTEHUDE,1
+DEBYU,BAYREUTH,1
+DECAR,CAROLINENSIEL,1
+DECGN,KOLN-BONN,1
+DEDAG,DAGEBULL,1
+DEDAN,DANGAST,1
+DEDIT,DITZUM,1
+DEDOB,DORNBUSCH,1
+DEDRP,DORPEN,1
+DEDRS,DRESDEN,1
+DEDTM,DORTMUND,1
+DEDUI,DUISBURG,1
+DEDUS,DUSSELDORF,1
+DEDYK,DYKHAUSEN,1
+DEEBE,EBERSBACH,1
+DEEDE,EDEWACHTERDAMM,1
+DEELM,ELMSHORN,1
+DEELS,ELSFLETH,1
+DEENG,ENGTER,1
+DEERF,ERFURT,1
+DEESS,ESSEN,1
+DEEUT,EUTIN,1
+DEEWH,ECKWARDERHORNE,1
+DEEWS,ECKWARDERSIEL,1
+DEFDH,FRIEDRICHSHAFEN,1
+DEFDS,FRIEDRICHSSCHLEUSE,1
+DEFEH,FEHMARN I.,1
+DEFIS,FISCHERHUTTE SUD,1
+DEFRA,FRANKFURT,1
+DEFRE,FRESENBURG,1
+DEFRI,FRIEDRICHSTADT,1
+DEGAU,GAUENSIEK,1
+DEGEL,GELTING,1
+DEGEV,GEVERSDORF,1
+DEGLU,GLUCKSTADT,1
+DEGRE,GREETSIEL,1
+DEGRO,GROSSENBRODE,1
+DEGRZ,GARTZ,1
+DEHAJ,HANNOVER,1
+DEHBR,HERBRUM,1
+DEHBU,HARBURG,1
+DEHED,HEIKENDORF,1
+DEHGL,HELGOLAND,1
+DEHHF,HEILIGENHAFEN,1
+DEHHN,HOHENHORN NORD,1
+DEHHS,HOHENHORN SUD,1
+DEHIL,HILDESHEIM,1
+DEHOD,HOCHDONN,1
+DEHOL,HOLLAGE,1
+DEHOO,HOOKSIEL,1
+DEHOQ,HOF,1
+DEHOS,HORUMERSIEL,1
+DEHRB,HORNEBURG,1
+DEHRH,HERRINGSHAUSEN,1
+DEHRM,"HORNUM, SYLT",1
+DEHRN,HAREN,1
+DEHSA,HOHENSAATEN,1
+DEHUN,HUNTERBRUCK,1
+DEHUS,HUSUM,1
+DEHZN,HOLZMINDEN,1
+DEITZ,ITZEHOHE,1
+DEJEM,JEMGUM,1
+DEKAI,KAISERMUHLE,1
+DEKAM,KAMPE,1
+DEKAP,KAPPELN,1
+DEKEI,"KEITUM, SYLT",1
+DEKHN,KELLINGHAUSEN,1
+DEKOL,KOLLMAR,1
+DEKRA,KRAUTSAND,1
+DELAB,LABOE,1
+DELAE,LAEGERDORF,1
+DELAN,LANDWURDEN,1
+DELAT,LATHEN,1
+DELEE,LEER,1
+DELEJ,LEIPZIG,1
+DELEW,LEMWERDER,1
+DELGO,LANGEOOG,1
+DELIN,LINTELERMARSCH,1
+DELIS,"LIST, SYLT",1
+DELOH,LOHESCH,1
+DEMEL,MELDORF,1
+DEMEM,MEMMERT I.,1
+DEMGL,MONCHENGLADBACH,1
+DEMHG,MANNHEIM,1
+DEMIN,MINSEN,1
+DEMOR,"MORSUM, SYLT",1
+DEMRM,MARCARDSMOOR,1
+DEMRS,MARIENSIEL,1
+DEMSR,MUENSTER,1
+DEMUC,MUNCHEN,1
+DENEF,NEUFELD,1
+DENEH,NEUHAUS/OSTE,1
+DENEL,NEULAND/ALBE,1
+DENES,NESSMERSIEL,1
+DENHO,NEUSTADT (HOLST),1
+DENHS,NEUHARLINGERSIEL,1
+DENOE,NORDDEICH,1
+DENOR,NORDSTRAND I.,1
+DENSC,NEUENSCHLEUSE,1
+DENUE,NURNBERG,1
+DEOLB,OLDENBUTTEL,1
+DEOLD,OLDENBURG,1
+DEOLP,OLPENITZ,1
+DEORT,"ORTH, FEHMARN",1
+DEOSH,OSTERHAUSEN,1
+DEOSN,OSNABRUCK,1
+DEOTT,OTTERNDORF,1
+DEPAD,PADERBORN,1
+DEPAH,PAHLHUDE,1
+DEPAP,PAPENBURG,1
+DEPEL,PELLWORM I.,1
+DEPEN,PENTE,1
+DEPIE,PIESBERG,1
+DEPIN,PINNEBERG,1
+DEPOM,POMELLEN,1
+DEPUT,PUTTGARDEN,1
+DERAN,"RANDUM, SYLT",1
+DEREE,REEPSHOLT,1
+DEREN,RENDSBURG,1
+DERIT,RITSCH,1
+DESAL,STADT ALLENDORF,1
+DESAU,SCHACHT AUDORF,1
+DESBG,SEDELSBERG,1
+DESCN,SAARBRUECKEN,1
+DESDE,SANDE,1
+DESEH,SEHESTADT,1
+DESHU,SCHWARTZENHUTTEN,1
+DESLS,SCHLESWIG,1
+DESMA,SANKT MARGARETHEN,1
+DESPI,SPIECKEROOG I.,1
+DESPS,SCHULPERSIEL,1
+DESTD,STRANDE,1
+DESTR,STUTTGART,1
+DESTS,STADERSAND,1
+DESUD,SUDERSTAPEL,1
+DESUR,SURWOLD,1
+DESXF,BERLIN-SCHONEFELD APT,1
+DETHF,BERLIN-TEMPELHOF APT,1
+DETIN,"TINNUM, SYLT",1
+DETOE,TONNING,1
+DETOR,TORFPLATZ OLDENBURG,1
+DETOS,TOSSENS,1
+DETXL,BERLIN-TEGEL APT,1
+DEUET,UETERSEN,1
+DEUPS,UPSCHOERT,1
+DEVAR,VAREL,1
+DEVEN,VENNE,1
+DEWAC,WESTERACCUMERSIEL,1
+DEWED,WEDEL,1
+DEWEE,WEENER,1
+DEWEH,WEHERNDORF,1
+DEWEN,"WENNINGSTEDT, SYLT",1
+DEWEW,WEWELSFLETH,1
+DEWIE,WIESENS,1
+DEWIF,WISCHHAFEN,1
+DEWIH,WISCH,1
+DEWIL,WILSTER,1
+DEWIM,WIMMER,1
+DEWIT,WITTLAGE,1
+DEWYK,WYK AUF FOHR,1
+DEZZZ,"O P GERMANY, FED REP OF",1
+DJZZZ,O P DJIBOUTI,1
+DKAGE,ALLINGE,1
+DKBAG,BAGENKOP,1
+DKBDX,BANDHOLM,1
+DKBGZ,BOGENSE,1
+DKBLL,BILLUND,1
+DKBOS,BOJDEN,1
+DKDRA,DRAGOR,1
+DKFAA,FAABORG,1
+DKFDS,FREDERIKSUND,1
+DKFDV,FREDERIKSVARK,1
+DKFYH,FYNSHAVN,1
+DKGDM,GUDHJEM,1
+DKGLY,GLYNGORE,1
+DKHAD,HADERSLEV,1
+DKHBK,HOLBAEK,1
+DKHBO,HOBRO,1
+DKHER,HERNING,1
+DKHSB,HOLSTEBRO,1
+DKHSL,HASLE,1
+DKHUN,HUNDESTED,1
+DKKBY,KYNDBY/KROSTRUP/,1
+DKKRP,KARUP,1
+DKKRS,KRUSAA,1
+DKKTD,KERTEMINDE,1
+DKKTP,KASTRUP,1
+DKLGR,LOGSTOR,1
+DKLVG,LEMVIG,1
+DKMID,MIDDELFART,1
+DKMNS,MASNEDSUND,1
+DKMRR,MARIAGER,1
+DKNBR,NORDBORG,1
+DKNEX,NEKSO,1
+DKNRE,NORRE-AABY,1
+DKNRS,NORRESUNDBY,1
+DKNSD,NORRE SNEDE,1
+DKNTD,NYSTED,1
+DKNVD,NASTVED,1
+DKNYM,NYKOBING MORS,1
+DKNYS,NYKOBING SJAELLAND,1
+DKORE,"OREHOVED, FALSTER",1
+DKPAO,PADBORG,1
+DKRKB,RUDKOBING,1
+DKRKI,ROSKILDE,1
+DKROD,RODBYHAVN,1
+DKSAE,SAEBY,1
+DKSAX,SAKSKOBING,1
+DKSKS,SKRYDSTRUP,1
+DKSKV,SKIVE,1
+DKSLB,SILKEBORG,1
+DKSTA,STAUNING,1
+DKSTE,STEGE,1
+DKSTR,STRUER,1
+DKSVA,SVANEKE,1
+DKSVE,SVENDBORG,1
+DKSVG,SANDVIG,1
+DKTED,THISTED,1
+DKVOR,VORDINGBORG,1
+DKZZZ,O P DENMARK,1
+DMADM,ANSE DE MAI,1
+DMDCF,CANEFIELD APT,1
+DMDOM,MELVILLE HALL APT,1
+DMRSU,ROSEAU,1
+DMZZZ,O P DOMINICA,1
+DOBAN,BANI,1
+DOBAR,BARAHONA,1
+DOBCC,BOCA CHICA,1
+DOCIU,CIUDAD TRUJILLO,1
+DOMAN,MANZANILLO,1
+DOPDR,PEDERNALES,1
+DOPUO,PUERTO LIBERTADOR,1
+DOSFN,SI FRANCISCO MACOROS,1
+DOSNX,SABANA DE MAR,1
+DOSNZ,SANCHEZ,1
+DOZZZ,O P DOMINICAN REP,1
+DZBSF,BENISAF,1
+DZCHE,CHERCHELL,1
+DZCOL,COLLO,1
+DZCZL,CONSTANTINE,1
+DZDEL,DELLYS,1
+DZDJI,DJIDJELLI,1
+DZGHA,GHAZAOUET,1
+DZZZZ,O P ALGERIA,1
+ECBCA,BAHIA DE CARAQUES,1
+ECCUE,CUENCA,1
+ECEBL,BALAO,1
+ECGPS,GALAPAGOS ISLANDS,1
+ECLOH,LOJA,1
+ECMCH,MACHALA,1
+ECMRR,MACARA,1
+ECPUN,PUNA,1
+ECPVO,PORTO VIEJO,1
+ECSLR,SAN LORENZO,1
+ECSNC,SALINAS,1
+ECUIO,QUITO,1
+ECZZZ,O P ECUADOR,1
+EEHII,HIIUMAA,1
+EENAW,NAWA,1
+EEPAR,PARNU,1
+EESAR,SAAREMAN,1
+EETAR,TARTU,1
+EEZZZ,OTHER,1
+EGABS,ABU SIMBEL,1
+EGADA,ADABIYA,1
+EGAQU,AL QUSAYR,1
+EGASW,ASWAN,1
+EGCAI,CAIRO,1
+EGHAL,HALAIB,1
+EGHRG,HURGHADA,1
+EGISM,ISMAILIA,1
+EGKOS,KOSSEIR,1
+EGLXR,LUXOR,1
+EGMAM,MARSA AL MAMRA,1
+EGPIB,PORT IBRAHIM,1
+EGSBA,SIDI BARRANI,1
+EGSSH,SHARM EL SHEIKH,1
+EGTRC,10TH OF RAMADAN CITY,1
+EGUVL,NEW VALLEY,1
+EGZZZ,O P EGYPT,1
+EHZZZ,O P WESTERN SAHARA,1
+ERASM,ASMARA,1
+ERZZZ,O P ERITREA,1
+ESACE,ARRECIFE DE LANZAROTE,1
+ESALA,ALAVA,1
+ESALB,ALBACETE,1
+ESALN,ALCANICES,1
+ESAST,ASTURIAS APT,1
+ESAVI,AVILA,1
+ESAYA,AYAMONTE,1
+ESBJZ,BADAJOZ,1
+ESBRX,BURRIANA,1
+ESBUR,BURGOS,1
+ESCAN,CANFRANC,1
+ESCAS,CASTELLON DE LA PLANA,1
+ESCIR,CIUDAD REAL,1
+ESCUE,CUENCA,1
+ESELI,ELIZONDO,1
+ESFER,EL FERROL,1
+ESFON,FUENTES DE ONORO,1
+ESGRO,GERONA,1
+ESGRX,GRANADA,1
+ESGRY,GRAO,1
+ESGUA,GUADALAJARA,1
+ESGUI,GUIPUZCOA APT,1
+ESHIE,HIERRO,1
+ESHUC,HUESCA,1
+ESIRU,IRUN,1
+ESJAE,JAEN,1
+ESJER,JEREZ,1
+ESLEO,LEON,1
+ESLER,LERIDA,1
+ESLES,LES,1
+ESLEU,SEO DE URGEL,1
+ESLJU,LA JUNQUERA,1
+ESLOG,LOGRONO,1
+ESLPA,"LAS PALMAS, GRAN CANARIA",1
+ESLUG,LUGO,1
+ESMAD,MADRID,1
+ESMAR,MARIN,1
+ESMJV,MURCIA,1
+ESMUS,MUSEL,1
+ESODB,CORDOBA,1
+ESORE,ORENSE,1
+ESPAC,PALENCIA,1
+ESPBO,PORT BOU,1
+ESPNA,PAMPLONA,1
+ESPUI,PUIGCERDA,1
+ESRFT,ROSAL DE LA FRONTERA,1
+ESSCQ,SANTIAGO DE COMPOSTELA APT,1
+ESSCT,SANTA CRUZ DE TENERIFE,1
+ESSEG,SEGOVIA,1
+ESSFO,SAN FERNANDO,1
+ESSFU,SAN FELIU DE GUIXOLS,1
+ESSNR,SANTURCE,1
+ESSOR,SORIA,1
+ESSPC,SANTA CRUZ DE LA PALMA,1
+ESSSG,SAN SEBASTIAN DE LA GOMERA,1
+ESTCI,TENERIFE APT,1
+ESTER,TERUEL,1
+ESTOL,TOLEDO,1
+ESTUY,TUY,1
+ESVCL,VALCARLOS,1
+ESVDA,VALENCIA DE ALCANTARA,1
+ESVER,VERIN,1
+ESVLL,VALLADOLID,1
+ESXRY,JEREZ FRONTERA APT,1
+ESZAZ,ZARAGOZA,1
+ESZZZ,O P SPAIN,1
+ETADD,ADDIS ABABA,1
+ETAMH,ARBA MINTCH,1
+ETASO,ASOSA,1
+ETAWA,AWASSA,1
+ETAXU,AXUM,1
+ETBCO,BACO,1
+ETBCY,BULCHI,1
+ETBJR,BAHAR DAR,1
+ETDBM,DEBRA MARCOS,1
+ETDEM,DEMBIDOLLO,1
+ETDIR,DIRE DAWA,1
+ETDSE,DESSIE,1
+ETGDQ,GONDAR,1
+ETGMB,GAMBELA,1
+ETGOB,GOBA,1
+ETGOR,GORE,1
+ETHUE,HUMERA,1
+ETJIM,JIMMA,1
+ETLFO,KELAFO/CALLAF,1
+ETMKS,MEKANE SELAM,1
+ETMQX,MAKALE,1
+ETMTF,MIZAN TEFERI,1
+ETMUJ,MUI,1
+ETMZX,MASSLO,1
+ETOTA,MOTA,1
+ETSXU,SODDU,1
+ETTIE,TIPPI,1
+ETWAC,WACA,1
+ETZZZ,O P ETHIOPIA,1
+FIAHV,AHVENANMAA MUUT,1
+FIALD,ALAND,1
+FIANT,ANTSKAR,1
+FIBAR,BARONSALMI/BAROSUND,1
+FIBAS,BASTUBACKA,1
+FIBAT,BATVIKEN,1
+FIBJO,BJORKHOLMSUND,1
+FIBRA,BRANDO,1
+FIBRO,BROMARV,1
+FIDAL,DALOREN,1
+FIDEG,DEGERBY,1
+FIDJU,DJUPKASTET,1
+FIDLS,DALSBRUK/TAALINTEHDAS,1
+FIECK,ECKERO,1
+FIENS,ENSKAR SILLGRUND,1
+FIERV,ERVASTO,1
+FIESP,ESPOONLAHTI/ESBOVIKEN,1
+FIFAL,FALKOVIK,1
+FIFAR,FARJSUND,1
+FIFOR,FORBY,1
+FIGAM,GAMMELBYVIKEN,1
+FIGUL,GULLO,1
+FIHAK,HAKKALA,1
+FIHAL,HALONEN,1
+FIHAR,HARVALUOTO,1
+FIHEP,HEPLOTSUND,1
+FIHIN,HINTSHOLM,1
+FIHIT,HITIS/HIITINEN,1
+FIHLL,HELLNAS,1
+FIHOG,HOGSARA JUNGFRUSUND,1
+FIHOU,HOUTSKAR,1
+FIIMA,IMATRA,1
+FIINI,INIO,1
+FIISN,ISNAS,1
+FIIVL,IVALO,1
+FIJOE,JOENSUU,1
+FIJUS,JUSSARO,1
+FIJYV,JYVASKYLA,1
+FIKAJ,KAJAANI,1
+FIKAL,KALLVIKRN,1
+FIKAN,KANTALAHTI/KANTLAX,1
+FIKAO,KUUSAMO,1
+FIKAU,KAUKOPAA,1
+FIKIM,KIMITO/KEMIO,1
+FIKKR,KOKAR,1
+FIKLA,KLAMILA,1
+FIKOR,KORPPOO/KORPO,1
+FIKRA,KRAKSKARSSUND,1
+FIKRO,KRONVIK,1
+FIKUM,KUMLINGE,1
+FIKUO,KUOPIO,1
+FIKUS,KUSTAVI/GUSTAVS,1
+FIKVH,KOVERHAR,1
+FIKVO,KUIVASTO,1
+FILAN,LANGNAS,1
+FILAP,LAPPOHJA/LAPPVIK,1
+FILOV,LOVIISA,1
+FILPP,LAPPEENRANTA/VILLMANSTRAND,1
+FILUV,LUVIA,1
+FIMAH,MAHARJU,1
+FIMER,MERIKARVIA,1
+FIMHQ,MAARIANHAMINA/MARIEHAMN,1
+FIMJO,MJOSUND,1
+FIMKI,MARINKI,1
+FIMLI,MIKKELI/ST MICHEL,1
+FIMON,MONASSUND,1
+FIMRS,MARSUND,1
+FIMTL,MANTYLUOTO/PORI,1
+FINAU,NAUVO/NAGU,1
+FINII,NIIRALA,1
+FINUI,NUIJAMAA,1
+FINYH,NYHAMN,1
+FIODE,ODENSO,1
+FIOLM,OLMOSVIK,1
+FIPAR,PARAINEN/PARGAS,1
+FIPER,PERNAJANLAHTI/PERNAVIKEN,1
+FIPNI,PATANIEMI,1
+FIPOA,PORKKALA,1
+FIPOH,POHJANKURU/SKURU,1
+FIPRV,PORVOO/BORGA,1
+FIPYH,PYHARANTA,1
+FIRAA,RAAHE/BRAHESTAD,1
+FIRAH,RAHJA,1
+FIRII,RIISTIINA/KRISTINA,1
+FIROO,ROOTILA,1
+FIROU,ROUHU,1
+FIROY,ROYTTA/TORNIO,1
+FIRTR,RAUTARUUKKI,1
+FIRUO,RUOTSINPYTHAA/STROMFORS,1
+FIRVN,ROVANIEMI,1
+FIRYM,RYMATTYLA,1
+FISAL,SALO,1
+FISAN,SANDO,1
+FISAR,SARKISALO/FINBY,1
+FISII,SIILINJARVI,1
+FISIP,SIPOONLAHTI/SIBBOVIKEN,1
+FISKB,SKOGBY,1
+FISKI,SKINNARVIK,1
+FISKU,SKUTVIKEN,1
+FISNA,SNAPPERTUNA,1
+FISPJ,SPJUTSUND/KEIHASSALMI,1
+FISTO,STOROSUND,1
+FISTR,STROMMA,1
+FISVL,SAVONLINNA/NYSLOTT,1
+FITAI,TAMMISAARI/EKENAS,1
+FITEI,TEIJO,1
+FITER,TERVSUND,1
+FITES,TESSVAR,1
+FITIL,POPPILA,1
+FITMP,TAMPERE/TAMMERFORS,1
+FITOJ,TOJBY,1
+FITOK,TOLKKINEN (TOLKIS)/PORVOO,1
+FITOR,TORNEA/TORNIO,1
+FITOT,TOTTESUND,1
+FITRA,TRASKO,1
+FITSR,TORSOREN,1
+FITUR,TURUN SAARISTO MUUT,1
+FITVA,TVARMINNE,1
+FITVS,TAIVASSALO,1
+FIUSK,USKELA,1
+FIVAI,VAINIKKALA,1
+FIVAR,VARTSALA,1
+FIVAS,VASTLAX,1
+FIVEL,VELKUA,1
+FIVES,VESSO,1
+FIVIR,VIRPINIEMI,1
+FIVLA,VAALIMAA,1
+FIVRK,VARKAUS,1
+FIZZZ,O P FINLAND,1
+FJELL,ELLINGTON,1
+FJLBS,LABASA,1
+FJMAL,MALAU,1
+FJNAN,NADI,1
+FJRTA,ROTUMA,1
+FJSVU,SAVU-SAVU,1
+FJZZZ,O P FIJI,1
+FKGRV,GRYTVIKEN,1
+FKZZZ,O P FALKLAND ISL (MALVINAS),1
+FMZZZ,O P MICRONESIA,1
+FOFAE,THORSHAVN-VAGAR APT,1
+FOHUS,HUSEVIG,1
+FOKVI,KLAKSVIK,1
+FOTHO,THORSHAVN,1
+FOVAZ,VAAG/VAGUR,1
+FOVES,VESTMANHAVN,1
+FOZZZ,O P FAEROE ISL,1
+FRABB,ABBEVILLE,1
+FRANT,ANTIBES,1
+FRARC,ARCACHON,1
+FRAUD,AUDIERNE-PORT,1
+FRBAI,BASSE-INDRE,1
+FRBCU,BOUCAU,1
+FRBIQ,BIARRITZ,1
+FRBON,BONIFACIO,1
+FRBOR,BELFORT-FONTAINE APT,1
+FRBOU,BOURGES,1
+FRBVA,BEAUVAIS-TILLE APT,1
+FRBYE,BLAYE,1
+FRCAM,CAMARET,1
+FRCAR,CARONTE,1
+FRCDG,PARIS-CHARLES DE GAULLE APT,1
+FRCEQ,CANNES,1
+FRCFE,CLERMONT-FERRAND-AULNAT APT,1
+FRCHR,CHATEAUROUX,1
+FRCLY,CALVI,1
+FRCMF,CHAMBERY,1
+FRCNC,COGNAC,1
+FRCOC,CONCARNEAU,1
+FRCRE,CHARENTE,1
+FRDIJ,DIJON-LONGVIC APT,1
+FRDLE,DOLE-TAVAUX APT,1
+FRDNR,DINARD-PLEURTUIT APT,1
+FRDOL,DEAUVILLE,1
+FRDRZ,DOUARNENEZ,1
+FREBU,ST ETIENNE-BOUTHEON APT,1
+FRENC,NANCY-ESSEY APT,1
+FRFEC,FECAMP,1
+FRFNI,NIMES-GARONS APT,1
+FRGFR,GRANVILLE,1
+FRGNB,GRENOBLE-SAINT-GEOIRS APT,1
+FRGRV,GRAVELINES,1
+FRILR,ILE ROUSSE,1
+FRLBG,PARIS-LE BOURGET APT,1
+FRLBO,LE BOUCAU,1
+FRLDE,LOURDES-TARBES-OSSUN APT,1
+FRLIG,LIMOGES-BELLEGARDE APT,1
+FRLIL,LILLE-LESQUIN APT,1
+FRLPE,LA PALLICE,1
+FRLRH,LA ROCHELLE,1
+FRLSO,LES SABLES D'OLONNE,1
+FRLTQ,LE TOUQUET-PARIS-PLAGE,1
+FRLTR,LE TREPORT,1
+FRLYN,LYON-BRON APT,1
+FRLYS,LYON-SATOLAS APT,1
+FRMEA,MEAUX-ESBLY APT,1
+FRMEL,MELUN-VILLAROCHE APT,1
+FRMLH,MULHOUSE,1
+FRMON,MONTOIN,1
+FRMPL,MONTPELLIER,1
+FRMXN,MORLAIX,1
+FRMZM,METZ-FRESCATY APT,1
+FRNMS,NEMOURS,1
+FRNOI,NOIRMOUTIER,1
+FRORY,PARIS-ORLY APT,1
+FRPAI,PAIMPOL,1
+FRPAR,PARIS,1
+FRPGF,PERPIGNAN-RIVESALTES APT,1
+FRPIS,POITIERS-BIARD,1
+FRPOV,PORT VENDRES,1
+FRPRP,PROPRIANO,1
+FRPSL,PORT ST LOUIS DU RHONE,1
+FRPUF,PAU-PONT-LONG-UZEIN APT,1
+FRPVO,PORTO VECCHIO,1
+FRRCT,ROCHEFORT,1
+FRRHE,REIMS-CHAMPAGNE APT,1
+FRRNS,RENNES-SAINT-JACQUES APT,1
+FRROS,ROSCOFF,1
+FRRYN,ROYAN,1
+FRSBK,ST BRIEUC,1
+FRSTP,ST PAUL,1
+FRSXB,STRASBOURG,1
+FRTJE,TROUVILLE,1
+FRTLS,TOULOUSE-BLAGNAC APT,1
+FRTON,TONNAY CHARENTE(ROCHEFORT),1
+FRTPT,TREPORT,1
+FRTRE,TREGUIER,1
+FRTUF,TOURS-ST SYMPHORIEN APT,1
+FRUIP,QUIMPER,1
+FRVHY,VICHY-CHARMEIL APT,1
+FRVLL,VILLEFRANCHE,1
+FRVNE,VANNES,1
+FRZZZ,O P FRANCE,1
+GAAKE,AKIENI,1
+GABGB,BOOUE,1
+GABMM,BITAM,1
+GACLZ,CAP LOPEZ,1
+GAFOU,FOUGAMOU,1
+GAKDJ,NDJOLE,1
+GAKDN,NDENDE,1
+GAKOU,KOULA MOUTOU,1
+GALBQ,LAMBARENE,1
+GALTL,LASTOURVILLE,1
+GALUC,LUCINA,1
+GAMBC,MBIGOU,1
+GAMDV,MEDOUNEU,1
+GAMFF,MOANDA,1
+GAMGO,MANEGA,1
+GAMJL,MOUILA,1
+GAMKB,MEKAMBO,1
+GAMKU,MAKOKOU,1
+GAMVB,MVENGUE,1
+GAMYB,MAYOUMBA,1
+GAMZC,MITZIC,1
+GAOKN,OKONDJA,1
+GAOMB,OMBOUE,1
+GAOYE,OYEM,1
+GATCH,TCHIBANGA,1
+GAZZZ,O P GABON,1
+GBABZ,ABERDEEN-DYCE APT,1
+GBAMB,AMBLE/BLYTH,1
+GBAPP,APPLEDORE/BIDEFORD,1
+GBARB,ARBROATH/DUNDEE,1
+GBBAT,BATTLESBRIDGE/COLCHESTER,1
+GBBAW,BALTIC WHARF/LONDON,1
+GBBEC,BECKINGHAM/SCUNTHORPE,1
+GBBFS,BELFAST INTERNATIONAL APT,1
+GBBHX,BIRMINGHAM,1
+GBBIF,BARROW IN FURNESS,1
+GBBLS,BRIGHTLINGSEA/COLCHESTER,1
+GBBMR,BEAUMARIS,1
+GBBNG,BANGOR/CAERNARVON,1
+GBBNH,BARTON ON HUMBER/HULL,1
+GBBOC,BURNHAM ON CROUCH/COLCHESTER,1
+GBBOH,BOURNEMOUTH,1
+GBBRF,BRITON FERRY/PORT TALBOT,1
+GBBRL,BRISTOL,1
+GBBRP,BRIDPORT/WEYMOUTH,1
+GBBRT,BRIDLINGTON/HULL,1
+GBBRW,BRIDGWATER/WATCHET,1
+GBBUH,BURGHEAD/INVERNESS,1
+GBBUS,BURTON STATHER/SCUNTHORPE,1
+GBBWF,BARROW-IN-FURNESS APT,1
+GBBWR,BURROW,1
+GBCAL,CAMPBELTOWN APT/GREENOCK,1
+GBCEG,CHESTER,1
+GBCHD,CHARLESTON/DOUGLAS,1
+GBCHF,CHARLESTON/FOWEY,1
+GBCHT,CHEPSTOW/NEWPORT,1
+GBCLR,COLERAINE,1
+GBCNV,CAERNARVON,1
+GBCOL,COLCHESTER,1
+GBCWL,CARDIFF-WALES APT,1
+GBDAG,DAGENHAM,1
+GBDND,DUNDEE/RIVERSIDE PARK APT,1
+GBDUM,DUMFRIES/GREENOCK,1
+GBEDI,EDINBURGH,1
+GBEMA,EAST MIDLANDS APT,1
+GBEXE,EXETER,1
+GBEXM,EXMOUTH/EXETER,1
+GBEXT,EXETER-CLYST APT,1
+GBFAV,FAVERSHAM/WHITSTABLE,1
+GBFLW,FLIXBRIGH WHARF/SCUNTHORPE,1
+GBGAI,GAINSBOROUGH/SCUNTHORPE,1
+GBGBY,GRIMSBY,1
+GBGIR,GIRVAN/AYR,1
+GBGIS,GARIESTON/GREENOCK,1
+GBGLA,GLASGOW APT,1
+GBGLD,GLASSON DOCK/HEYSHAM,1
+GBGRN,GRANTON,1
+GBGRW,GROVE WHARVES/SCUNTHORPE,1
+GBGUW,GUNNESS WHARF/SCUNTHORPE,1
+GBGWE,GWENT/NEWPORT,1
+GBHAY,HAYLE/PENZANCE,1
+GBHDN,HASLINGDEN,1
+GBHHD,HOLYHEAD,1
+GBHUY,HUMBERSIDE APT,1
+GBILY,ISLAY APT,1
+GBIPW,IPSWICH APT,1
+GBIRV,IRVINE,1
+GBISC,ISLES OF SCILLY,1
+GBITC,ITCHENOR/LITTLEHAMPTON,1
+GBIYP,ISLAY PORT/GREENOCK,1
+GBKEA,KEADBY/SCUNTHORPE,1
+GBKKD,KIRKCALDY,1
+GBKOI,KIRKWALL APT,1
+GBLAN,LANCASTER/HEYSHAM,1
+GBLBA,LEEDS APT,1
+GBLEQ,LANDS END,1
+GBLGW,LONDON/GATWICK APT,1
+GBLHP,LONGHOPE/KIRKWALL,1
+GBLHR,LONDON/HEATHROW APT,1
+GBLLD,LLANDDULAS/BEAUMARIS,1
+GBLLN,LLANELLI/SWANSEA,1
+GBLOL,LOCHALINE/INVERNESSS,1
+GBLOS,LEIGH-ON-SEA/LONDON,1
+GBLPL,LIVERPOOL INTERNATIONAL APT,1
+GBLSI,LERWICK APT,1
+GBLSS,INVERNESS/LOSSIEMOUTH,1
+GBLYM,LYMINGTON/SOUTHAMPTON,1
+GBMAL,MALDON/COLCHESTER,1
+GBMAN,MANCHESTER/RINGWAY APT,1
+GBMCD,MACDUFF/BUCKIE,1
+GBMEB,MENAI BRIDGE/BEAUMARIS,1
+GBMED,ROCHESTER,1
+GBMID,MIDDLESBOROUGH,1
+GBMLM,MILLOM/BARROW IN FURNESS,1
+GBMME,TEESSIDE,1
+GBNEA,NEATH ABBEY/PORT TALBOT,1
+GBNLY,PENZANCE-NEWLYN,1
+GBNQY,NEWQUAY APT,1
+GBNRW,NORWICH/GREAT YARMOUTH,1
+GBNRY,NEWRY,1
+GBNSH,NORTH SHIELDS/TYNE,1
+GBNTH,NORTHWICH,1
+GBNTM,NOTTINGHAM,1
+GBNWI,NORWICH APT,1
+GBNYL,NEWLYN/PENZANCE,1
+GBOBA,OBAN/GREENOCK,1
+GBOBN,OBAN-CONNEL APT,1
+GBPAD,PADSTOW/PLYMOUTH,1
+GBPAL,PALNACKIE/GREENOCK,1
+GBPDI,PORT DINORWIC/CAERNARVON,1
+GBPEN,PENZANCE,1
+GBPER,PERTH,1
+GBPIK,PRESTWICK APT-GLASGOW,1
+GBPLH,PLYMOUTH APT,1
+GBPMD,PORTMADOC/CAERNARVON,1
+GBPMM,PENMAENMAWR/BEAUMARIS,1
+GBPPE,BEAUMARIS/PORT PENRHYN,1
+GBPRE,PRESTON,1
+GBPRY,PENRYN/FALMOUTH,1
+GBPSL,PERTH APT,1
+GBPST,PARKESTON QUAY/HARWICH,1
+GBPTH,PORTISHEAD/BRISTOL,1
+GBPTR,PORTRUSH/COLERAINE,1
+GBPTT,PARTINGTON/MANCHESTER,1
+GBPZE,PENZANCE APT,1
+GBQUB,QUEENBOROUGH/ROCHESTER,1
+GBRAY,ROTHESAY,1
+GBRFD,ROCHFORD/LONDON,1
+GBRHY,RHYL/MOSTYN,1
+GBROW,ROWHEDGE/COLCHESTER,1
+GBRSY,RAMSEY/DOUGLAS,1
+GBRYE,RYE/FOLKESTONE,1
+GBSCA,SCARBOROUGH,1
+GBSCP,SCUNTHORPE,1
+GBSCT,STOCKTON,1
+GBSEL,SELBY/GOOLE,1
+GBSEN,SOUTHEND APT,1
+GBSHT,SHOTTON/MOSTYN,1
+GBSIL,SILLOTH,1
+GBSND,SOUTHEND/LONDON,1
+GBSNS,STROMNESS/KIRKWALL,1
+GBSSH,SOUTH SHIELDS/TYNE,1
+GBSTN,STANSTED APT/LONDON,1
+GBSTO,STORNOWAY,1
+GBSTR,STRANRAER/GREENOCK,1
+GBSUS,SUSSEX,1
+GBSWD,SOUTHWOLD/LOWESTOFT,1
+GBSWS,SWANSEA APT,1
+GBSWY,SCALLOWAY/LERWICK,1
+GBSYY,STORNOWAY APT,1
+GBTAY,TAYPORT/DUNDEE,1
+GBTHM,TOPSHAM/EXETER,1
+GBTRU,TRURO/FALMOUTH,1
+GBULL,ULLAPOOL/INVERNESS,1
+GBWAT,WATCHET,1
+GBWIC,WICK,1
+GBWIG,WIGTOWN/GREENOCK,1
+GBWIS,WISBECH,1
+GBWIV,WIVENHOE/COLCHESTER,1
+GBWLS,WELLS/KINGS LYNN,1
+GBWTB,WHITBY,1
+GBWTN,RUNCORN-WARRINGTON,1
+GBWTS,WHITSTABLE,1
+GBZZZ,O P UNITED KINGDOM,1
+GDGND,GRENADA,1
+GDGRE,GRENVILLE,1
+GDHIL,"HILLSBOROUGH, CARRIACOU IS",1
+GDZZZ,O P GRENADA,1
+GEBUS,BATUMI,1
+GESUI,SUKHUMI,1
+GETBS,TBILISI,1
+GEZZZ,O P GEORGIA,1
+GFCAY,CAYENNE,1
+GFSSA,ST SAURENT,1
+GFZZZ,O P FRENCH GUIANA,1
+GGACI,ALDERNEY,1
+GGGCI,GUERNSEY,1
+GGZZZ,O P GUERNSEY,1
+GHACC,ACCRA,1
+GHADA,ADA,1
+GHAUR,AURA,1
+GHAXI,AXIM,1
+GHCCT,CAPE COAST,1
+GHKIT,KETA,1
+GHKMS,KUMASI,1
+GHNYI,SUNYANI,1
+GHSEK,SEKONDI,1
+GHSHA,SHAMA,1
+GHTKD,TAKORADI,1
+GHWEA,WINNEBA,1
+GHZZZ,O P GHANA,1
+GIZZZ,O P GIBRALTAR,1
+GLAGM,ANGMAGSSALIK,1
+GLDAN,DANEBORG,1
+GLGOH,GODTHAAB/NUUK,1
+GLIUT,IVIGTUT,1
+GLJAV,JAKOBSHAVN/ILULISSAT,1
+GLJCH,CHRISTIANSHAAB/QASIGIANNGUIT,1
+GLJEG,EGEDESMINDE/AUSIAIT,1
+GLJFR,FREDRIKSHAAB/PAAMIUT,1
+GLJGO,GODHAVN/QEQERTARSUAQ,1
+GLJGR,GRONNEDAL/KANGILINGUIT,1
+GLJHS,HOLSTEINSBORG/SISIMIUT,1
+GLJJU,JULIANEHAAB/QAQORTOQ,1
+GLJNN,NANORTALIK,1
+GLJNS,NARSSAQ,1
+GLJSU,SUKKERTOPPEN/MANITSOQ,1
+GLJUV,UPERNAVIK,1
+GLKUN,KUNGMIUT,1
+GLKUS,KULUSUK IS,1
+GLMRG,MESTERS VIG,1
+GLOBY,ILLORQORTOORMIUT/SCORESBYSUND,1
+GLSFJ,SONDRE STROMFJORD,1
+GLTHU,THULE/QARNAQ,1
+GLTOV,TOVKUSOAK,1
+GLUAK,NARSSARSSUAQ,1
+GLUMD,UMANAK,1
+GLZZZ,O P GREENLAND,1
+GMZZZ,O P GAMBIA,1
+GNBTY,BENTY,1
+GNZZZ,O P GUINEA,1
+GPBBR,BASSE TERRE,1
+GPGBJ,MARIE GALANTE,1
+GPLSS,LES SAINTES IS,1
+GPSBH,ST BARTHELEMY,1
+GPULE,SULE,1
+GPZZZ,O P GUADELOUPE,1
+GQABU,ANNOBON ISLAND,1
+GQFPX,FERNANDO PO ISLAND,1
+GQSIS,SANTA ISABEL,1
+GQZZZ,O P EQUATORIAL GUINEA,1
+GRAGQ,AGRINION,1
+GRAND,ANDROS,1
+GRANI,AGHIOS NICOLAOS,1
+GRAOK,KARPATHOS,1
+GRAPY,ASPROPYRGOS,1
+GRARE,AREOPOLIS,1
+GRAST,ASTAKOS,1
+GRATH,ATHENS/ATHINAI,1
+GRATR,AGIA TRIAS,1
+GRCAN,CANDIA,1
+GRCCO,CATACOLO,1
+GRCFU,CORFU,1
+GRCHQ,CHANIA/CANEA,1
+GRCPN,CEPHALONIA,1
+GRCRG,CORINTH,1
+GRDOS,DELOS,1
+GRDPA,DRAPETZONA,1
+GREFL,ARGOSTOLION/KEFALLINIA,1
+GRHER,HERAKLION/IRAKLION,1
+GRHYD,HYDRA/IDHRA,1
+GRIOA,IOANNINA,1
+GRITH,ITHAKI (ITHACA),1
+GRJKH,CHIOS,1
+GRJMK,MIKONOS,1
+GRJSI,SKIATHOS,1
+GRJTR,THIRA,1
+GRKAB,KABALIA,1
+GRKAR,KARLOVASSI,1
+GRKAT,KATOHI/KATOKHI,1
+GRKEA,KEA ISLAND,1
+GRKMI,KALIMNOS ISLAND,1
+GRKSO,KASTORIA,1
+GRKZI,KOZANI,1
+GRLER,LEROS,1
+GRLEV,LEVKAS,1
+GRLIX,LIXURI,1
+GRLRA,LARISA,1
+GRLXS,LEMNOS,1
+GRMAL,MALAOI,1
+GRMEG,MEGALIVADI,1
+GRMET,METHONI,1
+GRMIS,MISSIMI,1
+GRMJT,MYTILENE,1
+GRNAX,NAXOS,1
+GRNEA,NEAPOLIS,1
+GRNPK,NAVPAKTOS,1
+GRPAN,PANOI,1
+GRPAR,PARGA,1
+GRPIL,PILOS,1
+GRPTL,PORTO LAGOS,1
+GRPVK,PREVEZA,1
+GRPYL,PYLOS,1
+GRPYR,PYRGOS,1
+GRRET,RETHYMNON,1
+GRSAL,SALAMIS,1
+GRSER,SERIPHOS ISLAND,1
+GRSGB,ST GEORGE,1
+GRSIK,SIKIONIA,1
+GRSIT,SITIA,1
+GRSKU,SKYROS ISLAND,1
+GRSMI,SAMOS,1
+GRSYO,SYROS/SYRA,1
+GRTIN,TINOS,1
+GRVTH,PORT VATHY,1
+GRZAN,ZANTE,1
+GRZZZ,O P GREECE,1
+GTCHR,CHAMPERICO,1
+GTFRS,FLORES,1
+GTGUA,GUATEMALA CITY,1
+GTLIV,LIVINGSTON,1
+GTTKM,TIKAL,1
+GTZZZ,O P GUATEMALA,1
+GUGUM,GUAM,1
+GUZZZ,O P GUAM,1
+GWBOL,BOLAMA,1
+GWCAC,CACHEU,1
+GWZZZ,O P GUINEA-BISSAU,1
+GYZZZ,O P GUYANA,1
+HKKWN,KOWLOON,1
+HKVIC,VICTORIA,1
+HKZZZ,O P HONG KONG,1
+HMZZZ,O P HEARD & MCDONALD IS,1
+HNAHS,AHUAS,1
+HNAMP,AMAPALA,1
+HNBHG,BRUS LAGUNA,1
+HNGJA,GUANAJA,1
+HNHNN,HENECAN,1
+HNLCE,LA CEIBA,1
+HNLUI,LA UNION,1
+HNOAN,OLANCHITO,1
+HNPEU,PUERTO LEMPIRA,1
+HNRTB,ROATAN,1
+HNSAP,SAN PEDRO SULA,1
+HNSLZ,SAN LORENZO,1
+HNTCF,TOCOA,1
+HNTGU,TEGUCIGALPA,1
+HNTJI,TRUJILLO,1
+HNUII,UTILA,1
+HNZZZ,O P HONDURAS,1
+HRHVA,HVAR,1
+HRKOR,KORCULA,1
+HRROV,ROVINJ,1
+HRSEN,SENJ,1
+HRSUS,RIJEKA SUSAK,1
+HRZAG,ZAGREB,1
+HRZZZ,OTHER,1
+HTACA,LES CAYES,1
+HTCAP,CAP-HAITIEN,1
+HTFLI,FORT LIBERTE,1
+HTGVS,GONAIVES,1
+HTJEE,JEREMIE,1
+HTLFF,LAFFITEAU,1
+HTMIR,MIRAGOANE,1
+HTSMC,ST MARC,1
+HTZZZ,O P HAITI,1
+HUAGE,AGERDOMAJOR,1
+HUAGF,AGFALVA,1
+HUAGG,AGGTELEK,1
+HUART,ARTAND,1
+HUBAJ,BAJANSENYE,1
+HUBAL,BALASSAGYARMAT,1
+HUBAN,BANREVE,1
+HUBIH,BIHARKERSZTES,1
+HUBUC,BUCSU,1
+HUBUD,BUDAPEST,1
+HUCSE,CSENGERSIMA,1
+HUDRA,DRAVASZABOLCS,1
+HUEPE,EPERJESKE,1
+HUEST,ESZTERGOM,1
+HUFER,FERTOUJLAK,1
+HUGYE,GYEKENYES,1
+HUGYO,GYOR,1
+HUGYU,GYULA,1
+HUHEG,HEGYESHALOM,1
+HUHER,HERCEGSZANTO,1
+HUHIS,HIDASNEMETI,1
+HUIPO,IPOLYTARNOC,1
+HUKEL,KELEBIA,1
+HUKOM,KOMAROM,1
+HUKOS,KOSZEG,1
+HUKOT,KOTEGYAN,1
+HULET,LETENYE,1
+HULOK,LOKOSHAZA,1
+HUMGB,MAGYARBOLY,1
+HUMGF,MAGYARFALVA,1
+HUMOH,MOHACS,1
+HUMUR,MURAKERESZTUR,1
+HUNAG,NAGYLAK,1
+HUNYI,NYIRABRANY,1
+HUPAR,PARASSAPUSZTA,1
+HURAB,RABAFUZES,1
+HURED,REDICS,1
+HURJB,RAJKABRANY,1
+HURJK,RAJKA,1
+HUROS,ROSZKE,1
+HUSAL,SALGOTARJAN,1
+HUSAT,SATORALJAUJHELY,1
+HUSOM,SOMOSKOUJFALU,1
+HUSOP,SOPRON,1
+HUSPG,SOPRON GYSEV,1
+HUSZE,SZEGED,1
+HUSZG,SZENTGOTTHARD,1
+HUSZO,SZOB,1
+HUTOD,TORNANADASKA,1
+HUTOM,TOMPA,1
+HUTON,TORNYOSNEMETI,1
+HUUDV,UDVAR,1
+HUVAM,VAMOSSZABADI,1
+HUZAH,ZAHONY,1
+HUZZZ,O P HUNGARY,1
+IDAHI,AMAHAI,1
+IDAMP,"AMPENAN, BALI",1
+IDARJ,"ARJUNA, JAVA",1
+IDARU,ARUN,1
+IDBAP,"BATU AMPAR, BATAM",1
+IDBDO,"BANDUNG, JAVA",1
+IDBEJ,BERAU,1
+IDBGG,BANGGAI,1
+IDBKU,"BENGKULU, SUMATRA",1
+IDBLV,BELILING,1
+IDBON,BONTANG,1
+IDBRG,BURUNG,1
+IDBTH,BATAM (ex BATU BESAR),1
+IDBTJ,BANDA ACEH,1
+IDBTM,BATAM ISLAND,1
+IDBUI,BOKONDINI,1
+IDBUW,"BAUBAU, BUTUNG",1
+IDBXD,BADE,1
+IDCBN,"CIREBON, JAVA",1
+IDCIN,"CINTA, JAVA",1
+IDCLG,CIGADING,1
+IDDAS,"DABO, SINGKEP",1
+IDENE,"ENDE, FLORES",1
+IDEWI,ENAROTALI,1
+IDFOO,NUMFOR,1
+IDGIL,"GILIMANUK, BALI",1
+IDGLX,"GALELA, HALMAHERA",1
+IDILA,ILLAGA,1
+IDJOG,"JOGJAKARTA, JAVA",1
+IDKAR,"KAROSA, SULAWESI",1
+IDKBL,"KABIL, BATAM",1
+IDKEI,KEPI,1
+IDKEK,KUALA ENOK,1
+IDKEQ,KEBAR,1
+IDKMA,"KUALA MANDAH, SUMATRA",1
+IDKMM,KIMAM,1
+IDKNG,"KAIMANA, IRIAN JAYA",1
+IDKTG,KUALA TANJUNG,1
+IDKTL,KUALA TUNGGAL,1
+IDLAH,"LABUHAN, JAVA",1
+IDLAS,"LANGSA, SUMATRA",1
+IDLII,MULIA,1
+IDLKA,LARANTUKA,1
+IDLOB,"LOBAM, BINTAN",1
+IDLUV,LANGGUR,1
+IDMAL,MANGOLE,1
+IDMAS,MARISA,1
+IDMDP,MINDIPTANA,1
+IDMEG,MENENG,1
+IDMEQ,"MEULABOH, SUMATRA",1
+IDMES,"MEDAN, SUMATRA",1
+IDMJU,MAMUJU,1
+IDMNA,MELANGGUANE,1
+IDMNT,"MANTANG, RIAU",1
+IDMOF,"MAUMERE, FLORES",1
+IDMUF,MUTING,1
+IDMUO,"MUNTOK, BANKA",1
+IDMXB,MASAMBA,1
+IDNAH,NAHA,1
+IDNAM,NAMLEA,1
+IDNBX,NABIRE,1
+IDNON,"NONGSAPURA, BATAM",1
+IDNTI,BINTUNI,1
+IDNUN,NUNUKAN,1
+IDOJV,OTHER PORTS IN JAVA,1
+IDOKQ,"OKABA, IRIAN JAYA",1
+IDOLO,OLEE LHEUE,1
+IDONI,MOANAMANI,1
+IDORI,OTHER PORTS IN RIAU,1
+IDOSU,OTHER PORTS IN SUMATRA,1
+IDPAG,"PAGATAN, KALIMANTAN",1
+IDPAS,PASIR PANJANG,1
+IDPAZ,"PASURUAN, JAVA",1
+IDPBG,"PULAU BURUNG, SUMATRA",1
+IDPDJ,TANDJANG,1
+IDPEX,"PEKALONGAN, JAVA",1
+IDPGK,"PANGKALPINANG, BANKA",1
+IDPGX,"PANGKAL BALAM, BANKA",1
+IDPKN,PANGKALANBUUN,1
+IDPKR,"PANGKALAN BRANDAN, SUMATRA",1
+IDPMG,PORT MENENG,1
+IDPNN,"PAMANUKAN, JAVA",1
+IDPPO,"PALAPO, SULAWESI",1
+IDPRN,"PANARUKAN, JAVA",1
+IDPSJ,"POSO, SULAWESI",1
+IDPSU,"PANGKALAN SUSU, SUMATRA",1
+IDPWG,PERAWANG,1
+IDRAQ,RAHA,1
+IDRGT,"RENGAT, SUMATRA",1
+IDRTG,"RUTENG, FLORES",1
+IDSBO,"TELUK SEBONG, BINTAN",1
+IDSBS,"SAMBAS, KALIMANTAN",1
+IDSEB,"SEBANGAN BAY, KALIMANTAN",1
+IDSIA,"SIAK YECHIL, RIAU",1
+IDSIQ,"SINGKEP, RIAU",1
+IDSKI,"SANGKULIRANG, KALIMANTAN",1
+IDSKW,"SINGKAWANG, KALIMANTAN",1
+IDSNP,"SUMENEP, MADURA",1
+IDSOC,SOLO CITY,1
+IDSPA,"SELAT PANDJANG, SUMATRA",1
+IDSQR,SOROAKO,1
+IDSSI,SIAK SRI INDRAPURA,1
+IDSUG,"SUNGAI GERONG, SUMATRA",1
+IDSUP,"SUNGAI PAKNING, SUMATRA",1
+IDSUQ,"SUNGAI GUNTUNG, SUMATRA",1
+IDSUS,"SUSOH, SUMATRA",1
+IDSWQ,SUMBAWA,1
+IDTAN,"TANJUNG UBAN, RIAU",1
+IDTAX,"TALTABU, CELEBES",1
+IDTBT,"TANDJUNG BATU, RIAU",1
+IDTEG,"TEGAL, JAVA",1
+IDTHB,"TJERIBON, JAVA",1
+IDTJI,"TJILATJAP, JAVA",1
+IDTJQ,"TANJUNG PANDAN, BELITUNG",1
+IDTKA,"TELOK AYER, KALIMANTAN",1
+IDTKG,"TELUK BETUNG, SUMATRA",1
+IDTLI,TOLITOLI,1
+IDTMO,TELOK MELANO,1
+IDTNJ,"TANJUNG PINANG, BINTAN",1
+IDTPK,"TAPAKTUAN, SUMATRA",1
+IDTPP,TANJUNG PRIOK,1
+IDTSA,"TELUK SENIMBA, BATAM",1
+IDTTE,"TERNATE, HALMAHERA",1
+IDTUB,TUBAN,1
+IDWET,WAGETHE,1
+IDWGP,"WAINGAPU, SUMBA",1
+IDWMX,WAMENA,1
+IDZRI,"SERUI, IRIAN JAYA",1
+IDZZZ,O P INDONESIA,1
+IEARD,ARDMORE,1
+IEARK,ARKLOW,1
+IEBBG,BALBRIGGAN,1
+IEBLK,BALLYKISSANE,1
+IEBLL,BALLINA,1
+IEBTH,BANTRY HARBOUR,1
+IEBTM,BALTIMORE,1
+IEBUR,BURTONPORT,1
+IECAH,CAHIRCIVEEN,1
+IECAR,CARLINGFORD,1
+IECLC,CLARECASTLE,1
+IECLI,CLIFDEN,1
+IECTB,CASTLETOWN BERE,1
+IEDCN,DUNCANNON,1
+IEDDK,DUNDALK,1
+IEDGV,DUNGARVAN,1
+IEDLG,DUN LAOGHAIRE,1
+IEDNM,DUNMORE EAST,1
+IEDON,DONEGAL,1
+IEFAS,FASTNET,1
+IEFEN,FENIT,1
+IEGRY,GREYSTONES,1
+IEHOW,HOWTH,1
+IEKBS,KILLYBEGS,1
+IEKLA,KILLALA,1
+IEKLN,KINSALE,1
+IEKLR,KILRUSH,1
+IEKRN,KILRONAN HARBOUR,1
+IEMOV,MOVILLE,1
+IENRS,NEW ROSS,1
+IERAT,RATHMULLEN,1
+IEROS,ROSSLARE HARBOUR,1
+IESCH,SCHULL,1
+IESNN,SHANNON,1
+IESXL,SLIGO,1
+IETRA,TRALEE,1
+IEVAL,VALENTIA,1
+IEWES,WESTPORT,1
+IEWEX,WEXFORD,1
+IEWIC,WICKLOW,1
+IEYOU,YOUGHAL,1
+IEZZZ,O P IRELAND,1
+ILACR,ACRE,1
+ILBEV,BEER SHEBA,1
+ILJFA,JAFFA,1
+ILNAT,NATANYA,1
+ILRPN,ROSH PINA,1
+ILSED,SEDOM,1
+ILTLV,BEN GURION INTL APT/TEL AVIV,1
+ILZZZ,O P ISRAEL,1
+IMCTN,CASTLETOWN,1
+IMDGS,DOUGLAS,1
+IMIOM,RONALDSWAY APT,1
+IMPEL,PEEL,1
+IMRAM,RAMSEY,1
+IMZZZ,O P ISLE OF MAN,1
+INAGR,AGRA,1
+INALF,ALLEPPEY,1
+INAMD,AHMEDABAD,1
+INATQ,AMRITSAR,1
+INBBI,BHUBANESWAR,1
+INBDQ,VADODARA (BARODA),1
+INBED,BEDI,1
+INBET,BETUL,1
+INBEY,BEYPORE,1
+INBHJ,BHUJ,1
+INBHO,BHOPAL,1
+INBLR,BANGALORE,1
+INBND,BANDDAR,1
+INCAM,CAMBAY,1
+INCAR,CARIJAM,1
+INCBL,CHANDBALI,1
+INCJB,COIMBATORE,1
+INCLC,CALICUT/KOZHIKODE,1
+INCOL,COLOCHEL,1
+INCOO,COONDAPUR,1
+INCUM,CUTCH MANDVI,1
+INDAM,DAMAN,1
+INDEL,DELHI,1
+INDIB,DIBRUGARH,1
+INDIU,DIU,1
+INDMU,DIMAPUR,1
+INDUR,DURGAPUR,1
+INDWA,DWARKA,1
+INENN,ENNORE,1
+INFAR,FARRAKKA,1
+INGAU,GAUHATI,1
+INGOP,GORAKHPUR,1
+INGUD,GUDUR,1
+INGWL,GWALIOR,1
+INHJR,KHAJURAHO,1
+INHOH,HOHABAR,1
+INHON,HONAVAR,1
+INHYD,HYDERABAD,1
+INIDR,INDORE,1
+INIMF,IMPHAL,1
+INIXA,AGARTALA,1
+INIXB,BAGDOGRA,1
+INIXC,CHANDIGARH,1
+INIXD,ALLAHABAD,1
+INIXE,MANGALORE (NEW MANGALORE),1
+INIXG,BELGAUM,1
+INIXI,LILABARI,1
+INIXJ,JAMMU,1
+INIXK,KESHOD,1
+INIXL,LEH,1
+INIXM,MADURAI,1
+INIXR,RANCHI,1
+INIXS,SILCHAR,1
+INIXU,AURANGABAD,1
+INJAF,JAFARABAD,1
+INJAI,JAIPUR,1
+INJDH,JODHPUR,1
+INJLR,JABALPUR,1
+INJMG,JAMMAGAR,1
+INJNP,PORT JAWAHARLAL NEHRU,1
+INJRH,JORHAT,1
+INKAT,KATHIAWAR,1
+INKBT,KHAMBHAT,1
+INKNU,KANPUR,1
+INKOD,KODINAR,1
+INKOI,KOILTHOLTAM,1
+INKOK,KOKA,1
+INLKO,LUCKNOW,1
+INMAH,MAHE,1
+INMAL,MALPE,1
+INMDP,MANDAPAM,1
+INMGR,MANGROL,1
+INMLI,MAROLI,1
+INMUR,MURAD,1
+INNAG,NAGPUR,1
+INNAN,NANCOWRIE,1
+INNEE,NEENDHAKARA,1
+INNEL,NELLORE,1
+INPAN,"PANAJI, GOA",1
+INPAT,PATNA,1
+INPGH,PANTNAGAR,1
+INPID,PORT INDAI,1
+INPIN,PINDHARA,1
+INPNQ,POONA,1
+INPON,PONDICHERY,1
+INPRT,PARADIP,1
+INPUL,PULICAT,1
+INPUR,PURI,1
+INQUI,QUILON,1
+INRAJ,RAJKOT,1
+INRAM,RAMESHWARAM,1
+INRAT,RATNAGIRI,1
+INRPR,RAIPUR,1
+INRRI,RAIRI,1
+INSHI,SHIRODA,1
+INSIK,SIKA,1
+INSXR,SRINAGAR,1
+INTAD,TADRIP,1
+INTEL,TELLICHERRY,1
+INTEZ,TEZPUR,1
+INTIR,TIRUPATI,1
+INTIV,TIVIRI,1
+INTRA,TRANQUEBAR,1
+INTRV,TRIVANDRUM,1
+INTRZ,TIRUCHIRAPALLI,1
+INUDR,UDAIPUR,1
+INUMB,UMBERGAON (GUJARAT),1
+INVEP,VEPPALODAI,1
+INVGA,VIJAYAWADA,1
+INVNS,VARANASI (BENARES),1
+INZZZ,O P INDIA,1
+IOZZZ,O P BRITISH INDIAN OCEAN TERR,1
+IQBGW,BAGHDAD,1
+IQFAO,FAO,1
+IQHIL,HILLAH,1
+IQIKD,ISKANDARIYHA,1
+IQISM,MJOSU,1
+IQKAR,KARBALA,1
+IQKIK,KIRKUK,1
+IQMAB,MINA AL BAKIR,1
+IQMAN,MANDALI,1
+IQMAW,MAWSIL,1
+IQNAS,NAJAT,1
+IQOSM,MOSUL,1
+IQSAM,SAMARA,1
+IQZZZ,O P IRAQ,1
+IRABD,ABADAN,1
+IRAWZ,AHWAZ,1
+IRAZD,YAZD,1
+IRBDH,BANDAR LENGEH,1
+IRBMR,BANDAR MASHUR,1
+IRHTP,HARTA POINT,1
+IRKAS,KASHAN,1
+IRKER,KERMAN,1
+IRKIH,KISH ISLAND,1
+IRKSH,BAKHTARAN,1
+IRMHD,MASHAD,1
+IROMH,ORUMIEH,1
+IRPMA,PORT OF MAHSHAHR,1
+IRQEM,QESHM,1
+IRSHB,SHYAH BANDER,1
+IRSIX,SARI,1
+IRSYZ,SHIRAZ,1
+IRTBZ,TABRIZ,1
+IRTHR,TEHRAN,1
+IRZAH,ZAHEDAN,1
+IRZBR,CHAH-BAHAR,1
+IRZZZ,O P IRAN (ISLAMIC REP OF),1
+ISAEY,AKUREYRI,1
+ISAKR,AKRANES,1
+ISBIU,BILDUDALUR,1
+ISBLO,BLONDUOS,1
+ISBOR,BORGARNES,1
+ISBOV,BOLUNGAVIRK,1
+ISDJV,DJUPIVOGUR,1
+ISEFJ,ESKIFJORDUR,1
+ISEGS,EGILSSTADIR,1
+ISFAG,FAGURHOLSMYRI,1
+ISFAS,FASKRUDSFJORDUR,1
+ISFLA,FLATEYRI,1
+ISGJR,GJOGUR,1
+ISGRY,GRIMSEY,1
+ISHFF,HAFNARFJORDUR,1
+ISHFN,HOFN,1
+ISHVK,HOLMAVIK,1
+ISHVM,HVAMMSTANGI,1
+ISHZK,HUSAVIK,1
+ISIFJ,ISAFJORDUR,1
+ISKEF,KEFLAVIK,1
+ISMVA,MYVATN,1
+ISOLF,OLAFSFJORDUR,1
+ISOLV,OLAFSVIK,1
+ISPFJ,PATREKSFJORDUR,1
+ISREK,REYKJAVIK,1
+ISRFJ,REYDARFJORDUR,1
+ISRFN,RAUFARHOFN,1
+ISSAK,SAUDARKROKUR,1
+ISSEJ,SEYDISFJORDUR,1
+ISSIJ,SIGLUFJORDUR,1
+ISSTR,STRAUMSVIK,1
+ISSUD,SUDUREYRI,1
+ISSYK,STYKKISHOLMUR,1
+ISTEY,THINGEYRI,1
+ISTHH,THORLAKSHOFN,1
+ISVEY,VESTMANNAEYJAR,1
+ISVPN,VOPNAFJORDUR,1
+ISZZZ,O P ICELAND,1
+ITAGR,AGRIGENTO,1
+ITAHO,ALGHERO,1
+ITANZ,ANZIO,1
+ITATX,ARBATAX,1
+ITAVO,AVOLA,1
+ITBGY,BERGAMO,1
+ITBLN,BAGNOLI,1
+ITBLQ,BOLOGNA,1
+ITBLT,BARLETTA,1
+ITBLX,BELLUNO,1
+ITCAS,CASTELLAMMARE DI STABIA,1
+ITCEC,CECINA,1
+ITCIA,ROMA-CIAMPINO APT,1
+ITCLF,CARLOFORTE,1
+ITCTR,CASTELLAMMARE DEL GOLFO,1
+ITCTW,CROTONE,1
+ITFER,FERMO,1
+ITFLR,FIRENZE,1
+ITFOL,FOLLONICA,1
+ITGAL,GALLIPOLI,1
+ITIMP,IMPERIA,1
+ITLIC,LICATA,1
+ITLIN,MILANO-LINATE,1
+ITLMP,LAMPEDUSA,1
+ITMAZ,MAZARA DEL VALLO,1
+ITMDA,MADDALENA,1
+ITMEL,MELILLI,1
+ITMIL,MILANO,1
+ITMNP,MONOPOLI,1
+ITMOL,MOLFETTA,1
+ITMRA,MARSALA,1
+ITMSA,MASSA,1
+ITMXP,MILANO-MALPENSA,1
+ITPAZ,PORTO AZZURRO,1
+ITPFE,PORTOFERRAIO,1
+ITPGL,PORTIGLIONI,1
+ITPNL,PANTELLERIA,1
+ITPOM,POMEZIA,1
+ITPOZ,POZZUOLI,1
+ITPRE,PRESSURO,1
+ITPSA,PISA,1
+ITQCS,COSENZA,1
+ITQCZ,CATANZARO,1
+ITQSS,SASSARI,1
+ITREG,REGGIO CALABRIA,1
+ITRMA,RIO MARINA,1
+ITRMI,RIMINI,1
+ITROM,ROMA,1
+ITSIR,SIRACUSA,1
+ITSMA,SANTA MARIA,1
+ITSOO,SORRENTO,1
+ITSRE,SAN REMO,1
+ITTAL,TALAMONE,1
+ITTRN,TORINO,1
+ITTRV,TREVISO,1
+ITTUR,TURIN,1
+ITUDN,UDINE,1
+ITVCE,VENEZIA,1
+ITVIA,VIAREGGIO,1
+ITVRN,VERONA,1
+ITZZZ,O P ITALY,1
+JEJER,"STATES APT, JERSEY",1
+JETTY,TRINITY,1
+JEZZZ,O P JERSEY,1
+JMALP,ALLIGATOR POND,1
+JMBLR,BLACK RIVER,1
+JMBWN,BOWDEN,1
+JMFMH,FALMOUTH,1
+JMGGT,GEORGETOWN,1
+JMMVJ,MANDEVILLE,1
+JMORC,ORACA-BESSA,1
+JMPMO,PORT MORANT,1
+JMPRO,PORT ROYAL,1
+JMSAW,ST ANNS BAY,1
+JMSRI,SALT RIVER,1
+JMZZZ,O P JAMAICA,1
+JOAMM,AMMAN,1
+JOAQB,AQABA FREE ZONE,1
+JOZZZ,O P JORDAN,1
+JPABO,"ABOSHI, HYOGO",1
+JPACH,"ACHISU, YAMAGUCHI",1
+JPAIK,"AIKAWA, NIIGATA",1
+JPAIN,"AINOURA, NAGASAKI",1
+JPAIO,"AIOI, HYOGO",1
+JPAJX,"AJA, OKINAWA",1
+JPAKA,"AKASHI, HYOGO",1
+JPAKE,"AKKESHI, HOKKAIDO",1
+JPAKJ,"ASAHIGAWA (ASAHIKAWA),HOKKAIDO",1
+JPAKT,"AKITSU, HIROSHIMA",1
+JPANA,"ANAN, TOKUSHIMA",1
+JPANE,"ANEGASAKI, CHIBA",1
+JPAON,"AONAE, HOKKAIDO",1
+JPARA,"ARARI, SHIZUOKA",1
+JPASJ,"AMAMIOSHIMA, KAGOSHIMA",1
+JPCHI,"CHINA, KAGOSHIMA",1
+JPCHO,"CHOSHI, CHIBA",1
+JPCTS,"CHITOSE APT/SAPPORO, HOKKAIDO",1
+JPEMU,"EMUKAI, NAGASAKI",1
+JPENO,"ENOURA, SHIZUOKA",1
+JPESI,"ESASHI, HOKKAIDO",1
+JPFHR,"FURUHIRA, HOKKAIDO",1
+JPFKS,"FUKUSHIMA, HOKKAIDO",1
+JPFNK,"FUNAKAWA, AKITA",1
+JPFUJ,"FUKUE, NAGASAKI",1
+JPFUK,FUKUOKA,1
+JPFUT,"FUTAJIMA, FUKUOKA",1
+JPGAJ,YAMAGATA,1
+JPGOI,"GOI, CHIBA",1
+JPGON,"GONOURA, NAGASAKI",1
+JPHAB,"HABU, HIROSHIMA",1
+JPHAC,"HACHIJOJIMA, TOKYO",1
+JPHAG,"HAGI, YAMAGUCHI",1
+JPHDA,"HANDA, AICHI",1
+JPHED,"HEDONO, KAGOSHIMA",1
+JPHEI,"HEIANZA, OKINAWA",1
+JPHIA,"HIAGARI, FUKUOKA",1
+JPHIK,"HIKI, WAKAYAMA",1
+JPHIN,"HINASE, OKAYAMA",1
+JPHIR,"HIROO, HOKKAIDO",1
+JPHKN,"HEKINAN, AICHI",1
+JPHKS,"HAKATASHIMA, EHIME",1
+JPHMM,"HAMAMATSU, SHIZUOKA",1
+JPHNA,"HANAMAKI, IWATE",1
+JPHND,HANEDA APT/TOKYO,1
+JPHRH,"HIROHATA, HYOGO",1
+JPHRR,"HIRARA, OKINAWA",1
+JPHSA,"HOSOSHIMA, KYUSHIU IS",1
+JPHTR,"HATERUMA, OKINAWA",1
+JPICH,"ICHIHARA, CHIBA",1
+JPICK,"ICHIKAWA, CHIBA",1
+JPIEJ,"IEJIMA, OKINAWA",1
+JPIIN,"NISHINOOMOTE, KAGOSHIMA",1
+JPIKE,"IKEJIMA, NAGASAKI",1
+JPIKI,"IKI, NAGASAKI",1
+JPINO,"INOBE, KAGOSHIMA",1
+JPISE,"ISE, MIE",1
+JPISI,"ISHIKARI, HOKKAIDO",1
+JPISS,"ISHIKARIWAN-SHINKO, HOKKAIDO",1
+JPIWJ,"IWOJIMA, NAGASAKI",1
+JPIWN,"IWANAI, HOKKAIDO",1
+JPIWO,"IWOTO, TOKYO",1
+JPIYM,"IYOMISHIMA, EHIME",1
+JPIZH,"IZUHARA, NAGASAKI",1
+JPIZO,"IZUMO, SHIMANE",1
+JPKAD,"KAIDA, HIROSHIMA",1
+JPKAM,"KAMETOKU, KAGOSHIMA",1
+JPKAS,"KASE, NAGASAKI",1
+JPKAT,"KATSUURA, WAKAYAMA",1
+JPKAW,"KAWAUCHI, AOMORI",1
+JPKBI,"KOBUI, HOKKAIDO",1
+JPKHR,"KIHARA, HIROSHIMA",1
+JPKJI,"KUJI, IWATE",1
+JPKKM,"KATAKAMI, OKAYAMA",1
+JPKKX,"KIKAIGA SHIMA, OKINAWA",1
+JPKMA,"KAMA, MIYAGI",1
+JPKMQ,"KOMATSU, ISHIKAWA",1
+JPKMS,"KUMESHIMA, OKINAWA",1
+JPKNY,"KONIYA, KAGOSHIMA",1
+JPKON,"KONOSHIMA, OKAYAMA",1
+JPKRH,"KURIHAMA, KANAGAWA",1
+JPKRS,"KURUSHIMA, EHIME",1
+JPKSD,"KASADO, YAMAGUCHI",1
+JPKSK,"KUROSAKI, FUKUOKA",1
+JPKTD,"KITADAITO, OKINAWA",1
+JPKTI,"KATAICHI, HIROSHIMA",1
+JPKUJ,"KUSHIMOTO, WAKAYAMA",1
+JPKUM,"YAKUSHIMA, KAGOSHIMA",1
+JPKUR,"KATSUURA, CHIBA",1
+JPKUS,"KUSUDOMARI, NAGASAKI",1
+JPKWN,"KAWANOE, EHIME",1
+JPMAE,"MAEASHI, GUNMA",1
+JPMAG,"MATEGATA, EHIME",1
+JPMAK,"MAKIYAMA, FUKUOKA",1
+JPMBE,"MONBETSU, HOKKAIDO",1
+JPMEI,"MEIHAMA, FUKUOKA",1
+JPMHR,"MIHARA, HIROSHIMA",1
+JPMIH,"MIHONOSEKI, SHIMANE",1
+JPMIY,"MIYAZU, KYOTO",1
+JPMKS,"MITSUKOSHIMA, HIROSHIMA",1
+JPMKW,"MIKAWA, AICHI",1
+JPMMB,"MEMANBETSU, HOKKAIDO",1
+JPMMD,"MINAMI-DAITO, OKINAWA",1
+JPMMJ,"MATSUMOTO, NAGANO",1
+JPMMY,"MIYAKOJIMA, OKINAWA",1
+JPMOR,"MORI, HOKKAIDO",1
+JPMRT,"MUROTSU, YAMAGUCHI",1
+JPMRW,"MORIOKA, IWATE",1
+JPMSJ,"MISAWA, AOMORI",1
+JPMSK,"MASHIKE, HOKKAIDO",1
+JPMTH,"MITSUHAMA, EHIME",1
+JPMTM,"MATSUMAE, HOKKAIDO",1
+JPMTR,"MUTSURE, FUKUOKA",1
+JPMUS,"MUKAISHIMA, HIROSHIMA",1
+JPMYE,MIYAKEJIMA APT/TOKYO,1
+JPNAA,"NAGAURA, NAGASAKI",1
+JPNAD,"NADAHAMA, HYOGO",1
+JPNAG,"NAGAHAMA, SHIMANE",1
+JPNAK,"NAKAGUSUKU, OKINAWA",1
+JPNEM,"NEMURO, HOKKAIDO",1
+JPNGH,"NAGAHAMA, EHIME",1
+JPNGK,"NAGAKUSHI, NAGASAKI",1
+JPNHJ,"NOHEJI, AOMORI",1
+JPNHR,"NISHIHARA, OKINAWA",1
+JPNIC,"NICHINAN, MIYAZAKI",1
+JPNJA,"ATSUGI, KANAGAWA",1
+JPNOB,"NOBEOKA, MIYAZAKI",1
+JPNRT,NARITA APT/TOKYO,1
+JPNRU,"NARUTO, TOKUSHIMA",1
+JPNSU,"NAGASU, FUKUOKA",1
+JPNUM,"NUMAZU, SHIZUOKA",1
+JPNYO,"NANYO, YAMAGUCHI",1
+JPOBM,"OBAMA, FUKUI",1
+JPOBO,"OBIHIRO, HOKKAIDO",1
+JPOGA,"OGASAWARA, TOKYO",1
+JPOGF,"OGIFUSHI, HOKKAIDO",1
+JPOGN,"YONAGUNI-JIMA, OKINAWA",1
+JPOIG,"OHIGAWA, SHIZUOKA",1
+JPOIM,"OSHIMA, TOKYO",1
+JPOIR,"OKUSHIRI, HOKKAIDO",1
+JPOIT,OITA,1
+JPOKD,"OKADAMA APT/SAPPORO, HOKKAIDO",1
+JPOKE,"OKINOERABU, KAGOSHIMA",1
+JPOKI,"OKI, SHIMANE",1
+JPOKJ,OKAYAMA,1
+JPOKO,YOKOTA APT/TOKYO,1
+JPOKT,"OKITSU, SHIZUOKA",1
+JPOMJ,"OMURA, NAGASAKI",1
+JPOMS,"OMISHIMA, EHIME",1
+JPOMT,"OMINATO, AOMORI",1
+JPOMZ,"OMAEZAKI, SHIZUOKA",1
+JPONB,"ONNEBETSU, HOKKAIDO",1
+JPONG,"ONAGAWA, MIYAGI",1
+JPONI,"ONISHI, EHIME",1
+JPONO,"ONOMICHI, HIROSHIMA",1
+JPONU,"ONUKI, NAGASAKI",1
+JPOSM,"OSHIMA, NAGASAKI",1
+JPOTM,"OTOMI, FUKUI",1
+JPOTU,"OTSU, SHIGA",1
+JPRBJ,"REBUN, HOKKAIDO",1
+JPRIS,"RISHIRI, HOKKAIDO",1
+JPRNJ,"YORONJIMA, KAGOSHIMA",1
+JPSAI,"SAIGO, SHIMANE",1
+JPSAJ,"SAIJO, EHIME",1
+JPSAM,"SAMANI, HOKKAIDO",1
+JPSDO,"RYOTSU (SADO), NIIGATA",1
+JPSEN,"SENDAI, KAGOSHIMA",1
+JPSGI,"SHIGETOMI, KAGOSHIMA",1
+JPSHB,"NAKASHIBETSU, HOKKAIDO",1
+JPSHI,"SHIMOJISHIMA, OKINAWA",1
+JPSHM,"SHIRAHAMA, WAKAYAMA",1
+JPSHR,"SHARI, HOKKAIDO",1
+JPSKA,"SHIMOKITA, AOMORI",1
+JPSKW,"SHINKAWA, AICHI",1
+JPSMA,"SOUMA, FUKUSHIMA",1
+JPSMB,"SHIMABARA, NAGASAKI",1
+JPSMD,"SHIMODA, SHIZUOKA",1
+JPSME,"SAME, AOMORI",1
+JPSMK,"SAMUKAWA, CHIBA",1
+JPSMM,"SHIMAMAKI, HOKKAIDO",1
+JPSPK,"SAPPORO, HOKKAIDO",1
+JPSRK,"SHIROSAKI, IWATE",1
+JPSSJ,"SHISAKAJIMA, EHIME",1
+JPSSK,"SAISAKI, HIROSHIMA",1
+JPSTD,"SETODA, HIROSHIMA",1
+JPSTN,"SETANA, HOKKAIDO",1
+JPSTU,"SUTSU, HOKKAIDO",1
+JPSTZ,"SAITOZAKI, FUKUOKA",1
+JPSUK,"SUKUMO, KOCHI",1
+JPSUM,"SUMINOE, SAGA",1
+JPSYZ,"SHIRIYAZAKI, AOMORI",1
+JPSZK,"SENZAKI, YAMAGUCHI",1
+JPSZU,"SHIZUURA, SHIZUOKA",1
+JPTAD,"TADOTSU, KAGAWA",1
+JPTAH,"TAKAHAMA, EHIME",1
+JPTAM,"TAMANO, OKAYAMA",1
+JPTAN,"TANAGAWA, OSAKA",1
+JPTAU,"TAURA, SHIZUOKA",1
+JPTGM,"TAGUMA, HIROSHIMA",1
+JPTHM,"TANOHAMA, IWATE",1
+JPTKK,"TAKAOKA, TOYAMA",1
+JPTKN,"TOKUNOSHIMA, KAGOSHIMA",1
+JPTKR,"TOKORO, HOKKAIDO",1
+JPTKS,TOKUSHIMA,1
+JPTMR,"TOMARI, OKINAWA",1
+JPTNE,"TANEGASHIMA, KAGOSHIMA",1
+JPTNI,"TSUNEISHI, HIROSHIMA",1
+JPTNU,"TANOURA, FUKUOKA",1
+JPTOB,"TOBA, MIE",1
+JPTOG,"TOKI (TOGI), ISHIKAWA",1
+JPTOM,"TOMIOKA, TOKUSHIMA",1
+JPTON,"TONOURA, MIYAZAKI",1
+JPTOT,"TOTORO, MIYAZAKI",1
+JPTOU,"TOUYO, EHIME",1
+JPTRA,"TARAMAJIMA, OKINAWA",1
+JPTRK,"TSURIKAKE, HOKKAIDO",1
+JPTRM,"TSURUMI, KANAGAWA",1
+JPTSG,"TAKASAGO, HYOGO",1
+JPTSJ,"TSUSHIMA, NAGASAKI",1
+JPTSK,"TSURUSAKI, OITA",1
+JPTSM,"TAKASHIMA, NAGASAKI",1
+JPTSO,"TESHIO, HOKKAIDO",1
+JPTSZ,"TOSASHIMIZU, KOCHI",1
+JPTTY,"TATEYAMA, CHIBA",1
+JPTYM,"TSUIYAMA, FUKUI",1
+JPTZK,"TSUCHIZAKI, AKITA",1
+JPUCH,"UCHIUMI, MIYAZAKI",1
+JPUCR,"UCHIURA, ISHIKAWA",1
+JPUCU,"UCHINOURA, FUKUI",1
+JPUGU,"UGUSU, SHIZUOKA",1
+JPUJI,"UJINA, HIROSHIMA",1
+JPUKY,KYOTO,1
+JPUNT,"UNTEN, OKINAWA",1
+JPUOZ,"UOZU, TOYAMA",1
+JPURG,"URAGA, KANAGAWA",1
+JPURK,"URAKAWA, HOKKAIDO",1
+JPUSH,"USHIMADO, OKAYAMA",1
+JPUSJ,"USUJIRI, HOKKAIDO",1
+JPUSK,"USUKI, OITA",1
+JPUSU,"USUNOURA, NAGASAKI",1
+JPUWA,"UWAJIMA, EHIME",1
+JPWAD,"WADOMARI, KAGOSHIMA",1
+JPWJM,"WAJIMA, ISHIKAWA",1
+JPYAE,"YAEYAMA, OKINAWA",1
+JPYAM,"YAMAKAWA, KAGOSHIMA",1
+JPYBT,"YUBETSU, HOKKAIDO",1
+JPYGJ,"YONAGO, TOTTORI",1
+JPYKS,"YOKOSHIMA, HIROSHIMA",1
+JPYMG,YAMAGUCHI,1
+JPYOU,"YOURA, OITA",1
+JPYSU,"YOSHIURA, HIROSHIMA",1
+JPYWH,"YAWATAHAMA, EHIME",1
+JPYZU,"YAIZU, SHIZUOKA",1
+JPZZZ,O P JAPAN,1
+KEKIS,KISUMU,1
+KEKIU,KIUNGA,1
+KELAU,LAMU,1
+KEMYD,MALINDI,1
+KENBO,NAIROBI/JOMO KENYATTA INTL APT,1
+KEWIL,WILSON APT/NAIROBI,1
+KEZZZ,O P KENYA,1
+KGFEG,FERGANA,1
+KGFRU,BISHKEK,1
+KGZZZ,O P KYRGZSTAN,1
+KHCHE,CHEKO,1
+KHKKO,KAS KONG,1
+KHSIH,SIHANOUKVILLE,1
+KHZZZ,O P CAMBODIA,1
+KIAEA,ABEMAMA,1
+KIAIS,ARORAE ISLAND,1
+KIBBG,BUTARITARI,1
+KIBEZ,BERU,1
+KIMNK,MAIANA,1
+KIMTK,MAKIN ISLAND,1
+KIMZK,MARAKEI,1
+KINIG,NIKUNAU,1
+KINON,NONOUTI,1
+KIOOT,ONOTOA,1
+KIPHO,PHOENIX ISLANDS,1
+KITBF,TABITEUEA NORTH,1
+KITMN,TAMANA ISLAND,1
+KIWNI,WASHINGTON ISLANDS,1
+KIZZZ,O P KIRIBATI,1
+KMAJN,ANJOUAN,1
+KMHAH,HAHAYA APT/MORONI,1
+KMNWA,MOHELI,1
+KMYVA,MORONI,1
+KMZZZ,O P COMOROS,1
+KNCHA,"CHARLESTOWN, NEVIS",1
+KNSKB,GOLDEN ROCK/ST KITTS,1
+KNZZZ,O P ST.KITTS-NEVIS,1
+KPFNJ,PYONGYANG,1
+KPGEN,GENSAN,1
+KPZZZ,"O P KOREA, DEM PEO REP OF",1
+KRICN,INCHEON INTL APT/SEOUL,1
+KRKAN,KWANGYANG,1
+KRKWJ,KWANGJU,1
+KRMUK,MUKHO,1
+KRPNC,PUSAN,1
+KRSEL,KIM PO APT/SEOUL,1
+KRSHO,SOCKCHO,1
+KRSUK,SAMCHOK,1
+KRTAE,TAEGU,1
+KRZZZ,"O P KOREA, REP OF",1
+KWJAH,JAHRAN,1
+KWJBD,JEBEL DHANA,1
+KWJUA,JUAYMAH,1
+KWKWI,KUWAIT,1
+KWMIS,MINA SAUD,1
+KWRAK,RAS AL-KHAFJI,1
+KWZZZ,O P KUWAIT,1
+KYGCM,GRAND CAYMAN,1
+KYLYB,LITTLE CAYMAN,1
+KYZZZ,O P CAYMAN ISL,1
+KZAKX,AKHTUBINSK,1
+KZALA,ALMATY (ALMA MATA),1
+KZKGF,KARAGANDA,1
+KZSCO,AKTAU,1
+KZZZZ,O P KAZAKHSTAN,1
+LAVTE,VIENTIANE,1
+LAZZZ,O P LAO PEO DEM REP,1
+LBSAY,SAYDA,1
+LBSUR,SUR (TYRE),1
+LBTIO,TRIPOLI,1
+LBZZZ,O P LEBANON,1
+LCSLU,ST LUCIA/PORT CASTRIES,1
+LCZZZ,O P ST. LUCIA,1
+LIZZZ,O P LIECHSTENSTEIN,1
+LKBRW,BERUWALA,1
+LKBTC,BATTICOLOA,1
+LKKAL,KALPITIYA,1
+LKKAY,KAYTS,1
+LKMAN,MANNAR,1
+LKMUL,MULATIVU,1
+LKPPE,POINT PEDRO,1
+LKRML,COLOMBO/RATMALANA APT,1
+LKTAL,TALAIMANNAR,1
+LKZZZ,O P SRI LANKA,1
+LRCMT,CAPE MOUNT,1
+LRFIM,FIMIBO,1
+LRFOX,FOYA,1
+LRGBS,GRAND BASSA,1
+LRGRC,GRAND CESS,1
+LRHBL,HARBEL,1
+LRMAR,MARSHALL,1
+LRNIA,NIMBA,1
+LRROX,ROBERTSPORT,1
+LRRVC,RIVERCESS,1
+LRSAB,SARIOE BAY,1
+LRSAZ,SASSTOWN,1
+LRSNI,SINOE,1
+LRTHC,TCHIEN,1
+LRTRT,TRADE TOWN,1
+LRVOI,VOINJAMA,1
+LRZZZ,O P LIBERIA,1
+LSLES,LESOBENG,1
+LSMKH,MOKHOTLONG,1
+LSMSU,MASERU,1
+LSNKU,NKOUS,1
+LSSHK,SEHONGHONG,1
+LSSOK,SEMONGKONG,1
+LSTHB,THABA-TSEKA,1
+LSUNE,QACHAS NEK,1
+LSZZZ,O P LESOTHO,1
+LTBGR,BAGRATIONOVSK,1
+LTBLT,BALTIYSK,1
+LTKAN,KAUNAI,1
+LTKLD,KALININGRAD,1
+LTKLP,KLAIPEDA,1
+LTMMO,MAMONOVA,1
+LTPAZ,PANEVEZYS,1
+LTVNO,VILNIUS,1
+LTZZZ,OTHER,1
+LULUX,LUXEMBOURG,1
+LUZZZ,O P LUXEMBOURG,1
+LVDGP,DAUGAVPILS,1
+LVLIE,LIEPAYA,1
+LVRZK,REZEKNE,1
+LVZZZ,OTHER,1
+LYABA,AL BAYDA,1
+LYAKF,AL KHOFRA,1
+LYAPO,APOLLONIA,1
+LYBAR,EL BARDIA,1
+LYBUA,BUERT EL HSUN,1
+LYGHT,GHAT,1
+LYLTD,GHADAMES,1
+LYMBR,MARSA BREGHA,1
+LYMEH,MARSA EL HANIA,1
+LYSEB,SABHA,1
+LYSOU,SOUSSAH,1
+LYSRT,SIRTE (SURT),1
+LYTAG,TAGIURA,1
+LYTOA,TOULMEITHA,1
+LYTUK,TUKRAH,1
+LYZLI,ZLITEN,1
+LYZZZ,O P LIBYAN ARAB JAMAHIRIYA,1
+MAAHU,AL HOCEIMA,1
+MAASI,ASILAH,1
+MAAZE,AZEMMOUR,1
+MAELJ,ELJADIDA,1
+MAESS,ESSAOUIRA,1
+MAFEZ,FEZ,1
+MAKNT,KENITRA/P LYAUTEY,1
+MALAR,LARACHE,1
+MAMAZ,MAZAGAN,1
+MAMOG,MOGADOR,1
+MAOUD,OUJDA,1
+MAOZZ,OUARZAZATE,1
+MARAM,MARRAKACH,1
+MASAL,SALE,1
+MATTU,TETUAN,1
+MAZZZ,O P MOROCCO,1
+MCZZZ,O P MONACO,1
+MDBRS,BERESTOVITSA,1
+MDKIV,KISHINEV,1
+MDZZZ,O P MOLDOVA,1
+MEBAR,BAR,1
+MEKOT,KOTOR,1
+METGD,PODGORICA,1
+MEZEL,ZELENIKA,1
+MEZZZ,O P MONTENEGRO,1
+MGADK,ANDROKA,1
+MGAMB,AMBILOBE,1
+MGAMP,AMPANIHY,1
+MGANM,ANTALAHA,1
+MGBIK,BRICKAVILLE,1
+MGBKU,BETIOKY,1
+MGBMD,BELO,1
+MGBPY,BESALAMPY,1
+MGBRR,BARREN ISLANDS,1
+MGDOA,DOANY,1
+MGDWB,SOALALA,1
+MGHLV,HELL-VILLE,1
+MGHVA,ANALALAVA,1
+MGIVA,AMBANJA,1
+MGMJA,MANJA,1
+MGMNJ,MANANJARY,1
+MGMOB,MANOMBO,1
+MGMOQ,MORONDAVA,1
+MGMXM,MOROMBE,1
+MGMXT,MAINTIRANO,1
+MGNOV,NOSY-VARIKA,1
+MGOVA,BEKILY,1
+MGRVA,FARAFANGANA,1
+MGSVB,SAMBAVA,1
+MGTNR,ANTANANARIVO,1
+MGTTS,TSARATANANA,1
+MGTVA,MORAFENOBE,1
+MGVAT,VATOMANDRY,1
+MGVEH,VEHIPERRO,1
+MGVOH,VOHEMAR,1
+MGVVB,MAHANORO,1
+MGWAD,ANDRIAMENA,1
+MGWAI,ANTSOHIHY,1
+MGWAK,ANKAZOABO,1
+MGWAM,AMBATONDRAZAKA,1
+MGWAQ,ANTSALOVA,1
+MGWBD,BEFANDRIANA,1
+MGWBE,BEALANANA,1
+MGWBO,BEROROHA,1
+MGWFI,FIANARANTSOA,1
+MGWMA,MANDRITSARA,1
+MGWMD,MANDABE,1
+MGWML,MALAIMBANDY,1
+MGWMN,MAROANTSETRA,1
+MGWMR,MANANARA,1
+MGWPB,PORT BERGE (VAOVAO),1
+MGWTA,TAMBOHORANO,1
+MGWTS,TSIROANOMANDIDY,1
+MGWVK,MANAKARA,1
+MGZVA,MIANDRIVAZO,1
+MGZWA,ANDAPA,1
+MGZZZ,O P MADAGASCAR,1
+MHZZZ,O P MARSHALL ISL,1
+MKBLC,BLACE,1
+MKBLT,BLATO,1
+MKBRD,BOGORODICA,1
+MKBRV,BEROVO,1
+MKBTL,BITOLA,1
+MKDLV,DELCEVO,1
+MKDVB,DEVE BAIR,1
+MKGST,GOSTIVAR,1
+MKGVL,GEVGELIA,1
+MKJNC,JACINCE,1
+MKKCV,KICEVO,1
+MKKFN,KAFASAN,1
+MKKUM,KUMANOVO,1
+MKKVD,KAVADARCI,1
+MKMTL,MEDZITILIJA,1
+MKNGT,NEGOTINO,1
+MKNSL,NOVO SELO,1
+MKOHD,OHRID,1
+MKPLN,PELINCE,1
+MKPLP,PRILEP,1
+MKPTR,PETROVEC,1
+MKRSN,RESEN,1
+MKSDR,STAR DOJRAN,1
+MKSKP,SKOPJE,1
+MKSPT,SOPOT,1
+MKSTE,STENJE,1
+MKSTG,STRUGA,1
+MKSTM,STRUMICA,1
+MKSTN,SVETI NAUM,1
+MKSTP,STIP,1
+MKTBN,TABANOVCE,1
+MKTBR,TRUBAREVO,1
+MKTEV,TETOVO,1
+MKVLK,VOLKOVO,1
+MKVLS,VELES,1
+MKZZZ,O P MACEDONIA,1
+MLBKO,BAMAKO,1
+MLGAO,GAO,1
+MLKYS,KAYES,1
+MLMZI,MOPTI,1
+MLNIX,NIORO,1
+MLNRM,NARA,1
+MLZZZ,O P MALI,1
+MMBIL,BILIN,1
+MMBMO,BHAMO,1
+MMBOG,BOGALE,1
+MMGAW,GANGAW,1
+MMGWA,GWA,1
+MMHEB,HENZADA,1
+MMHEN,HEHO,1
+MMINS,INSEIN,1
+MMKET,KENGTUNG,1
+MMKMV,KALEMYO,1
+MMKYA,KYAIKIAT,1
+MMKYP,KYAUKPYU,1
+MMKYT,KYAUKTAW,1
+MMLIW,LOIKAW,1
+MMLSH,LASHIO,1
+MMMAR,MARTABAN,1
+MMMDL,MANDALAY,1
+MMMER,MERGUI,1
+MMMOE,MOMEIK,1
+MMMOG,MONG HSAT,1
+MMMUR,MURDON,1
+MMMWQ,MAGWE,1
+MMMYT,MYITKYINA,1
+MMNMS,NAMSANG,1
+MMNYU,NYAUNG-U,1
+MMPAA,PA-AN,1
+MMPAU,PAUK,1
+MMPEG,PEGU,1
+MMPKK,PAKOKKU,1
+MMPPU,PAPUN,1
+MMSNW,SANDOWAY,1
+MMTAS,TAH SALA,1
+MMTAV,TAVOY,1
+MMTEN,TENASSESIM,1
+MMTER,TERUTAO ISLAND,1
+MMTHA,THATON,1
+MMVIC,VICTORIA POINT,1
+MMXYE,YE,1
+MMZZZ,O P MYANMAR,1
+MNULN,ULAN BATOR,1
+MNZZZ,O P MONGOLIAN PEO REP,1
+MOZZZ,O P MACAU,1
+MPZZZ,O P NORTHERN MARIANA ISL,1
+MQZZZ,O P MARTINIQUE,1
+MRAEO,AIOUN EL ATROUSS,1
+MRAJJ,AKJOUJT,1
+MRATR,ATAR,1
+MREMN,NEMA,1
+MRKED,KAEDI,1
+MROUZ,ZOUERATE,1
+MRSEY,SELIBABY,1
+MRTIY,TIDJIKJA,1
+MRZZZ,O P MAURITANIA,1
+MSMNI,MONTSERRAT,1
+MSZZZ,O P MONTSERRAT,1
+MTPAO,PAOLA,1
+MTZZZ,O P MALTA,1
+MUMRU,SIR SEEWOOSAGUR RAMGOOLAM INT APT,1
+MUZZZ,O P MAURITIUS,1
+MVZZZ,O P MALDIVES REP OF,1
+MWBLZ,BLANTYRE,1
+MWKGJ,KARONGA,1
+MWLLW,LILONGWE,1
+MWZZZ,O P MALAWI,1
+MXAOB,ALVARO OBREGON,1
+MXAVD,"ALVARADO, VER",1
+MXCEN,CIUDAD OBREGON,1
+MXCJS,CIUDAD JUAREZ,1
+MXCTM,"CHETUMAL, ROV",1
+MXCUL,CULIACAN,1
+MXCUN,"CANCUN, ROO",1
+MXCUU,"CHIHUAHUA, CHI",1
+MXCVM,CIUDAD VICTORA,1
+MXDGO,DURANGO,1
+MXFRN,"FRONTERA, TAB",1
+MXFTZ,FRONTERAS,1
+MXGDL,"GUADALAJARA, GRO",1
+MXHMO,"HERMOSILLO, SON",1
+MXISD,ISLA CEDROS,1
+MXISJ,ISLA MUJERES,1
+MXLEN,LEON,1
+MXMAM,"MATAMOROS, TAM",1
+MXMEX,MEXICO CITY,1
+MXMID,"MERIDA, YUC",1
+MXMTT,MINATITLAN,1
+MXMTY,"MONTERREY, NL",1
+MXMXL,"MEXICALI, BCN",1
+MXNLD,"NUEVO LAREDO, TAM",1
+MXNOG,"NOGALES, SON",1
+MXOAX,"OAXACA, OAX",1
+MXOJI,"OJINAGA, CHI",1
+MXPAZ,POZA RICA,1
+MXPMX,"PUERTO MEXICO, COA",1
+MXPPE,"PUERTO PENASCO, SON",1
+MXPVR,"PUERTO VALLARTA, GRO",1
+MXREX,"REYNOSA, TAM",1
+MXSBS,"SAN BLAS, NAY",1
+MXSCZ,"SALINA CRUZ, DAX",1
+MXSFH,"SAN FELIPE, BCN",1
+MXSON,"SONOYT, SON",1
+MXTAP,"TAPACHULA, CHI",1
+MXTGZ,TUXTLA GUTIERREZ,1
+MXTIJ,"TIJUANA, BCN",1
+MXTRC,"TORREON, COA",1
+MXVER,VERACRUZ,1
+MXVSA,VILLAHERMOSA,1
+MXXIH,"ZIHUATANEJO, GRO",1
+MXZZZ,O P MEXICO,1
+MYAOR,ALOR SETAR,1
+MYBAG,BAGAN DATOK,1
+MYBAT,BATU PAHAT,1
+MYBAU,"BAU, SARAWAK",1
+MYBBA,"BATU BATU, SABAH",1
+MYBBN,BARIO,1
+MYBCA,BATU CAVES,1
+MYBDV,"BANDAU, SABAH",1
+MYBEL,"BELURAN, SABAH",1
+MYBGG,"BUNAN GEGA, SARAWAK",1
+MYBGU,"BANGGAU, SABAH",1
+MYBIA,"BIAWAK, SARAWAK",1
+MYBKM,BAKALALAN,1
+MYBLG,"BELAGA, SARAWAK",1
+MYBLI,"BATU LINGTAN, SARAWAK",1
+MYBMA,BANDAR MAHARANI,1
+MYBNG,"BINATANG, SARAWAK",1
+MYBNT,"BENUT, JOHOR",1
+MYBST,BESUT (KUALA BESUT),1
+MYBTG,"BETONG, SARAWAK",1
+MYBTU,"BINTULU, SARAWAK",1
+MYDDW,DANJINDAWAI,1
+MYDGN,DUNGUN (KUALA DUNGUN),1
+MYDRO,"DARO, SARAWAK",1
+MYEND,ENDAU,1
+MYHUM,HUTAN MELINGTANG,1
+MYIPH,IPOH,1
+MYJAM,"JAMBONGAN, SABAH",1
+MYJOH,O P JOHORE,1
+MYKAB,"KABONG, SARAWAK",1
+MYKBA,KUALA BARAM,1
+MYKBD,"KOTA BELUD, SABAH",1
+MYKBE,"KUALA BELUD, SABAH",1
+MYKBR,KOTA BHARU,1
+MYKBS,KUALA BESAR,1
+MYKES,KEJIT,1
+MYKGU,KUALA GULA,1
+MYKIJ,KIJAL,1
+MYKIM,"KIMANIS, SABAH",1
+MYKKH,KUALA KEDAH,1
+MYKKP,KUKUP,1
+MYKPI,"KAPIT, SARAWAK",1
+MYKPS,KUALA PERLIS,1
+MYKPU,"KUALA PENYU, SABAH",1
+MYKRE,KRETY,1
+MYKSD,KUALA SEDILI,1
+MYKSG,"KUALA SEGAMA, SABAH",1
+MYKSL,KUALA SELANGOR,1
+MYKTI,KOTA TINGGI,1
+MYKUL,KUALA LUMPUR,1
+MYLBH,"LABUAN HADJI, SABAH",1
+MYLGG,"LINGGA, SARAWAK",1
+MYLMN,"LIMBANG, SARAWAK",1
+MYLSM,LONG SEMADO,1
+MYLSU,LONG SUKANG,1
+MYLUN,"LUNDU, SARAWAK",1
+MYLWY,"LAWAS, SARAWAK",1
+MYMAL,O P MALAYSIA,1
+MYMEM,"MEMPAKUL, SABAH",1
+MYMEN,MENASI,1
+MYMER,MERSING,1
+MYMKM,"MUKAH, SARAWAK",1
+MYMUA,MUAR,1
+MYMUR,"MARUDI, SARAWAK",1
+MYODN,LONG SERIDAN,1
+MYPAL,"PALOH, SARAWAK",1
+MYPAN,PANCHANG,1
+MYPAS,PASIR GOGOK,1
+MYPAY,PAMOL,1
+MYPBA,"PULAU BATIK, SABAH",1
+MYPED,PEDENA,1
+MYPHI,PASIR HITAM,1
+MYPKA,PEKAN,1
+MYPKK,PENGKALAN KUBOR,1
+MYPLK,PULAU LANGKAWI,1
+MYPOW,PONTIAN,1
+MYPPI,PULAU PISANG,1
+MYPRN,KUALA ROMPIN,1
+MYPTB,"PULAU TAMBISAN, SABAH",1
+MYPTI,PULAU TIOMAN,1
+MYPUN,"PUNANG, SARAWAK",1
+MYREJ,"REJANG, SARAWAK",1
+MYRNU,RANAU,1
+MYSAB,O P SABAH,1
+MYSAM,"SAMBU, SARAWAK",1
+MYSAR,"SARIKAI, SARAWAK",1
+MYSBC,SEBANA COVE,1
+MYSDM,SINDUMIN,1
+MYSDR,"SUNDAR, SARAWAK",1
+MYSEJ,"SEJINGKAT, SARAWAK",1
+MYSEL,"SELALANG, SARAWAK",1
+MYSEM,"SEMATAN, SARAWAK",1
+MYSIL,SILAY,1
+MYSIR,SIRAN,1
+MYSME,SRI MEDAN,1
+MYSMG,"SIMANGGANG, SARAWAK",1
+MYSMJ,"SIMUNJAN, SARAWAK",1
+MYSMM,"SEMPORNA, SABAH",1
+MYSPE,SUNGAI PAPAN ESTATE,1
+MYSPG,"SIMPANGAN, SABAH",1
+MYSRE,SUNGAI RENGIT,1
+MYSRK,"SIRIKIN, SARAWAK",1
+MYSRW,O P SARAWAK,1
+MYSZB,SUBANG KUALA LUMPUR APT,1
+MYTAS,TELOK INTAN,1
+MYTBA,TANJONG BARAN,1
+MYTDA,TANJONG DAWAI,1
+MYTEN,"TENGKU, SABAH",1
+MYTGG,KUALA TRENGGANU,1
+MYTKP,TANJONG KUPANG,1
+MYTMB,TUMBUM,1
+MYTMG,TOMANGGONG,1
+MYTMI,"TANJONG MANI, SARAWAK",1
+MYTRM,TELOK RAMUNIA,1
+MYTSR,TANJONG SURAT,1
+MYTTE,TANDJUNG TENGELILI,1
+MYTUM,TUMPAT,1
+MYTUN,TUNGKU,1
+MYWAL,"WALLACE BAY, SABAH",1
+MYWES,"WESTON, SABAH",1
+MZANO,ANGOCHE,1
+MZAPL,NAMPULA,1
+MZBEL,BELA VISTA,1
+MZCHI,CHINDE,1
+MZIBO,IBO,1
+MZMAT,MATOLA,1
+MZMCU,MACUSE,1
+MZMEM,MEMBA,1
+MZMOR,MORRUMBENE,1
+MZMSG,MASSINGA,1
+MZNSO,NOVA SOFALA,1
+MZTET,TETE,1
+MZZZZ,O P MOZAMBIQUE,1
+NAERS,WINDHOEK-EROS APT,1
+NAGFY,GROOTFONTEIN,1
+NAKMP,KEETMANSHOOP,1
+NATSB,TSUMEB,1
+NAWDH,WINDHOEK-J.G. STRYDOM APT,1
+NAZZZ,O P NAMIBIA,1
+NCBMY,BELEP ISLAND,1
+NCHLU,HOUAILOU,1
+NCILP,ILE DES PINS,1
+NCKNQ,KONE,1
+NCKOC,JOUMAC,1
+NCPDC,MUEO,1
+NCTOU,TOUHO,1
+NCZZZ,O P NEW CALEDONIA,1
+NEAJY,AGADES,1
+NEMFQ,MARADI,1
+NENIM,NIAMEY,1
+NERLI,ARLIT,1
+NETHZ,TAHOUA,1
+NEZND,ZINDER,1
+NEZZZ,O P NIGER,1
+NFNLK,NORFOLK ISLAND,1
+NFZZZ,O P NORFOLK ISL,1
+NGABO,ABONNEMA,1
+NGADO,ADO,1
+NGBAD,BADAGRI,1
+NGBNI,BENIN CITY,1
+NGBRA,BRASS,1
+NGDEN,DENEMA,1
+NGEKE,EKET,1
+NGENU,ENUGU,1
+NGFOR,FORCADOS,1
+NGGRP,GREEK PORT,1
+NGIBA,IBADAN,1
+NGJOS,JOS,1
+NGKAD,KADUNA,1
+NGKAN,KANO,1
+NGKUL,KULA,1
+NGMIU,MAIDUGURI,1
+NGOBO,QUE OBOE TERMINAL/EKET,1
+NGORO,ORON,1
+NGSKO,SOKOTO,1
+NGYOL,YOLA,1
+NGZZZ,O P NIGERIA,1
+NIBEF,BLUEFIELDS/EL BLUFF,1
+NIBZA,BONANZA,1
+NIMGA,MANAGUA,1
+NIRNI,CORN ISLAND,1
+NISIU,SIUNA,1
+NIWSP,WASPAM,1
+NIZZZ,O P NICARAGUA,1
+NLALK,ALKMAAR,1
+NLALM,ALMELO,1
+NLAME,AMERSFOORT,1
+NLAPE,APELDOORN,1
+NLAPN,ALPHEN A/D RIJN,1
+NLARN,ARNHEM,1
+NLBEH,BERGH-AUTOWEG,1
+NLBER,BERGEN OP ZOOM,1
+NLBEV,BEVERWIJK,1
+NLBEY,BERGEIJK,1
+NLBRD,BREDA,1
+NLBRR,BARENDRECHT,1
+NLBRS,BRESKENS,1
+NLCOE,COEVORDEN,1
+NLDEN,DENEKAMP-FRENSDORFERHAAR,1
+NLDEV,DEVENTER,1
+NLDFT,DELFT,1
+NLDKP,DE KEMPEN,1
+NLDOE,DOESBURG,1
+NLDPS,DE POPPE-SPRINGBIEL,1
+NLDRA,DRACHTEN,1
+NLDUI,DUIVEN,1
+NLDZL,DELFZIJL,1
+NLEDE,EDE,1
+NLEED,EEDE,1
+NLEIN,EINDHOVEN,1
+NLEMM,EMMEN,1
+NLENS,ENSCHEDE,1
+NLEUR,EUROPOORT,1
+NLEYS,EIJSDEN,1
+NLGLA,GLANERBRUG,1
+NLGOI,GOIRLE,1
+NLGOR,GORINCHEM,1
+NLGOU,GOUDA,1
+NLGRQ,GRONINGEN,1
+NLHAA,HAARLEM,1
+NLHAG,DEN HAAG/S-GRAVENHAGE,1
+NLHAN,HANSWEERT,1
+NLHEU,HEURNE/HEMDEN,1
+NLHFD,HOOFDDORP,1
+NLHGL,HENGELO,1
+NLHLD,DEN HELDER,1
+NLHLM,HELMOND,1
+NLHRB,S-HEERENBERG,1
+NLHRL,HEERLEN-AUTOWEG,1
+NLHRN,HOORN,1
+NLHTB,S-HERTOGENBOSCH,1
+NLHUL,HULST,1
+NLHVS,HILVERSUM,1
+NLITT,ITTERVOORT,1
+NLKAM,KAMPEN,1
+NLKAP,KAPELLEBRUG,1
+NLLAN,LANWERSOOG,1
+NLLEE,LEEUWARDEN,1
+NLLEI,LEIDEN,1
+NLLOB,LOBITH,1
+NLMEP,MEPPEL,1
+NLMID,MIDDELBURG,1
+NLMST,MAASTRICHT,1
+NLNIJ,NIJMEGEN,1
+NLNIS,NISPEN,1
+NLNSC,NIEUWE SCHANS/BUNDERNEULAND,1
+NLOLZ,OLDENZAAL,1
+NLOSS,OSS,1
+NLOVR,OUD VROENHOVEN,1
+NLPAP,PAPENDRECHT,1
+NLPUT,PUTTE,1
+NLROO,ROOSENDAAL,1
+NLSCI,SCHIEDAM,1
+NLSLS,SLUIS,1
+NLSLU,SLUISKIL,1
+NLSPI,SPIJKENISSE,1
+NLTEG,TEGELEN,1
+NLTIE,TIEL,1
+NLTLB,TILBURG,1
+NLUTR,UTRECHT,1
+NLVDM,VEENDAM,1
+NLVEG,VEGHEL,1
+NLVEN,VENLO,1
+NLVLO,VENLO-AUTOWEG,1
+NLWHT,WERNHOUT,1
+NLWLK,WAALWIJK,1
+NLWRT,WEERT,1
+NLWSC,WINSCHOTEN,1
+NLWTE,WEST-TERSCHELLING,1
+NLWTW,WINTERSWIJK,1
+NLWTZ,WESTZAAN,1
+NLZAA,ZAANDAM,1
+NLZEV,ZEVENAAR,1
+NLZUT,ZUTPHEN,1
+NLZWI,ZWIJNDRECHT,1
+NLZWO,ZWOLLE,1
+NLZZZ,O P NETHERLANDS,1
+NOAAN,ARDAL,1
+NOBAR,BARUM,1
+NOBDU,BARDUFOSS,1
+NOBJF,BATSFJORD,1
+NOBJX,BJORKAS,1
+NOBKD,BREKSTAD,1
+NOBNN,BRONNOYSUND,1
+NOBUV,BUVIKEN,1
+NOBVG,BRATTVAG,1
+NOELV,ELVERUM,1
+NOEVE,EVENES/HARSTAD APT,1
+NOEYD,EYDEHAVN,1
+NOFAU,FAUSKE,1
+NOFDE,FORDE-DYRANA,1
+NOFNE,FINSENS,1
+NOFOL,FOLLAFOSS,1
+NOFOS,FOSNAVAG,1
+NOFRS,FORUS,1
+NOGEN,GARDERMOEN APT/OSLO,1
+NOGRE,GREAKER,1
+NOGVK,GJOVIK,1
+NOHAR,HARSTAD,1
+NOHMR,HAMAR,1
+NOHOK,HOMMELVIK,1
+NOHOV,ORSTA-VOLDA,1
+NOHVG,HONNINGSVAG,1
+NOHVI,HAVIK,1
+NOHYR,HOYANGER,1
+NOJAR,JARLSBERG APT/TONSBERG,1
+NOJSS,JOSSINGHAMN,1
+NOKMO,KAMBO,1
+NOKOP,KOPERVIK,1
+NOKSB,KONGSBERG,1
+NOKSV,KONGSVINGER,1
+NOKYR,KYRKSATERORA,1
+NOLAD,LANGESUND,1
+NOLER,LERVIK,1
+NOLEV,LEVANGER,1
+NOLKL,LAKSELV,1
+NOLRI,LEIRVIK,1
+NOLST,LILLESTROM,1
+NOLYR,LONGYEARBYEN,1
+NOMEH,MEHAMN,1
+NOMEL,MELBU,1
+NOMLM,MALM,1
+NOMOJ,MOSJOEN,1
+NOMRV,MURVIK,1
+NONDE,NOTODDEN,1
+NOOYE,OYE,1
+NORRS,ROROS,1
+NORVK,RORVIK,1
+NOSAS,SANDNES,1
+NOSDZ,STORDAL,1
+NOSGJ,STRAUMGJERDE,1
+NOSJA,SENJA,1
+NOSKN,STOKMARKNES,1
+NOSKU,SKUDENESHAVN,1
+NOSKX,SKOGN,1
+NOSLG,SLAGENSTANGEN,1
+NOSLX,SORTLAND,1
+NOSOG,SOGNDAL,1
+NOSPV,SPJELKAVIK,1
+NOSRN,STRANDA,1
+NOSRX,SOTRA,1
+NOSSJ,SANDNESSJOEN,1
+NOSTA,STATHELLE,1
+NOSTQ,STORD,1
+NOSUZ,STAMSUND,1
+NOSVV,SVELVIK,1
+NOSYK,SYKKYLVEN,1
+NOTAE,TANANGER,1
+NOTAU,TAU,1
+NOTJR,TJORVAG,1
+NOTOF,TOFTE I HURUM,1
+NOTOM,TOMREFJORD,1
+NOULS,ULSTEINVIK,1
+NOVAK,VAKSDAL,1
+NOVDA,VOLDA,1
+NOVER,VERDAL,1
+NOVST,VESTNES,1
+NOZZZ,O P NORWAY,1
+NPBIR,BIRATNAGAR,1
+NPBRG,BIRGUNJ,1
+NPKAI,KAILALI,1
+NPKAK,KAKARBITTA (JHAPA),1
+NPKTM,KATHMANDU,1
+NPPKR,POKHARA,1
+NPSIF,SIMARA,1
+NPSUN,SUNAULI,1
+NPZZZ,O P NEPAL,1
+NRZZZ,O P NAURU,1
+NUIUE,NIUE ISLAND,1
+NUZZZ,O P NIUE,1
+NZAKA,AKARON,1
+NZALR,ALEXANDRA,1
+NZAMZ,ARDMORE,1
+NZASB,ASHBURTON,1
+NZBHE,BLENHEIM,1
+NZBIE,BUBNIE,1
+NZCHC,CHRISTCHURCH,1
+NZCHE,CHEVIOT,1
+NZCHT,CHATHAM ISLAND,1
+NZDEV,DEVONPORT,1
+NZDGR,DARGAVILLE,1
+NZDPC,DEEP COVE,1
+NZFOR,FORTROSE,1
+NZFOX,FOXTON,1
+NZGBZ,GREAT BARRIER IS,1
+NZGOB,GOLDEN BAY,1
+NZGOS,GOSFORD,1
+NZGYU,GREYMOUTH,1
+NZHKK,HOKITIKA,1
+NZHLZ,HAMILTON,1
+NZIVC,INVERCARGILL,1
+NZKAK,KAIKOURA,1
+NZKAP,KAIAPOI,1
+NZKAT,KAITAIA,1
+NZKKO,KAIKOHE,1
+NZKTG,KAITANGATA,1
+NZMAM,MAFF MONGAMAI,1
+NZMMU,MOUNT NAUNGANUI,1
+NZMON,MOUNT COOK,1
+NZMOT,MOTUEKA,1
+NZOAM,OAMARU,1
+NZONE,ONEHUNGA (MAMEKAU HARBOUR),1
+NZPCX,PICTON,1
+NZPEO,PENROSE,1
+NZPMR,PALMERSTON,1
+NZRAG,RAGLAN,1
+NZRAV,RAVENSBOURNE,1
+NZROT,ROTORUA,1
+NZTAK,TAKATA,1
+NZTEU,TE ANAU,1
+NZTMZ,THAMES,1
+NZTUO,TAUPO,1
+NZWAT,WATAROA,1
+NZWAV,WAVERLEY HARBOUR,1
+NZWGA,WHALIGARI,1
+NZWHE,WHEKENUI,1
+NZWHK,WHAKATANE,1
+NZWHN,WHANGAPARAPARA,1
+NZWKA,WAIKAWA,1
+NZWKI,WAIKARI,1
+NZWRA,WAIROA,1
+NZWSZ,WESTPORT,1
+NZWTI,WAITAKI,1
+NZWWA,WALKWARTH,1
+NZZZZ,O P NEW ZEALAND,1
+OMFAH,FAHAL,1
+OMMFH,MIN-AL-FAHAL,1
+OMMUT,MUTHRA,1
+OMOPQ,PORT QABAS,1
+OMPQB,MINA (PORT) QABOOS,1
+OMZZZ,O P OMAN,1
+PAACU,ACHUTUPO,1
+PACDE,CALEDONIA,1
+PACHI,CHITRE,1
+PACRB,CHRISTOBAL OUTPORTS,1
+PACTE,CARTI,1
+PACZJ,CORAZON DE JESUS,1
+PADAV,DAVID,1
+PAELE,EL REAL,1
+PAGHE,GARACHINE,1
+PAGTN,GATUN,1
+PAJQE,JAQUE,1
+PAMFS,MIRAFLORES,1
+PAMIT,MANZANILLO,1
+PAMPP,MULATUPO,1
+PAMPT,MAMITUPO,1
+PANGN,NARGANA,1
+PAONX,COLON,1
+PAPAI,PARAISO,1
+PAPAY,PAYARDI,1
+PAPBE,PORTO BELLO,1
+PAPTY,PANAMA CITY,1
+PAPUE,PUERTO OBALDIA,1
+PAPVE,PORVENIR.,1
+PAPYC,PLAYON CHICO,1
+PAPYV,YAVISA,1
+PARIT,RIO TIGRE,1
+PARIZ,RIO ALZUCAR,1
+PARSI,RIO SIDRA,1
+PASAX,SAMBU,1
+PASFW,SANTA FE,1
+PATUE,TUPILE,1
+PATUW,TUBALA,1
+PAUTU,USTOPO,1
+PAZZZ,O P PANAMA,1
+PEANC,ANCON,1
+PEANS,ANDAHUAYLAS,1
+PEAQP,AREQUIPA,1
+PEATA,ANTA,1
+PEAYP,AYACUCHO,1
+PECIX,CHICLAYO,1
+PECJA,CAJAMARCA,1
+PEHUU,HUANUCO,1
+PEHUY,HUARMEY,1
+PEJJI,JUANJUI,1
+PELIM,LIMA,1
+PEPAC,PACASMAYO,1
+PEPCL,PUCALLPA,1
+PEPEM,PUERTO MALDONADO,1
+PEPIU,PIURA,1
+PEPSC,PISCO-GEN SAN MARTIN,1
+PEPUN,PUNO,1
+PERIJ,RIOJA,1
+PESAM,SAMANCO,1
+PESJA,SAN JUAN,1
+PESUP,SUPE,1
+PETBP,TUMBES,1
+PETCQ,TACNA,1
+PETDM,TAMBO DE MORA,1
+PETGI,TINGO MARIA,1
+PETPP,TARAPOTO,1
+PETRU,TRUJILLO,1
+PEYMS,YURIMAGUAS,1
+PEZOR,ZORRITOS,1
+PEZZZ,O P PERU,1
+PFAAA,ANAA,1
+PFAPK,APATAKI,1
+PFAUQ,ATUONA,1
+PFBOB,BORA BORA,1
+PFFAV,FAKARAVA,1
+PFGMR,GAMBIER ISLAND,1
+PFHOI,HAO IS,1
+PFHUH,HUAHINE,1
+PFKKR,KAUKURA,1
+PFMAU,MAUPITIA,1
+PFMEE,MARE,1
+PFMKP,MAKEMO,1
+PFMOZ,MOOREA,1
+PFMVT,MATAIVA,1
+PFNHV,NUKU HIVA,1
+PFRFP,RAIATEA IS,1
+PFRGI,RANGIROA IS,1
+PFRUR,RURUTU,1
+PFTIH,TIKEHAU,1
+PFTKP,TAKAPOTO,1
+PFTUB,TUBUAI ISLANDS,1
+PFUAH,UA HUKA,1
+PFUAP,UA POU,1
+PFXMH,MANIHI,1
+PFZZZ,O P FRENCH POLYNESIA,1
+PGABW,ABAU,1
+PGAEK,ASEKI,1
+PGAGG,ANGORAM,1
+PGAGL,WANIGELA,1
+PGAIE,AIOME,1
+PGAKI,AKINUM,1
+PGAMF,AMA,1
+PGAMU,AMANAB,1
+PGARP,ARAGIP,1
+PGATN,"NAMATANAI, NEW HANOVER ISLAND",1
+PGATP,AITAPE APT,1
+PGAUJ,AMBUNTI,1
+PGAYU,AIYURA,1
+PGAZB,AMAZON BAY,1
+PGBAA,BIALLA,1
+PGBAJ,BALI,1
+PGBAP,BAIBARA,1
+PGBEA,BEREINA,1
+PGBMZ,BAMU,1
+PGBNA,BUNA,1
+PGBNM,BODINUMU,1
+PGBNT,BUNDI,1
+PGBNZ,BANZ,1
+PGBOV,BOANG,1
+PGBUA,BUKA,1
+PGBUL,BULOLO,1
+PGBWP,BEWANI,1
+PGCGC,CAPE GLOUCESTER,1
+PGCMU,KUNDIAWA,1
+PGCPN,CAPE RODNEY,1
+PGCVL,CAPE VOGEL,1
+PGDAU,DARU,1
+PGDOO,DOROBISORO,1
+PGEFG,EFOGI,1
+PGEMI,EMIRAU,1
+PGEMS,EMBASSA,1
+PGERE,ERAVEZ,1
+PGESA,ESA'ALA,1
+PGFIN,FINSCHHAFEN,1
+PGFNE,FANE,1
+PGFUB,FULLEBORN,1
+PGGAP,GUSAP,1
+PGGAR,GARAINA,1
+PGGIL,GILAU,1
+PGGKA,GOROKA,1
+PGGMI,GASMATA ISLAND,1
+PGGRH,GARUAHI,1
+PGGRI,GREEN ISLAND,1
+PGGUG,GUARI,1
+PGHGU,MOUNT HAGEN,1
+PGHKN,HOSKINS,1
+PGHYF,HAYFIELDS,1
+PGIHU,IHU,1
+PGIIS,NISSAN ISLAND,1
+PGIMA,IAMALELE,1
+PGIMD,IMONDA,1
+PGIOK,IOKEA,1
+PGIOP,IOMA,1
+PGITK,ITOKOMA,1
+PGIUS,INUS,1
+PGJAQ,JACQUINOT BAY,1
+PGJOP,JOSEPHSTAAL,1
+PGKDE,KOROBA,1
+PGKDP,KANDEP,1
+PGKDR,KANDRIAN,1
+PGKEX,KANABEA,1
+PGKGW,KAGI,1
+PGKJU,KAMIRABA,1
+PGKKD,KOKODA,1
+PGKLO,KALO,1
+PGKMA,KEREMA,1
+PGKMR,KARIMUI,1
+PGKOM,KOMA-MANDA,1
+PGKOR,KOKORO,1
+PGKPA,KOPIAGO,1
+PGKPP,KAKAPO,1
+PGKQL,KOL,1
+PGKRI,KIKORI,1
+PGKRK,KAIRUKA,1
+PGKRX,KARKAR,1
+PGKUP,KUPIANO,1
+PGKZF,KAINTIBA,1
+PGLAB,LABLAB,1
+PGLMI,LUMI,1
+PGLNG,LESE,1
+PGLNM,LANGIMAR,1
+PGLNV,LONDOLOVIT,1
+PGLOL,LOLOHO,1
+PGLSA,LOSIUA,1
+PGMAG,MADANG,1
+PGMAM,MANAM ISLAND,1
+PGMAP,MAMAI,1
+PGMDM,MUNDUJU,1
+PGMDU,MENDI,1
+PGMGG,MARGARIMA,1
+PGMGP,MANGA,1
+PGMHY,MOREHEAD,1
+PGMIE,MIELELEK,1
+PGMIS,MISIMA ISLAND,1
+PGMKN,MALEKOLON,1
+PGMLW,MALALAUA,1
+PGMPU,MAPUA,1
+PGMRM,MANARE,1
+PGMWU,MUSSAU,1
+PGMYX,MENYAMYA,1
+PGNDI,NAMUDI,1
+PGNWT,NOWATA,1
+PGOPB,OPEN BAY,1
+PGOPU,BALIMO,1
+PGPAW,PAMBWA,1
+PGPMN,PUMANI,1
+PGPMP,PIMAGA,1
+PGPNP,POPONDETTA,1
+PGPUA,PUAS,1
+PGRAA,RAKANDA,1
+PGRAM,RAMBUTYO ISLAND,1
+PGRBP,RABARABA,1
+PGRGE,PORGERA,1
+PGRKU,YULE ISLAND,1
+PGRNR,ROBINSON RIVER,1
+PGRVI,RUSSEL ISLAND,1
+PGSAM,SALAMO,1
+PGSBV,SABAH,1
+PGSCH,SCHAUTEN,1
+PGSDI,SAIDOR,1
+PGSFU,SAFIA,1
+PGSGJ,SAGARAI,1
+PGSIL,SILA,1
+PGSIM,SIMBAI,1
+PGSMP,STOCKHOLM,1
+PGSMR,SAMARAI,1
+PGSMU,SALAMAU,1
+PGSOI,SOKAR ISLAND,1
+PGSPL,SIPUL,1
+PGSSS,SIASSI,1
+PGSXH,SEHULEA,1
+PGTAI,TAMBUTYO ISLAND,1
+PGTAL,"TALESIA, CAPE GLOUCESTER",1
+PGTAU,TAUGU ISLAND,1
+PGTBA,TABIBUGA,1
+PGTBG,TABUBIL,1
+PGTDB,TETEBEDI,1
+PGTEO,TERAPO,1
+PGTEP,TEPTEP,1
+PGTFI,TUFI,1
+PGTFM,TELEFOMIN,1
+PGTGL,TAGULA,1
+PGTIG,TINGWON,1
+PGTIZ,TARI,1
+PGTLO,TOL,1
+PGTOI,TOLOKIWA ISLAND,1
+PGTOK,TOROKINA,1
+PGTPI,TAPINI,1
+PGTSK,TASKUL,1
+PGUBI,BUIN,1
+PGUKU,NUKU,1
+PGUNG,KIUNGA,1
+PGUUU,MANUMU,1
+PGUVO,UVOL,1
+PGVMU,BAIMURU,1
+PGWAO,WABO,1
+PGWBM,WAPENAMANDA,1
+PGWED,WEDAU,1
+PGWEP,WEAM,1
+PGWIU,WITU,1
+PGWKN,WAKUNAI,1
+PGWOK,WOODLARK,1
+PGWTP,WOITAPE,1
+PGWUG,WAU,1
+PGWUV,WUVULU IS,1
+PGXBN,BINIGUNI,1
+PGZZZ,O P PAPUA NEW GUINEA,1
+PHABU,ABULOG/APARRI,1
+PHADL,ADLAY/BISLIG,1
+PHAHE,AHERON/OZAMIS,1
+PHALA,ALASANG/SIAIN,1
+PHALE,ALERAN/OZAMIS,1
+PHAMU,AMUNITAN/APARRI,1
+PHANA,ANAKAN/MASAO,1
+PHARA,ARAS ASAN/BISLIG,1
+PHATI,ATIMONAN/SIAIN,1
+PHBAB,BABATO/DADIANGAS,1
+PHBAG,BAGUIO,1
+PHBAI,BAIS/DUMAGUETE,1
+PHBAL,BALABOE,1
+PHBAU,BAUAN/BATANGAS,1
+PHBCO,BACON/LEGASPI,1
+PHBCT,"BASILAN CITY, BASILAN",1
+PHBCU,BACULIN/MATI,1
+PHBGI,BAGUI BAY/SAN FERNANDO,1
+PHBGR,BUCAR GRANDE/SURIAGAO,1
+PHBGS,BALINGASAG/CAGAY APT DE ORO,1
+PHBIY,BIYAWA/DAVAO,1
+PHBLA,BALANGA/BATAN,1
+PHBLC,BALABAC/ILIGAN,1
+PHBLG,BALOGO/BATANGAS,1
+PHBLN,BALENGAN/SIAIN,1
+PHBLP,BOLOS POINT/APARRI,1
+PHBLT,BALINTANG/PUERTO PRINCESA,1
+PHBLU,BALUMO/ZAMBOANGA,1
+PHBNQ,BAGANGA/MATI,1
+PHBNW,BANAWAN/DADIANGAS,1
+PHBOA,"BOAC, MARINDUQUE",1
+PHBOG,BOGO/CAGAYAN DE ORO,1
+PHBOS,BOSTON/DAVAO,1
+PHBQA,BALER/SIAIN,1
+PHBRB,BAROBO/BISLIG,1
+PHBRP,BROOKS POINT/SIAIN,1
+PHBRT,BARTON/PUERTO PRINCESA,1
+PHBSO,BASCO,1
+PHBSY,BASEY/CATBALOGAN,1
+PHBTS,BATARASA/PUERTO PRINCESA,1
+PHBTY,BANTAYON/SAN JOSE,1
+PHBUD,BUDBUD/DAVAO,1
+PHBUG,BUGO,1
+PHBUL,"BULAN, LUZON",1
+PHBUR,BURDEES/SIAIN,1
+PHBXU,BUTUAN BAY/MASAO APT,1
+PHBYB,BAYBAY/TACLOBAN,1
+PHBYP,BAYANG POINT,1
+PHBYS,BAYABAS/BISLIG,1
+PHBYW,BAYAWAN/DUMAGUETE,1
+PHCAB,CABUGAO BAY/LEGASPI,1
+PHCAJ,CAJODIOCAN/SIAIN,1
+PHCBO,"COTABATO, MINDANAO",1
+PHCCG,CALAG-CALAG/DUMAGUETE,1
+PHCDB,CALDERA BAY/ZAMBOANGA,1
+PHCGG,CASIGURAN/SIAIN,1
+PHCGM,CAMIGUIN ISLAND/APARRI,1
+PHCGP,CALUG POINT/ZAMBOANGA,1
+PHCGT,CALAGUITAN/TACLOBAN,1
+PHCLP,CALAPAN/BATANGAS,1
+PHCLV,CLAVERIA/APARRI,1
+PHCML,CAMALAGAWAN/APARRI,1
+PHCNT,CANTILAN/SURIGAO,1
+PHCNY,CANAYBON/CATBALOGAN,1
+PHCPL,CAPALONGA/SIAIN,1
+PHCRG,CARAGA/MATI,1
+PHCRT,CARTAGENA/ILOILO,1
+PHCSB,CASUL BAY/OZAMIS,1
+PHCTB,CATAMON BAY/ILOILO,1
+PHCTS,"CATBALOGAN, SAMAR",1
+PHCUG,CALUGIAN/TACLOBAN,1
+PHCUJ,CULION,1
+PHCUN,CATANAUAN,1
+PHCUR,CURUAN/ZAMBOANGA,1
+PHCVE,"CAVITE, LUZON",1
+PHCWY,CALOWAYAN/CATABALOGAN,1
+PHCYP,CALBAYOG APT,1
+PHCYZ,CAUAYAN,1
+PHDAD,"DADIANGAS, MINDANAO",1
+PHDDW,DINADIAWAN/APARRI,1
+PHDGL,DINGALAN/SIAIN,1
+PHDIC,DICULUM/ZAMBOANGA,1
+PHDID,DIDADONGAN/APARRI,1
+PHDIO,DIOTORIN/SIAIN,1
+PHDIR,DIRGALAN,1
+PHDIV,DIVILACAN/APARRI,1
+PHDNG,DINAGAT ISLAND/SURIGAO,1
+PHDNL,DINALONGAN/SIAIN,1
+PHDPL,DIPOLOG/OZAMIS,1
+PHDPT,DIAPITAN/SIAIN,1
+PHDRB,DIARABOAN/SIAIN,1
+PHELN,EL NIDO/PUERTO PRINCESA,1
+PHGAC,GACHITORENA/JOSE PANGANIBAN,1
+PHGAS,GASAN,1
+PHGGG,GIGAGUIT/SURIGAO,1
+PHGGM,GIGMOTE/LEGASPI,1
+PHGMS,GUIMARAS/ILOILO,1
+PHGNI,GENERAL ISLAND/BISLIG,1
+PHHIJ,HIJO WHARF/DAVAO,1
+PHHIM,HIMAMAYALAN/ILOILO,1
+PHHNB,HINOBAAN/ILOILO,1
+PHHNG,HINIGARAN/ILOILO,1
+PHHNT,HINATUAN/BISLIG,1
+PHHOO,HOOK BAY/SIAIN,1
+PHIPE,IPIL/ZAMBOANGA,1
+PHISB,ISABELA DE BASILAN/BASILAN,1
+PHJAS,JASAAN/CAGAYAN DE ORO,1
+PHKAR,KAROMATAN/ILIGAN,1
+PHKAS,KABASALAN/ZAMBOANGA,1
+PHKAT,KATIPUNAN/OZAMIS,1
+PHKIA,KIAMBA/DADIANGAS,1
+PHKIL,KILBAY POINT/JOSE PANGANIBAN,1
+PHKIP,KIPIT/OZAMIS,1
+PHKIW,KIWALAN/ILIGAN,1
+PHKLO,KALIBO,1
+PHKOL,KOLAMBUGAN/ILIGAN,1
+PHKUM,KUMALARANG/ZAMBOANGA,1
+PHLAB,LABASON/ZAMBOANGA,1
+PHLAG,LAGONOY/JOSE PANGANIBAN,1
+PHLAM,LAMIT BAY/JOSE PANGANIBAN,1
+PHLAN,LANUZA/BISLIG,1
+PHLAO,"LAOAG, LUZON",1
+PHLBK,LEBAK/PARANG,1
+PHLEY,LEYTE,1
+PHLGG,LINGIG/BISLIG,1
+PHLGP,"LEGASPI, DAVAO",1
+PHLIA,LIANGA/BISLIG,1
+PHLIB,LIBJO/SURIGAO,1
+PHLIM,LIMAY/BATAAN,1
+PHLIN,"LINGAYEN, LUZON",1
+PHLNK,LINIK/DADIANGAS,1
+PHLNO,LUNAO/CAGAYAN DE ORO,1
+PHLOM,LOMUYON/DADIANGAS,1
+PHLOO,LOOC BAY/SAN JOSE,1
+PHLOP,LONG POINT/PUERTO PRINCESA,1
+PHLPA,LIPA,1
+PHLPZ,LA PAZ/ILOILO,1
+PHLRP,LA RAP/JOSE PANGANIBAN,1
+PHLUM,LUMASAL/DADIANGAS,1
+PHMAB,MAIBINI/DAVAO,1
+PHMAC,MATHO CORTEZ/BISLIG,1
+PHMAD,MADAUM/DAVAO,1
+PHMAI,MAITUM/DADIANGAS,1
+PHMAK,MAKAR/DADIANGAS,1
+PHMBO,MAMBURAO,1
+PHMCD,MERCEDES/JOSE PANGANIBAN,1
+PHMCJ,MACOJALAN/OZAMIS,1
+PHMCO,MACO/DAVAO,1
+PHMDN,MEDINA/CAGAYAN DE ORO,1
+PHMGA,MAGALONA/ILOILO,1
+PHMGB,MAGUEDA BAY/CATBALOGAN,1
+PHMGG,MANGOGOY/BISLIG,1
+PHMHT,MARINHATAG/BISLIG,1
+PHMIC,MISAMIS OR./CAGAYAN DE ORO,1
+PHMIL,MILBUK/DADIANGAS,1
+PHMIO,MISAMIS OCC./OZAMIS,1
+PHMLB,MALUSOBAY,1
+PHMLL,MALALAG/DAVAO,1
+PHMLP,MALABANG,1
+PHMLS,MAGELLANES/MASAO,1
+PHMNY,MANAY/MATI,1
+PHMON,MONSERRAT/MATI,1
+PHMOR,MORONG/MARIVELES,1
+PHMRQ,MARINDUQUE,1
+PHMSB,MALASUGAT BAY/ZAMBOANGA,1
+PHMSS,MISSION/APARRI,1
+PHMSY,MANANSALAY/BATANGAS,1
+PHMTA,MATINA APLAYA/DAVAO,1
+PHMUL,MULANAY/SIAIN,1
+PHMUR,MURCILAGUS/OZAMIS,1
+PHNAB,NABULAO BAY/ILOILO,1
+PHNAL,NALUNGGA/ILOILO,1
+PHNAP,NAPSAN/PUERTO PRINCESA,1
+PHNAR,NARIS POINT/PUERTO PRINCESA,1
+PHNGH,NAGH,1
+PHNOP,MACTAN ISLAND,1
+PHNSP,NASIPIT/MASAO,1
+PHNUG,"NASUGBU, LUZON",1
+PHOPO,OPOL/CAGAYAN DE ORO,1
+PHORA,ORAYUITA,1
+PHORC,ORMOC/TACLOBAN,1
+PHORS,ORAS/CATBALOGAN,1
+PHOTE,OTEIZA/BISLIG,1
+PHOZC,"OZAMIS, MINDANAO",1
+PHPAG,PAGADIAN/ZAMBOANGA,1
+PHPAJ,PACIJAN,1
+PHPAS,"PASAY, LUZON",1
+PHPBA,PORT BARTON/PALAWAN,1
+PHPCN,PANACAN/DAVAO,1
+PHPDC,POLANDOC/OZAMIS,1
+PHPDR,PACIO DE ROZAS/BATANGAS,1
+PHPGT,PANGUTARAN/JOLO,1
+PHPIN,PINAMALAYAN/BATANGAS,1
+PHPLA,PLARIDEL/OZAMIS,1
+PHPLB,PALAMIT BAY/SAN JOSE,1
+PHPLL,POLLILIO/SIAIN,1
+PHPLP,PALAPAG/SAN JOSE,1
+PHPLW,PALAWAN/OZAMIS,1
+PHPMT,PAMINTAYAN/ZAMBOANGA,1
+PHPNB,PANABUTAN/ZAMBOANGA,1
+PHPNN,PANINIRONGAN/SANJOSE,1
+PHPNT,PUNTI/APARRI,1
+PHPPL,PAMPLONA/APARRI,1
+PHPPP,PASELANG PAGUDPUD/SAN FERNANDO,1
+PHPRA,PARANG,1
+PHPSL,PASALANG BAY/APARRI,1
+PHPTL,PUNTALINAO/MATI,1
+PHPUG,PUGAD/BISLIG,1
+PHQBL,QUINABLAGAN/MATI,1
+PHQPT,QUIPIT BAY/OZAMIS,1
+PHQUI,QUIDDIAO/APARRI,1
+PHREA,REAL/SIAIN,1
+PHRLN,ROMBLON,1
+PHSAG,SAGAY/ILOILO,1
+PHSAN,SANTA ANNA/APARRI,1
+PHSAS,SASA/DAVAO,1
+PHSAY,SAYAO/BATANGAS,1
+PHSBB,SABBOT/SIAIN,1
+PHSBG,SABANG,1
+PHSBP,SUBIC PORT,1
+PHSBY,SABLAYAN/BATANGAS,1
+PHSCR,SANTA CRUZ/SUAL,1
+PHSCT,SANTA CATALINA/DUMAGUETE,1
+PHSDG,SINDANGAN/OZAMIS,1
+PHSGD,SOGOD/TACLOBAN,1
+PHSIG,SIGAYAN/PARANG,1
+PHSIN,"SIAIN, LUZON",1
+PHSIO,SAN IGNACIO/MATI,1
+PHSIR,SIARI/OZAMIS,1
+PHSIS,SAN ISIDRO/SANJOSE,1
+PHSIY,SIAY/ZAMBOANGA,1
+PHSJI,"SAN JOSE, SAMAR",1
+PHSKU,SULTAN KUDARAT/DADIANGAS,1
+PHSLU,SANTA LUCIA/PUERTO PRINCESA,1
+PHSOR,SORSOGON/LEGASPI,1
+PHSPQ,SAN PIO QUINTO/APARRI,1
+PHSTE,SAN TEODORO/BATANGAS,1
+PHTAG,"TAGBILARAN, BOHOL",1
+PHTAY,TAYTAY/PUERTO PRINCESA,1
+PHTBH,TABLAS,1
+PHTBU,TAGABULI/DAVAO,1
+PHTDC,TANDOC,1
+PHTDG,TANDAG/BISLIG,1
+PHTGD,TAGUDIN/SAN FERNANDO,1
+PHTGI,TUGUIS/DADIANGAS,1
+PHTGL,TAGUILON/OZAMIS,1
+PHTGN,TAMBONGON/DAVAO,1
+PHTGT,TAGUITE BAY/ZAMBOANGA,1
+PHTGW,TUNGAWAN BAY/ZAMBOANGA,1
+PHTIB,TIBUNGCO/DAVAO,1
+PHTKW,TAGKAWAYAN/SIAIN,1
+PHTLG,TOLONG/DUMAGUETE,1
+PHTLM,TALOMO/DAVAO,1
+PHTLP,TOLOPO,1
+PHTLS,TOLOSA/TACLOBAN,1
+PHTNU,TANAUAN/TACLOBAN,1
+PHTOB,TOBOSO/DUMAGUETE,1
+PHTUG,TUGUEGARAO,1
+PHULY,ULUNGAN BAY,1
+PHURR,UMRUR,1
+PHVCS,"VICTORIAS, NEGROS",1
+PHVRC,VIRAC,1
+PHVTL,VITALI/ZAMOANGA,1
+PHVTO,VITO/ILOILO,1
+PHWAS,WASAG/DADIANGAS,1
+PHWAW,WAWA/BATANGAS,1
+PHWNP,NAGA/ZAMBOANGA,1
+PHXSO,SIOCON/ZAMBOANGA,1
+PHZZZ,O P PHILIPPINES,1
+PKCHA,CHAMMAM,1
+PKCJL,CHITRAL,1
+PKCWP,CAMPBELLPORE,1
+PKGIL,GILGIT,1
+PKGRT,GUJRAT,1
+PKHDD,HYDERABAD,1
+PKJIW,JIWANI,1
+PKKHO,KHOKHOROPER,1
+PKKOD,KETI BUNDER/KOHI-TAFTAN,1
+PKLHE,LAHORE,1
+PKMJD,MOHENJODARO,1
+PKMOG,MOGULPARA,1
+PKMUX,MULTAN,1
+PKNOK,NOKKUNDI,1
+PKORM,ORMARA,1
+PKPBU,PORT BUNDER,1
+PKPEW,PESHAWAR,1
+PKPJG,PANJGUR,1
+PKPSI,PASNI,1
+PKRWP,RAWALPINDI/ISLAMABAD,1
+PKSKZ,SUKKUR,1
+PKSUL,SUI,1
+PKTOR,TORKHAM,1
+PKUET,QUETTA,1
+PKWAG,WAGA,1
+PKWNS,MAWABSHAH,1
+PKZZZ,O P PAKISTAN,1
+PLDAR,DARLOWO,1
+PLHEL,HEL,1
+PLKRK,KRAKOW,1
+PLNFW,NEUFAHRWASSER,1
+PLNOW,NOWY PORT,1
+PLPOZ,POZNAN,1
+PLRZE,RZESZOW,1
+PLUST,USTKA,1
+PLWAW,WARSZAWA,1
+PLWLA,WLADYSLAWOWO,1
+PLWRO,WROCLAW,1
+PLZZZ,O P POLAND,1
+PMYPM,ST PIERRE,1
+PMZZZ,O P ST PIERRE ET MIQUELON,1
+PNZZZ,O P PITCAIRN,1
+PRARR,ARROYO/GUAYAMA,1
+PRCPX,CULEBRA,1
+PRFAJ,FAJARDO,1
+PRHUC,HUMACAO,1
+PRPYA,PORT YABUCOA,1
+PRVQS,VIEQUES,1
+PRZZZ,O P PUERTO RICO,1
+PTADH,"ANGRA DO HEROISMO, AZ",1
+PTBAN,BANATICA/LISBOA,1
+PTFLW,"FLORES ISLAND, AZ",1
+PTLOS,LAGOS,1
+PTOLH,OLHAO,1
+PTPDL,"PONTA DELGADA, AZ",1
+PTPRM,PORTIMAO,1
+PTPXO,PORTO SANTO,1
+PTSMA,"SANTA MARIA, AZ",1
+PTSMI,"SAO MIGUEL, AZ",1
+PTZZZ,O P PORTUGAL,1
+PWZZZ,O P PALAU,1
+PYASU,ASUNCION,1
+PYCNP,CONCEPCION,1
+PYECN,ENCARNACION/PACU-CUA,1
+PYITE,ITA ENRAMADA,1
+PYPTS,PUERTO STROESSNER,1
+PYVLL,VILLETA,1
+PYZZZ,O P PARAGUAY,1
+QAHNA,HANNA,1
+QAZZZ,O P QATAR,1
+REZZZ,O P REUNION,1
+ROARW,ARAD,1
+ROBAB,BASARABI,1
+ROBAY,BAIA MARE,1
+ROBBU,BUCURESTI-BANEASA APT,1
+ROBCM,BACAU,1
+ROBIT,BISTRITA,1
+ROBOR,BORS,1
+ROBOS,BOTOSANI,1
+ROBRV,BRASOV,1
+ROBUB,BUCURESTI BASARAB,1
+ROBUI,BUCURESTI INTREPOZITE,1
+ROBUN,BUCURESTI NORD,1
+ROBUV,BUCURESTI 50 VAMA,1
+ROBUZ,BUZAU,1
+ROCAF,CALAFAT,1
+ROCAR,CAREI,1
+ROCAS,CALARASI,1
+ROCEV,CERNAVODA,1
+ROCLJ,CLUJ NAPOCA,1
+ROCOB,CORABIA,1
+ROCRA,CRAIOVA,1
+ROCSB,CARANSEBES,1
+ROCUT,CURTICI,1
+RODOR,DORNESTI,1
+RODTS,DROBETA TURNU SEVERIN,1
+ROEPB,EPISCOPIA BIHOR,1
+ROFAC,FALCIU,1
+ROFOS,FOCSANI,1
+ROGAT,GALATI TRANSBORDARE,1
+ROGRG,GIURGIU,1
+ROGRN,GIURGIU NORD,1
+ROHAL,HALMEU,1
+ROIAS,IASI,1
+ROJIL,JIMBOLIA,1
+ROMED,MEDGIDIA,1
+ROMOV,MOLDOVA VECHE,1
+RONAD,NAIDAS,1
+RONEV,NEGRU VODA,1
+RONIB,NICOLAE BALCESCU,1
+RONIN,NICOLINA,1
+ROOLT,OLTENITA,1
+ROOMR,ORADEA,1
+ROORV,ORSOVA,1
+ROOTP,OTOPENI APT/BUCURESTI,1
+ROPFD,PORTILE DE FIER DOI,1
+ROPFU,PORTILE DE FIER UNU,1
+ROPIN,PIATRA NEAMT,1
+ROPIT,PITESTI,1
+ROPLT,PLOIESTI TRIAJ,1
+RORAU,RADAUTI,1
+ROREN,RESITA NORD,1
+RORES,RESITA SUD,1
+RORIV,RIMNICU VILCEA,1
+ROSAT,SALONTA,1
+ROSBZ,SIBIU,1
+ROSCV,SUCEAVA,1
+ROSIM,SIGHETU MARMATIEI,1
+ROSIT,SIMERIA TRIAJ,1
+ROSOL,SOCOLA,1
+ROSOM,SOMESENI,1
+ROSTM,STAMORA MORAVITA,1
+ROSUJ,SATU MARE,1
+ROSUN,SUCEAVA NORD,1
+ROTGM,TIRGU MURES,1
+ROTSN,TIMISOARA NORD,1
+ROTSR,TIMISOARA,1
+ROTUM,TURNU MAGURELE,1
+ROVAM,VALEA LUIMIHAI,1
+ROVAS,VARSAND,1
+ROVAV,VAMA VECHE,1
+ROVIS,VICSANI,1
+ROZIC,ZIMNICEA,1
+ROZZZ,O P ROMANIA,1
+RSBEG,BELGRADE (BEOGRAD),1
+RSINI,NIS,1
+RSPRN,PRISTINA,1
+RSSAB,SABAC,1
+RSSMO,SMEDEREVO,1
+RSZZZ,O P SERBIA,1
+RUAER,ADLER/SOCHI,1
+RUAND,ANADYR,1
+RUASF,ASTRAKHAN,1
+RUBEL,BELUSHYE,1
+RUBEM,BELOMORSK,1
+RUBER,"BERINGOVSKIY, PORT",1
+RUBGR,BAGRATIONOVSK,1
+RUBIY,BIYSK,1
+RUBTK,BRATSK,1
+RUCAI,CHAIKOVSKIY,1
+RUCEE,CHEREPOVETS,1
+RUDME,MOSCOW-DOMODEDOVO APT,1
+RUDYA,DYAKOVO,1
+RUEGV,EGVEKINOT,1
+RUGOJ,NIZHNI NOVGOROD,1
+RUGRH,GREMIKHA,1
+RUGRK,GRODEKOVO,1
+RUHYR,KHYROV,1
+RUIAR,YAROSLAVI,1
+RUIGX,IGARKA,1
+RUIKT,IRKUTSK,1
+RUIOK,IOKANGA,1
+RUKAN,KANDALAKSHA,1
+RUKEM,KEM,1
+RUKER,KERET,1
+RUKGD,KALININGRAD,1
+RUKHL,MAKHACHKALA,1
+RUKHS,KHASAN,1
+RUKHV,KHABAROVSK,1
+RUKIN,KINESHMA,1
+RUKJA,KRASNOJARSK,1
+RUKMU,KAMSKOYE USTYE,1
+RUKMV,VELIKAYA KEMA,1
+RUKNV,KRASNOVODSK,1
+RUKRR,KRASNODAR,1
+RUKSL,KISLAYA GUBA,1
+RUKUF,SAMARA,1
+RUKZN,KAZAN,1
+RULKA,LUZHAIKA,1
+RUMEG,MEDVEZHYEGORSK,1
+RUMEZ,MEZEN,1
+RUMMO,MAMONOVA,1
+RUMND,MONDY,1
+RUMOW,MOSCOW,1
+RUMRV,MINERALNYE VODY,1
+RUNAC,NABERZHNIYE CHELNY,1
+RUNKI,NAUSHKI,1
+RUNNM,NARYAN MAR,1
+RUNOZ,"NOVAYA ZEMLYA, O",1
+RUOHO,OKHOTSK,1
+RUOKT,OKTYABRSKIY,1
+RUOLB,BUKHTA OLGA,1
+RUOLG,"OLENYA, GUBA",1
+RUOLO,"OLENIY, O",1
+RUOMS,OMSK,1
+RUOVB,NOVOSIBIRSK-TOLMACHEVO APT,1
+RUOZK,"OZERKO, BUKHTA",1
+RUPCE,PECHENGA,1
+RUPCR,PECHORA,1
+RUPEK,PETROKREPOST,1
+RUPES,PETROZAVODSK,1
+RUPRN,PORONAISK,1
+RUPTN,PLASTUN,1
+RUPUD,PUDOZH,1
+RURDP,RUDNAYA PRISTAN,1
+RUROV,ROSTOV,1
+RURTW,SARATOV,1
+RURYB,RYBINSK,1
+RUSEG,SEGEZHA,1
+RUSEW,SEVERODVINSK,1
+RUSLV,SOLOVYEVSK,1
+RUSOG,SOVETSKAYA GAVAN,1
+RUSPA,"SPAFARYEVA, O",1
+RUSRM,SEVEROMORSK,1
+RUSTW,STAVROPOL,1
+RUSVE,SVETLAYA,1
+RUSVG,SVETORSK,1
+RUSVK,SEVERO-KURILSK,1
+RUSVO,MOSCOW-SHEREMETYEVO APT,1
+RUSYZ,SYZRAN,1
+RUTAU,TAUISK,1
+RUTRR,TRIFONOV RICHEY,1
+RUTTI,TOLYATTI,1
+RUTVR,TVER,1
+RUULY,ULYANOVSK,1
+RUUMB,UMBA,1
+RUURA,URA GUBA,1
+RUUSK,UST-KAMCHATSK,1
+RUVKK,VLADIKAVKAZ,1
+RUVKO,MOSCOW-VNUKOVO APT,1
+RUVOG,VOLGOGRAD,1
+RUVUS,VELIKIJ USTYUG,1
+RUVZB,"VOZROZHDENIYA, BUKHTA",1
+RUYAB,YAGELNAYA BUKHTA,1
+RUYVL,YAROSLAVL,1
+RUZAO,"ZAVYALOVA, O",1
+RUZBK,ZABAIKALSK,1
+RUZHL,ZHELEZNODOROZHNIY,1
+RUZZZ,O P RUSSIA,1
+RWKGL,KIGALI,1
+RWZZZ,O P RWANDA,1
+SAAAK,ABU AL KHOOSH,1
+SAAHA,AL HADA,1
+SAAJF,JOUF,1
+SAAWI,WAISUMAH,1
+SABDN,BADANA,1
+SABHH,BISHA,1
+SADAS,DAS ISLAND,1
+SADHA,DHAHRAN,1
+SAEAM,NEJRAN,1
+SAEJH,WEDJH,1
+SAELQ,GASSIM,1
+SAHAS,HAIL,1
+SAHOF,HAFUF,1
+SAIEB,IENBO,1
+SALIT,LITH,1
+SAMAK,MAKKAH,1
+SAMAN,MANAILIH,1
+SAMED,MEDINA,1
+SAMUF,MANFOUHA,1
+SAQAL,QALSN,1
+SAQUR,QURAYYAH,1
+SARAH,RAFHA,1
+SARUH,RIYADH,1
+SASHW,SHARAWRAH,1
+SASUH,SALBOUKH,1
+SATIF,FAIF,1
+SATUI,TURAIF,1
+SATUU,TABUK,1
+SAURY,GURAYAT,1
+SAVLA,UMM LAJI,1
+SAZUY,ZULAYFAYN,1
+SAZZZ,O P SAUDI ARABIA,1
+SBAKS,"AUKI, MALAITA ISLAND",1
+SBAVU,"AVU AVU, GUADALCANAL ISLAND",1
+SBBAS,"BALALAE, SHORTLAND ISLANDS",1
+SBBNY,BELLONA ISLAND,1
+SBCHY,"CHOISEUL BAY, CHOISEUL ISLAND",1
+SBEGM,"SEGE, NEW GEORGIA",1
+SBFRE,"FERA ISLAND, SANTA ISABEL ISL",1
+SBGZO,GIZO ISLAND,1
+SBHIR,"HONIARA, GUADALCANAL ISLAND",1
+SBIRA,"KIRA KIRA, SAN CRISTOBAL ISL",1
+SBLEV,"LEVER HARBOUR, NEW GEORGIA",1
+SBMBU,"MBAMBANAKIRA, GUADALCANAL ISL",1
+SBMUA,"MUNDA, NEW GEORGIA",1
+SBNOR,"NORO, NEW GEORGIA",1
+SBONE,"ONEPUSA, MALAITA ISLAND",1
+SBPRS,"PARASI, MALAITA ISLAND",1
+SBRIN,"RINGI COVE, KOLOMBANGARA",1
+SBRNL,RENNELL ISLAND,1
+SBRUS,"MARAU SOUND, GUADALCANAL ISL",1
+SBSCZ,SANTA CRUZ ISLAND,1
+SBSHH,"SHORTLAND HARB.,SHORTLAND ISL",1
+SBSSG,"ALLARDYCE HARBOUR,SANTA ISABEL",1
+SBTLG,"TULAGI, NGELLA",1
+SBZZZ,O P SOLOMON ISL,1
+SCBDI,BIRD ISLAND,1
+SCMAW,MAHE,1
+SCPRI,PRASLIN ISLAND,1
+SCSEZ,MAHE ISLAND APT,1
+SCZZZ,O P SEYCHELLES,1
+SDATB,ATBARA,1
+SDDOG,DONGOLA,1
+SDEBD,EL OBEID,1
+SDEGN,GENEINA,1
+SDELF,EL FASHER,1
+SDJUM,JUBA,1
+SDKRT,KHARTOUM,1
+SDKSL,KASSALA,1
+SDMAK,MALAKAL,1
+SDMWE,MEROWE,1
+SDNHF,NEW HALFA,1
+SDRSS,ROSEIRES,1
+SDWUU,WAU,1
+SDZZZ,O P SUDAN,1
+SEAGH,HELSINGBORG-ANGELHOLM,1
+SEAHR,AHR,1
+SEALA,ALA,1
+SEALF,ALFREDSHEM,1
+SEAMA,AMAL,1
+SEANK,ANKARSVIK,1
+SEARB,ARBRA,1
+SEARK,ARNOVIKEN,1
+SEARN,STOCKHOLM-ARLANDA,1
+SEARV,ARVIKA,1
+SEBAT,BATSKARSNAS,1
+SEBEA,BERGKVARA,1
+SEBIL,BILLINGSFORS,1
+SEBLA,BLANKAHOLM,1
+SEBLE,BORLANGE,1
+SEBMA,STOCKHOLM-BROMMA,1
+SEBOL,BOLLSTABRUK,1
+SEBON,BORGHAMN,1
+SEBOS,BORAS,1
+SEBRE,BREDVIKEN,1
+SEBRT,BROTTBY,1
+SEBUR,BUREA,1
+SEDJU,DJURMO,1
+SEDYN,DYNAS,1
+SEEKT,ESKILSTUNA,1
+SEENE,ENEBYBERG,1
+SEENK,ENKOPING,1
+SEESS,ESSVIK,1
+SEFAK,FAGERVIK,1
+SEFAN,FALUN,1
+SEFIG,FIGEHOLM,1
+SEFIN,FINSPANG,1
+SEFJA,FJALLBACKA,1
+SEFLE,FLEN,1
+SEFRA,FRANO,1
+SEGAM,GAMLEBY,1
+SEGEV,GALLIVARE,1
+SEGKS,GUSTAFSVIK/STHLM,1
+SEGLA,GLANSHAMMAR,1
+SEGRA,GRABO,1
+SEGRU,GRUVON,1
+SEGUS,GUSTAFSVIK,1
+SEHAA,HAPARANDA,1
+SEHAS,HALLSTANAS,1
+SEHBB,HOLSBYBRUNN,1
+SEHER,HERRANG,1
+SEHLD,HOLMSUND,1
+SEHLF,HULTSFRED,1
+SEHNF,HORNEFORS,1
+SEHOG,HOGANAS,1
+SEHON,HONSATER,1
+SEHUD,HUDIKSVALL,1
+SEIGG,IGGESUND,1
+SEJAR,JARFALLA,1
+SEJKG,JONKOPING,1
+SEKAG,KAGE,1
+SEKAK,KARLSVIK,1
+SEKID,KRISTIANSTAD,1
+SEKMH,KOPMANHOLMEN,1
+SEKOS,KORSNAS,1
+SEKRF,KRAMFORS,1
+SEKRN,KIRUNA,1
+SEKSK,KARSKAR,1
+SEKUN,KUNGSHAMN,1
+SEKVM,KVANUM,1
+SEKXV,KARLSBORG AXELVIK,1
+SEKYR,KYRKEBYN,1
+SELAN,LANGASJO,1
+SELID,LIDKOPING,1
+SELIO,LIDINGO,1
+SELIS,LINANAS,1
+SELJU,LJUSNE,1
+SELJY,LJUNGBY,1
+SELOM,LOMMA,1
+SELPI,LINKOPING,1
+SELUD,LUND,1
+SELUG,LUGNVIK,1
+SELUN,LOVHOLMEN,1
+SELVR,LOVANGER,1
+SEMAD,MARIESTAD,1
+SEMAN,MARSVIKEN,1
+SEMJB,MJOLBY,1
+SEMOE,MOLNLYCKE,1
+SEMOP,MORARP,1
+SEMOR,MORBYLANGA,1
+SEMOT,MOTALA,1
+SEMRA,MORA,1
+SEMTM,MATTMAR,1
+SEMUN,MUNKSUND,1
+SENAV,NAVEKVARN,1
+SENHN,NYHAMN,1
+SENOE,NORRTALJE,1
+SENOG,NORDMALING,1
+SENOR,NORRBYSKAR,1
+SENOT,NORRSUNDET,1
+SENVK,NASVIKEN,1
+SENYG,NYKOPING,1
+SEOAX,OAXEN,1
+SEOBB,OBBOLA,1
+SEOCK,OCKELBO,1
+SEORB,OREBRO,1
+SEORV,ORVIKEN,1
+SEOSD,OSTERSUND,1
+SEOTT,OTTERBACKEN,1
+SEPAS,PASKALLAVIK,1
+SERAA,RAA,1
+SERAM,RAMVIK,1
+SEROE,RONE,1
+SESAF,SAFFLE,1
+SESAN,SANDVIKEN,1
+SESBN,SALTSTOBADEN,1
+SESES,SESKERO,1
+SESIK,SIKEA,1
+SESIM,SIMRISHAMN,1
+SESKB,SKARBLACKA,1
+SESKK,SKONVIK,1
+SESKL,SKOGHALL,1
+SESKN,SKUTHAMN,1
+SESKU,SKURUP,1
+SESKV,SKOVDE,1
+SESMD,STROMSTAD,1
+SESOG,SODERKOPING,1
+SESON,SODERHAMN,1
+SESOR,SORAKER,1
+SESPA,SPANGA,1
+SESPR,SPRANGSVIKEN,1
+SESTA,STOCKA,1
+SESTK,STOCKVIK,1
+SESTQ,STRANGNAS,1
+SESTV,STORA VIKA,1
+SESUD,STOCKSUND,1
+SESUG,SUNDBYBERG,1
+SESVE,SVEG,1
+SESVK,SVARTVIK,1
+SESVX,SVANO,1
+SETIB,TIBRO,1
+SETID,TIDAHOLM,1
+SETOA,TORSHALLA,1
+SETOE,TORE,1
+SETOM,TOMELILLA,1
+SETOV,TOREKOV,1
+SETRA,TRANGSVIKEN,1
+SETRO,TROLLHATTAN,1
+SETRS,TROSA,1
+SETUN,TUNADAL,1
+SETYG,TYGELSJO,1
+SEUPP,UPPSALA,1
+SEURS,URSVIKEN,1
+SEVAK,VASTERVIK,1
+SEVAN,VANERSBORG,1
+SEVAR,VARNAMO,1
+SEVIV,VIVSTAVARV,1
+SEVXO,VAXJO,1
+SEZZZ,O P SWEDEN,1
+SGAYC,PULAN AYER CHAWAN,1
+SGKEP,KEPPEL WHARVES,1
+SGPAP,PASIR PANJAN WHARVES,1
+SGSEM,SEMBAWANG PORT,1
+SGTAY,TELOK AYER BASIN,1
+SGZZZ,O P SINGAPORE,1
+SHZZZ,O P ST. HELENA,1
+SILJU,LJUBLJANA,1
+SIPIR,PIRAN,1
+SIZZZ,OTHER,1
+SJZZZ,O P SVALBARD & JAN MAYEN ISL,1
+SKBAA,BRATISLAVA-DEVIN N. VES,1
+SKBAB,BRATISLAVA PORT,1
+SKBAC,BRATISLAVA-PETRZALKA,1
+SKBTS,BRATISLAVA APT,1
+SKBVA,BRECLAV,1
+SKCAN,CANA,1
+SKFIA,FILAKOVO,1
+SKHHA,HRANICNA P.H.,1
+SKILZ,ZILINA,1
+SKJAV,JAVORINA,1
+SKKNA,KOMARNO,1
+SKKNP,KOMARNO PORT,1
+SKKSC,KOSICE,1
+SKLEN,LENARTOVCE,1
+SKLUE,LUCENEC,1
+SKMCA,MIKULOVICE,1
+SKMPA,MNISEK N. P.,1
+SKMVA,MATOVCE,1
+SKNRA,NITRA,1
+SKPZY,PIESTANY,1
+SKRSV,RUSOVCE,1
+SKRZA,ROZVADOV,1
+SKSDA,SLOVENSKE DARMOTY,1
+SKSHA,SAHY,1
+SKSIB,SIATORSKA BUKOVINKA,1
+SKSLD,SLIAC,1
+SKSRA,STUROVO,1
+SKSSA,SLOVENSKE NOVE MESTO,1
+SKTAT,TATRY/POPRAD,1
+SKTSA,TRSTENA,1
+SKVSK,VYSNY KOMARNIK,1
+SKVYN,VYSNE NEMECKE,1
+SKZZZ,O P SLOVAKIA,1
+SLBTE,BONTHE,1
+SLGBK,GBANGBATOK,1
+SLHGS,HASTINGS APT/FREETOWN,1
+SLKBS,BO,1
+SLKEN,KENEMA,1
+SLNIT,NITTI,1
+SLSBO,SHERBRO,1
+SLZZZ,O P SIERRA LEONE,1
+SMSAI,SAN MARINO,1
+SMZZZ,O P SAN MARINO,1
+SNBXE,BAKEL,1
+SNCSK,CAP SKIRRING,1
+SNKGG,KEDOUGOU,1
+SNMAX,MATAM,1
+SNRDT,RICHARD TOLL,1
+SNSMY,SIMENTI,1
+SNTUD,TAMBACOUNDA,1
+SNYLS,ST LOUIS,1
+SNZZZ,O P SENEGAL,1
+SOALU,ALULA,1
+SOBAS,BOSASO,1
+SOBUO,BURAO,1
+SOGSR,GARDO,1
+SOHGA,HARGEISA,1
+SOKMU,KISMAYU,1
+SOMER,MERCA,1
+SOZZZ,O P SOMALIA,1
+SRABN,ALBINA,1
+SRICK,NIEUW NICKERIE,1
+SRMOE,MOENGO,1
+SRSMA,SMALKALDEN,1
+SRSMZ,STOELMANSEILAND,1
+SRZZZ,O P SURINAM,1
+SSZZZ,O P SOUTH SUDAN,1
+STBOZ,BOLAMA,1
+STBSO,BISSAO,1
+STPCP,PRINCIPE,1
+STZZZ,O P SAO TOME & PRINCIPE,1
+SVBAN,BANI,1
+SVBAR,BARAHONA,1
+SVBCH,BOCA CHICA,1
+SVCJO,CABO JOJO,1
+SVCUT,LA UNION/CUTUCO,1
+SVHAI,HAINA,1
+SVLLD,LA LIBERTAD,1
+SVLRO,LA ROMANA,1
+SVMAN,MANZANILLO,1
+SVPAL,PALENQUE,1
+SVPVA,PUERTO VIEJO DE AZUA,1
+SVSAB,SABANA,1
+SVSAL,SAN SALVADOR,1
+SVSCH,SANCHEZ,1
+SVSCI,SANTO TOMAS DE CASTILLA,1
+SVSDO,SANTO DOMINGO,1
+SVSFM,SI FRANCISCO MACOROS,1
+SVSPM,SAN PEDRO DE MARCORIS,1
+SVZZZ,O P EL SALVADOR,1
+SYALP,ALEPPO,1
+SYDAM,DAMASCUS,1
+SYDEZ,DEIR-EZZOR,1
+SYKAC,KAMESHLI,1
+SYZZZ,O P SYRIAN ARAB REP,1
+SZMTS,MANZINI,1
+SZZZZ,O P SWAZILAND,1
+TCGDT,GRAND TURK ISLAND,1
+TCMDS,MIDDLE CAICOS,1
+TCNCA,NORTH CAICOS,1
+TCPIC,PINE CAY,1
+TCSLX,SALT CAY,1
+TCXSC,SOUTH CAICOS,1
+TCZZZ,O P TURKS & CAICOS ISL,1
+TDAEH,ABECHER,1
+TDATV,ATI,1
+TDMEF,MELFI,1
+TDMQQ,MOUNDOU,1
+TDMVO,MONGO,1
+TDNDJ,NDJAMENA,1
+TDOGR,BONGOR,1
+TDOTC,BOL,1
+TDZZZ,O P CHAD,1
+TFPFR,PORT-AUX-FRANCAIS,1
+TFZZZ,O P FRENCH SOUTHERN TERR,1
+TGANE,ANECHO,1
+TGZZZ,O P TOGO,1
+THBND,BANDON,1
+THBNG,BANGNARA,1
+THBNL,BANLAEM,1
+THBTP,BAN TAJUA PA,1
+THCEI,CHIANG-RAI,1
+THCHA,CHANTABUN,1
+THCNX,CHIANG MAI,1
+THHDY,HAADYAI,1
+THHGN,MAE HONG SON,1
+THKCB,KANCHANABURI,1
+THKKC,KHON KAEN,1
+THKLA,KOH LANTA,1
+THKLY,KLONG-YAI,1
+THKNO,KOH NOK,1
+THKOP,NAKHOM PHANOM,1
+THKRA,KRABI,1
+THKSA,KOH SAMUI,1
+THKSI,KOH SICHANG,1
+THKYO,KOH YAO,1
+THLAS,LANG SUAN,1
+THLKR,LAT KRABANG,1
+THLOE,LOEI,1
+THLPT,LAMPANG,1
+THMEK,MEKLONG,1
+THNAR,NARADHIVAS,1
+THNAS,NAKORN SRITHAMRAT,1
+THNAW,NARATHIWAT,1
+THNNT,NAN,1
+THPAN,PATTANI,1
+THPHA,PHANGNGA,1
+THPHS,PHITSANULOK,1
+THPKB,PAKBARA,1
+THPKN,PAKNAM,1
+THPKP,PAKPANANG,1
+THPRH,PHRAE,1
+THRAN,RANONG,1
+THSAS,SAMULSAKOM,1
+THSIC,SICHOL,1
+THSIN,SINGORA,1
+THSUT,SURAT THANI,1
+THTAC,TA-CHALAEB,1
+THTHA,THA SALA,1
+THTPT,THAI PROSPERITY TERMINAL,1
+THTST,TRANG,1
+THUBP,UBON RATCHATHANI,1
+THUCT,UNITHAI,1
+THUNN,RANONG,1
+THUTH,UDON THANI,1
+THZZZ,O P THAILAND,1
+TJDYU,DUSHANBE,1
+TJZZZ,O P TAJIKISTAN,1
+TKZZZ,O P TOKELAU,1
+TLDIL,DILI,1
+TLZZZ,O P TIMOR-LESTE,1
+TMASB,ASHKHABAD,1
+TMBKH,BEKTASH,1
+TMKUK,KUSHKA,1
+TMTMZ,TERMEZ,1
+TMZZZ,O P TURKMENISTAN,1
+TNBEJ,BEJA,1
+TNBGA,BEN GARDANE,1
+TNDJE,JERBA,1
+TNKEL,KELIBIA,1
+TNKER,KERKENA,1
+TNKKE,KALAA KEBIRA,1
+TNKOR,KORBA,1
+TNMAH,MAHARES,1
+TNMAT,MATEUR,1
+TNMIR,MONASTIR,1
+TNMOK,MOKNINE,1
+TNMTE,MENZEL TEMIME,1
+TNNAB,NABEUL,1
+TNSUS,SOUSSE,1
+TNTAB,TABARKA,1
+TNZZZ,O P TUNISIA,1
+TOEUA,EUA,1
+TOHPA,HA'APIA,1
+TONEI,NEIAFU,1
+TOVAV,VAVA'U,1
+TOZZZ,O P TONGA,1
+TRADA,ADANA,1
+TRAFY,AFYON,1
+TRAKB,"AKCAABAT, TRABZON",1
+TRAKY,"AKCAY, BALIKESIR",1
+TRALA,"ALANYA, ANTALYA",1
+TRANK,ANKARA,1
+TRASR,KAYSERI,1
+TRAYA,"AYANCIK, SINOP",1
+TRAYV,"AYVALIK, BALIKESIR",1
+TRBOD,"BODRUM, MUGLA",1
+TRBOG,"BOGAZAGZI, ZONGULDAK",1
+TRBUY,"BUYUKCUKUR, BURSA",1
+TRBZB,"BOZBURUN, MUGLA",1
+TRBZC,"BOZCAADA, CANAKKALE",1
+TRCES,"CESME, IZMIR",1
+TRCIG,"CIGLI, IZMIR",1
+TRCUB,"CUBUKLU, ISTANBUL",1
+TRDAT,"DATCA, MUGLA",1
+TRDEK,"DEREKOY, KIRKLARELI",1
+TRDIY,DIYARBAKIR,1
+TRENE,"ENEZ, EDIRNE",1
+TRERZ,ERZURUM,1
+TRESB,ESENBOGA APT/ANKARA,1
+TRESK,ESKISEHIR,1
+TRFIN,"FINIKE, ANTALYA",1
+TRFOC,"FOCA, IZMIR",1
+TRGCA,"GOKCEADA, CANAKKALE",1
+TRGKV,"GOKOVA, MUGLA",1
+TRGOR,"GORELE, GIRESUN",1
+TRGZT,GAZIANTEP,1
+TRHAR,"HARAMIDERE, ISTANBUL",1
+TRHER,"HEREKE, KOCAELI",1
+TRIGL,IZMIR-CIGLI AIRBASE,1
+TRIGN,"IGNEADA, KIRKLARELI",1
+TRINC,"INCIRLIK HAVAALANI, ADANA",1
+TRIPS,"IPSALA, EDIRNE",1
+TRIZT,"IZMIT, KOCAELI",1
+TRKAR,"KARTAL, ISTANBUL",1
+TRKAS,"KAS, ANTALYA",1
+TRKPU,"KAPIKULE, EDIRNE",1
+TRKPY,"KAPIKOY, VAN",1
+TRKUS,"KUSADASI, AYDIN",1
+TRKYA,KONYA,1
+TRMRA,"MARMARA ADASI, BALIKESIR",1
+TRODU,"ODUNLUK, CANAKKALE",1
+TRPAM,AMBARLI,1
+TRPAZ,"PAZARKULE, EDIRNE",1
+TRSER,"SERVIBURUN, ISTANBUL",1
+TRSEY,"SEYDISEHIR, KONYA",1
+TRSIN,SINOP,1
+TRSIR,"SIRKECI, ISTANBUL",1
+TRTAS,"TASUCU, ICEL",1
+TRTIR,"TIREBOLU, GIRESUN",1
+TRTUR,"TURAN, IZMIR",1
+TRUNY,"UNYE, ORDU",1
+TRVAN,VAN,1
+TRVAS,SIVAS,1
+TRYES,"YESILKOY, ISTANBUL",1
+TRZZZ,O P TURKEY,1
+TTBGT,BRIGHTON,1
+TTPTP,POINTE A PIERRE,1
+TTSCA,SCARBOROUGH/TOBAGO,1
+TTSFE,SAN FERNANDO,1
+TTTAB,TOBAGO,1
+TTZZZ,O P TRINIDAD & TOBAGO,1
+TVZZZ,O P TUVALU,1
+TWCYI,CHIAYI,1
+TWMZG,MAKUNG,1
+TWTNN,TAINAN,1
+TWTTT,TAITUNG,1
+TWZZZ,O P TAIWAN,1
+TZBKZ,BUKOBA,1
+TZDOD,DODOMA,1
+TZGIT,GEITA,1
+TZJRO,KILIMANJARO/ARUSHA,1
+TZKIK,KILWA KIVINJE,1
+TZKIM,KILWA MASOKO,1
+TZKIY,KILWA,1
+TZLDI,LINDI,1
+TZMFA,MAFIA,1
+TZMIC,MICHIUJA,1
+TZMIK,MIKINDANI,1
+TZMKO,"MKOKOTONI, ZANZIBAR",1
+TZMOH,MOHORO,1
+TZMTS,MTSORA,1
+TZMUZ,MUSOMA,1
+TZMWZ,MWANZA,1
+TZNCH,NACHINGWEA,1
+TZPAN,PANGANI,1
+TZPMA,PEMBA,1
+TZRIJ,RIJIJU,1
+TZSAM,SAMANGA,1
+TZSGX,SONGEA,1
+TZTBO,TABORA,1
+TZTKQ,KIGOMA,1
+TZTUN,TUNDUNA,1
+TZZZZ,O P TANZANIA,1
+UACCI,CHOP-CHIERNA,1
+UACOP,CHOP,1
+UACZA,CHOP-ZAKHON,1
+UADOK,DONETSK,1
+UAFEO,FEODOSIYA,1
+UAHRK,KHARKOV,1
+UAIEV,KIEV-ZHULHANY APT,1
+UAKBP,KIEV-BORISPOL APT,1
+UAKEH,KERCH,1
+UAMKA,MOSTISKA,1
+UANIK,NIKOLAYEV,1
+UAOZH,ZAPOROZHYE,1
+UAPRU,PRUT,1
+UARAR,RAVA RUSKAYA,1
+UASIP,SIMFEROPOL,1
+UAUGL,UGLEGORSK,1
+UAUSD,UST-DONETSKIY,1
+UAUZH,UZHGOROD,1
+UAVLV,VLADIMIR-VLOYNSKIY,1
+UAZZZ,O P UKRAINE,1
+UGBUS,BUSIA,1
+UGEBB,ENTEBBE,1
+UGJIN,JINJA,1
+UGKLA,KAMPALA,1
+UGKSE,KASESE,1
+UGMBQ,MBABARA,1
+UGTRY,TORORO,1
+UGZZZ,O P UGANDA,1
+UMZZZ,O P US MINOR OUTLYING ISL,1
+USAAF,"APALACHICOLA, FL",1
+USABQ,"ALBUQUERQUE, NM",1
+USABR,"ABERDEEN, WN",1
+USABY,"ALBANY, NY",1
+USALC,"ALCAN, AK",1
+USALG,"ALGONAC, MI",1
+USAMA,"AMARILLO, TX",1
+USAMB,"AMBROSE, ND",1
+USANP,"ANNAPOLIS, MD",1
+USANT,"ANTLER, ND",1
+USANU,"ANDRADE, CA",1
+USAPN,"ALPENA, MI",1
+USARB,"ANN ARBOR, MI",1
+USASH,"ASHTABULA, OH",1
+USATL,"ATLANTA, GA",1
+USATS,"ANACORTES, WN",1
+USATW,"APPLETON, WI",1
+USAVO,"AVONDALE, LA",1
+USAXB,"ALEXANDRIA BAY, NY",1
+USBAP,BEAN POINT,1
+USBAU,"BAUDETTE, MN",1
+USBCB,"VANCOUVER, WN",1
+USBDL,"HARTFORD, CT",1
+USBEF,"BEECHER FALLS, VT",1
+USBEL,"BELFAST, ME",1
+USBEO,"BERNALILLO, NM",1
+USBER,"BERKELEY, CA",1
+USBFM,"MOREHEAD CITY/BEAUFORT, NC",1
+USBGR,"BANGOR, ME",1
+USBHB,"BAR HARBOR, ME",1
+USBHM,"BIRMINGHAN, AL",1
+USBKL,"LAKEFRONT/CLEVELAND, OH",1
+USBLA,"BLAINE, WN",1
+USBMT,"PORT ARTHUR, TX/SMITH'S BLUFF",1
+USBNA,"NASHVILLE, TN",1
+USBOY,"BROOKLYN/NEW YORK, NY",1
+USBRA,"BRADWOOD, OR",1
+USBRE,"BREMERTON, WN",1
+USBRR,"BREWSTER, OH",1
+USBRW,"BRIDGEWATER, ME",1
+USBTL,"BATTLE CREEK, MI",1
+USBTM,"BUTTE, MT",1
+USBTV,"BURLINGTON, VT",1
+USBUR,LOS ANGELES-BURBANK APT,1
+USBUS,"BURNSIDE/BATON ROUGE, LA",1
+USBYA,"BOUNDARY, WN",1
+USCAI,"CASTLE ISLAND, CA",1
+USCAK,"AKRON, OH",1
+USCAL,"CALAIS, ME",1
+USCAM,"CAMBRIDGE, MD",1
+USCAP,"CAPITAN, CA",1
+USCAR,"CARQUINEZ STRAIT, CA",1
+USCBY,"CARBURY, ND",1
+USCCA,"CALVERT CITY, KT",1
+USCCC,"CAPE CHARLES CITY, VA",1
+USCEC,"CRESCENT CITY, CA",1
+USCHA,"CHATTANOOGA, TN",1
+USCHT,"CHESTER, PA",1
+USCID,"CEDAR RAPIDS, IA",1
+USCLA,"CLAYMONT, DE",1
+USCLT,"CHARLOTTE, NC",1
+USCLY,"CLAYTON, NY",1
+USCMH,"COLUMBUS, OH",1
+USCMM,"COLUMBUS, NM",1
+USCON,"CONNEAUT, OH",1
+USCOV,"COLUMBIA, WN",1
+USCPR,"CHAMPLAIN-ROUSES PT., NY",1
+USCPT,"CARPINTERIA, CA",1
+USCRB,"CARRABELLE, FL",1
+USCRI,"CRISFIELD, MD",1
+USCRO,"CROCKETT, CA",1
+USCRT,"CARTERET, NJ",1
+USCRU,CARSON,1
+USCRW,"CHARLESTON, WV",1
+USCSR,"CHESTER, NY",1
+USCTY,"CHATEAUGAY, NY",1
+USCUS,"CUT SHOOT, TX",1
+USCVG,"CINCINNATI, OH",1
+USCVI,"CAPE VINCENT, NY",1
+USCXL,"CALEXICO, CA",1
+USDAL,DALLAS-LOVE FIELD/FORT WORTH,1
+USDAV,"DAVENPORT, CA",1
+USDAY,"DAYTON, OH",1
+USDBA,"DEL BONITA, MT",1
+USDBY,"DERBY LINE, VT",1
+USDCA,NATIONAL APT/WASHINGTON,1
+USDEC,"DECATUR, IL",1
+USDEN,"DENVER, CO",1
+USDFW,"REGIONAL/DALLAS, TX",1
+USDLC,"DALTON CACHA, AK",1
+USDNV,"DANVILLE, WN",1
+USDOV,"DOUGLAS, AZ",1
+USDRT,"DEL RIO, TX",1
+USDSM,"DES MOINES, IA",1
+USDTO,"DETOUR, MI",1
+USDUN,"DUNSEITH, ND",1
+USDUR,"DURHAM, NC",1
+USDVV,"DAVISVILLE, RI",1
+USEAR,"EARLE, AR",1
+USECH,"EAST CHICAGO, IN",1
+USEDM,"EDMONDS, WN",1
+USEGP,"EAGLE PASS, TX",1
+USELK,"ELKHART, IN",1
+USELP,"EL PASO, TX",1
+USEPI,"EASTPORT, ID",1
+USESC,"ESCANABA, MI",1
+USESF,"ALEXANDRIA, VA",1
+USEVE,"EVERETT, WN",1
+USEVV,"EVANSVILLE, IN",1
+USEWR,"NEWARK, NJ",1
+USFAB,"FABENS, TX",1
+USFAI,"FAIRBANKS, AK",1
+USFAT,"FRESNO, CA",1
+USFCO,"FORT COVINGTON, NY",1
+USFED,"FERNDALE, WN",1
+USFER,"FERRYSBURG, MI",1
+USFFA,"FORT FAIRFIELD, ME",1
+USFKT,"FORT KENT, ME",1
+USFLU,FLUSHING APT/NEW YORK,1
+USFMY,"FORT MYERS, FL",1
+USFOB,"FORT BRAGG, CA",1
+USFPT,"FAIRPORT, OH",1
+USFRD,"FRIDAY HARBOR, WN",1
+USFRO,"FRONTIER, WN",1
+USFRP,"FREEPORT, TX",1
+USFRT,"FORTUNA, ND",1
+USFRY,"FERRY, WN",1
+USFWA,"FORT WAYNE, IN",1
+USFWO,"FORT WORTH, TX (CF. DALLAS)",1
+USGDH,"GOOD HOPE, LA",1
+USGDR,"GARDINER, OR",1
+USGED,"GEORGETOWN, TX",1
+USGEG,"SPOKANE, WN",1
+USGHN,"GRAND HAVEN, MI",1
+USGLC,"GLOUCESTER CITY, NJ",1
+USGLH,"GREENVILLE, MS",1
+USGLO,"GLOUCESTER, MA",1
+USGRA,"GRAND PORTAGE, MN",1
+USGRR,"GRAND RAPIDS, MI",1
+USGRV,"GRAYS RIVER, WN",1
+USGRW,"GREENWICH, NY",1
+USGSP,"SPARTANBURG/GREENVILLE, SC",1
+USGTF,"GREAT FALLS, MT",1
+USGYY,"GARY, IN",1
+USHAH,"HAHNVILLE, LA",1
+USHAR,"HARRISBURG, PA",1
+USHBO,"HANSBORO, ND",1
+USHBY,HUMBOLDT BAY,1
+USHID,"HIDALGO, TX",1
+USHIS,"HIGHGATE SPRINGS, VT",1
+USHNT,"HUNTING, IN",1
+USHOB,"HOBOKEN/NEW YORK, NJ",1
+USHUB,"HURON, OH",1
+USHUL,"HOULTON, ME",1
+USIAD,DULLES INT APT/WASHINGTON,1
+USICT,"WICHITA, KS",1
+USIFR,"RANIER/INTERNATIONAL FALLS, MN",1
+USILN,"WILMINGTON, OH",1
+USIND,"INDIANAPOLIS, IN",1
+USINT,"SALEM/WINSTON, NC",1
+USJAM,"JACKMAN, ME",1
+USJEC,"JERSEY CITY, NJ",1
+USJFK,JOHN F. KENNEDY APT/NEW YORK,1
+USJLP,"JOPLIN, MO",1
+USJMC,"SAUSALITO, CA",1
+USJOB,JOBOS,1
+USJON,"JONESPORT, ME",1
+USKAH,"KENMORE AIR HARBOR, WA",1
+USKAL,"KALAMA, WA",1
+USKAS,"KASITNA BAY, AK",1
+USKBA,"KINGS BAY, GA",1
+USKCK,"KANSAS CITY, KS",1
+USKLS,"KELSO, WA",1
+USKLZ,"KALAMAZOO, MI",1
+USLAS,"LAS VEGAS, NV",1
+USLAU,"LAURIER, WA",1
+USLBB,"LUBBOCK, TX",1
+USLEM,"LEOMINSTER, MA",1
+USLGA,LA GUARDIA APT/NEW YORK,1
+USLGV,"LONGVIEW, CA",1
+USLGZ,"LOGAN AIRPORT, MA",1
+USLIT,"LITTLEROCK-NORTH LTL ROCK, AR",1
+USLIZ,"LIMESTONE, ME",1
+USLRD,"LAREDO, TX",1
+USLUD,"LUKEVILLE, AZ",1
+USLUI,"LOUISVILLE, KY",1
+USLUS,LAURENS,1
+USLWB,"LAWRENCEBURG, IN",1
+USLWE,"LAWRENCE, MA",1
+USLXA,LENEXA,1
+USLYN,"LYNDEN, WA",1
+USMAD,"MADAWASKA, ME",1
+USMAI,"MAIDA, ND",1
+USMBS,"BAY CITY/SAGINAW, MI",1
+USMCD,"MACKINAC ISLAND, MI",1
+USMCI,"KANSAS CITY APT, MO",1
+USMCR,"MANCHESTER, WA",1
+USMEL,MELROSEPARK,1
+USMEM,"MEMPHIS, TN",1
+USMGZ,MANGUEZ,1
+USMKC,"KANSAS CITY, MO",1
+USMLB,MINI LAND BRIDGE,1
+USMOC,"MORGAN CITY, LA",1
+USMPI,"MOUNTPLIER, OH",1
+USMRG,"MORGAN, MT",1
+USMRN,"MARINETTE, WI",1
+USMRO,"MOREO, TX",1
+USMRR,"MORRO, CA",1
+USMRT,"MORRISTON, NY",1
+USMRY,"MONTERRY, CA",1
+USMSP,"MINNEAPOLIS/ST PAUL APT, MN",1
+USMSS,"MASSENA, NY",1
+USMST,"MANISTEE/MUSKEGON, MI",1
+USMTF,"METALINE FALLS, WA",1
+USMTK,"METLAKATLA, AK",1
+USMTN,"MARTIN MARIET/BALTIMORE, MD",1
+USMVI,"MELLVILLE, RI",1
+USMVN,"MOUNT VERNON, OH",1
+USMZZ,"MARION, IN",1
+USNAC,"NACO, AZ",1
+USNCO,"NORCO, LA",1
+USNEB,"NEAH BAY, WN",1
+USNEC,"NECHE, ND",1
+USNEE,"NEEDHAM, MA",1
+USNEN,"NEWPORT NEWS/NORFOLK, VA",1
+USNGT,"NORTHGATE, ND",1
+USNGZ,"ALAMEDA, CA",1
+USNIH,"NIGHTHAWK, WN",1
+USNOG,"NOGALES, AZ",1
+USNOO,"NOONAN, ND",1
+USNOY,"NOYES, MN",1
+USNPO,"NEWPORT, OR",1
+USNRT,"NORTON, VT",1
+USNTY,"NORTH TROY, VT",1
+USNWL,"NAWILIWILI (PORT ALLEN), HA",1
+USNYC,"NEW YORK, NY",1
+USOBO,"OBISPO, CA",1
+USOKC,"OKLAHOMA CITY, OK",1
+USOMA,"OMAHA, NE",1
+USOPH,"OPHEIM, MT",1
+USORA,"OROVILLE, WN",1
+USORH,"WORCESTER, MA",1
+USORL,"ORLANDO, FL",1
+USOTH,"NORTH BEND, OR",1
+USOWB,"OWENSBORO, KY",1
+USPAT,"PATERSON, NJ",1
+USPBI,"WEST PALM BEACH, FL",1
+USPBR,"PITSBURG, OH",1
+USPCA,"PORT CANAVERAL, FL",1
+USPCT,"POINT CONFORT, TX",1
+USPDT,"PENDLETON, OR",1
+USPEC,"PELICAN, AK",1
+USPGM,"PORT GAMBLE, WN",1
+USPGN,"PIEGAN, MT",1
+USPHF,"PORTSMOUTH, HAMPTON ROADS, VA",1
+USPHK,"PORT HADLOCK, WN",1
+USPIA,"PEORIA, IL",1
+USPIC,"PITTSBURG,CA/SAN JOAQUIN RIVER",1
+USPIN,"PINECREEK, MN",1
+USPIT,"PITTSBURGH, PA",1
+USPLU,"PORT LUDLOW, WN",1
+USPMB,"PEMBINA, ND",1
+USPMN,"PORTSMOUTH, NH",1
+USPNE,NORTH EAST APT/PHILADELPHIA,1
+USPOU,"POUGHKEEPS, NY",1
+USPQI,"PRESEQUE ISLE, MI",1
+USPRE,"PRESIDIO, TX",1
+USPRG,"PROGRESSO, TX",1
+USPRL,"PORT ROYAL, SC",1
+USPRS,"POINT ROBERTS, WN",1
+USPRY,"PORT BLAKELY, WN",1
+USPSD,"PASADENA, CA",1
+USPSJ,"PORT ST JOE, FL",1
+USPSL,"PORT SAN LUIS, CA",1
+USPSM,"PORTSMOUTH, VA",1
+USPTD,"PORT TOWNSEND, WN",1
+USPTH,"PORTHILL, ID",1
+USPTL,"PORTAL, ND",1
+USPTN,"PORT NECHES, TX",1
+USPUG,"PUGET SOUND, WN",1
+USPUP,"DU PONT, WN",1
+USPVC,"PROVINCETOWN, MA",1
+USPWF,"PORT ORCHARD, WN",1
+USPYM,"PLYMOUTH, MA",1
+USQUI,"QUINCY/ST. ALBANS, MA",1
+USRAC,"RACINE, WI",1
+USRAI,"RAINIER, OR",1
+USRAY,"RAYMOND, WN (CF. SOUTH BOND)",1
+USRCY,"ROGER CIRY, MI",1
+USREV,"REEDVILLE, VA",1
+USRFR,"RICHFORD, VT",1
+USRGC,"RIO GRANDE CITY, TX",1
+USRIC,"RICHMOND, VA",1
+USRIV,"REIDSVILLE, NC",1
+USRKD,"ROCKLAND, ME",1
+USRND,"RAYMOND, MO",1
+USRNO,"RENO, NV",1
+USROC,"ROCHESTER, NY",1
+USROM,"ROMA, TX",1
+USROO,"ROOSVILLE, MT",1
+USROX,"ROSEAU, MN",1
+USRVS,TULSA-RIVERSIDE APT,1
+USSAR,"SARLES, ND",1
+USSAS,"SASABE, AZ",1
+USSAT,"SAN ANTONIO, TX",1
+USSBR,"SOUTH BOND-RAYMOND, WI",1
+USSBY,"SHEYBOYGAN, WI",1
+USSCO,"SCOBEY, MT",1
+USSCV,"SCOTTSVILLE, KY",1
+USSCX,"SANTA CRUZ, CA",1
+USSDP,"SAND POINT, AK",1
+USSDY,"SANDUSKY, OH",1
+USSFZ,"WOONSOCKET, RI",1
+USSHW,"SHERWOOD, ND",1
+USSJN,"ST JOHN, ND",1
+USSJO,"SAN JOSE, CA",1
+USSJS,"ST JOSEPH, MS",1
+USSKA,"SKAGWAY, AK",1
+USSLC,"SALT LAKE CITY, UT",1
+USSLI,"SAN LUIS, AZ",1
+USSMO,"SAN MATEO, CA",1
+USSNY,"SIDNEY, OH",1
+USSOD,"SODUS POINT, NY",1
+USSOH,"SOUTH HAVEN, MI",1
+USSPB,"SAN PABLO BAY, CA",1
+USSPR,"SPRINGFIELD, MA",1
+USSPW,SPARROWS POINT,1
+USSSM,"SAULT STE MARIE, MI",1
+USSTA,"ST ALBANS, VT",1
+USSTG,ST GEORGES ISLAND,1
+USSTL,"ST LOUIS INTERNATIONAL APT,MO",1
+USSTP,"ST PAUL, MN",1
+USSUB,"SUISUN BAY, CA",1
+USSUL,"PORT SULPHUR, LA",1
+USSUM,"SUMAS, WN",1
+USSUS,"SPIRIT OF ST LOUIS APT, MO",1
+USSVR,"SAN JOAQUIN RIV, CA",1
+USSWG,"SWEETGRASS, MT",1
+USSYO,"SAN YSIDRO, CA",1
+USSYP,"SANDY POINT, ME",1
+USSYR,"SYRACUSE, NY",1
+USTCT,"TACONITE/SILVER BAY, MN",1
+USTEC,"TECATE, CA",1
+USTEO,"THEODORE, AL",1
+USTRR,"TROUT RIVER, NY",1
+USTUL,"TULSA-NORTHERN APT,OK",1
+USTUR,"TURNER, MT",1
+USTYS,"KNOXVILLE, TN",1
+USUBS,"COLUMBUS, MI",1
+USUCA,"UTICA, NY",1
+USVBN,"VAN BUREN, ME",1
+USVBO,"VANCEBORO, ME",1
+USVEN,"VENTURA, CA",1
+USVIC,"VICKSBURG, MS",1
+USVLO,"VALLEJO, CA",1
+USWAL,"WALHALLA, ND",1
+USWAR,"WARROAD, ND",1
+USWAS,"WASHINGTON, DC",1
+USWBE,"SOUTH BEND, WN",1
+USWHL,"WHITLASH, MT",1
+USWHP,"WESTHOPE, ND",1
+USWHT,"WHITETAIL, MT",1
+USWIB,"WILKES-BARRE/SCRANTON, PA",1
+USWIH,"WILLAPA HARBOUR, WN",1
+USWIP,"WILLS POINT, NJ",1
+USWIR,"WILLIAMETTE RIVER, OR",1
+USWPT,"WESTPORT, CA",1
+USWRD,"WEST REDDING, CT",1
+USWTN,"WILMINGTON, CA",1
+USWTO,"WARRENTON, OR",1
+USWWO,"WESTWEGO, LA",1
+USWXD,"WEXFORD, PA",1
+USYNG,"WARREN, OH",1
+USZZZ,O P UNITED STATES,1
+UYATI,ARTIGAS,1
+UYBUV,BELLA UNION,1
+UYMLZ,MELO,1
+UYRVY,RIVERA,1
+UYSTY,SALTO,1
+UYVCH,VICHADERO,1
+UYZZZ,O P URUGUAY,1
+UZBHK,BUKHARA,1
+UZFEG,FERGANA,1
+UZSKD,SAMARKAND,1
+UZTAS,TASHKENT,1
+UZUGC,URGENCH,1
+UZZZZ,O P UZBEKISTAN,1
+VAZZZ,O P VATICAN CITYSTATE(HOLYSEE),1
+VCCRP,"CAMDEN PARK, ST. VINCENT",1
+VCMQS,"BRITTANIA BAY,MUSTIQUE ISLAND",1
+VCPEL,"PORTELISABETH, BEQUIA",1
+VCSVD,ST VINCENT-ARNOS VALE,1
+VCUNI,"CLIFTON, UNION ISLAND",1
+VCZZZ,O P ST VINCENT&THE GRENADINES,1
+VEAAO,ANACO,1
+VEAGV,ACARIGUA,1
+VEBLA,BARCELONA,1
+VEBNS,BARINAS,1
+VEBRM,BARQUISIMETO,1
+VECAJ,CANAIMA,1
+VECAV,CABIMAS/MARACAIBO L,1
+VECBL,CIUDAD BOLIVAR,1
+VECCS,CARACAS-MAQUIETO,1
+VECZE,CORO,1
+VEGUQ,GUANARE,1
+VELCV,LA CEIBA/MARACAIBO L,1
+VELFR,LA FRIA,1
+VELGY,LAGUNILLAS,1
+VELMA,LAS MOROCHAS,1
+VELVL,LA VELA DE CORO,1
+VEMRD,MERIDA,1
+VEMUN,MATURIN,1
+VEPFI,PUNTO FIJO,1
+VEPMP,PAMPATAR,1
+VEPMV,PALMAREJO DE MARA/MARACAIBO L.,1
+VEPPD,PUNTA DE PIEDRAS,1
+VEPYH,PUERTO AYACUCHO,1
+VESFD,SAN FERNANDO,1
+VESNF,SAN FELIPE,1
+VESOM,SAN TOME,1
+VESTB,SANTA BARBARA ZUL,1
+VESTD,SANTO DOMINGO,1
+VESVZ,SAN ANTONIO,1
+VETJV,TIAJUANA/MARACAIBO L,1
+VEVLV,VALERA,1
+VEZZZ,O P VENEZUELA,1
+VGTOV,TORTOLA,1
+VGVIJ,VIRGIN GORDA,1
+VGZZZ,O P BRITISH VIRGIN ISL,1
+VICLT,CHARLOTTE AMELIE,1
+VISTX,ST CROIX-ALEX HAMILTON APT,1
+VIZZZ,O P VIRGIN ISL (US),1
+VNBEN,BENTHUY,1
+VNBNE,BEN NGHE PORT TERMINAL,1
+VNCLI,CAT LAI TERMINAL,1
+VNCRB,CAMRANH,1
+VNCUV,CUA VIET PORT,1
+VNGDB,GO DAU B TERMINAL,1
+VNHAA,HOAI AN,1
+VNHAN,HANOI,1
+VNHAT,HA TINH,1
+VNHCH,HON CHONG,1
+VNHIA,HOI AN,1
+VNHNH,HOAI NHON,1
+VNHUI,HUE,1
+VNKHU,KHONG HUNG,1
+VNMOC,MONG CAI,1
+VNMUT,MY THO,1
+VNNMD,NAM DINH,1
+VNPCU,PORT COUR BET,1
+VNPHA,PHAN RANG,1
+VNPHG,PHUOC LONG ICD TERMINAL,1
+VNPHH,PHAN THIET,1
+VNPHL,PHUOE LE,1
+VNQNH,QUANG NINH,1
+VNQUL,QUANG LONG,1
+VNQUT,QUANG TRI,1
+VNRBE,RED BEACH,1
+VNTBB,TUY HOA,1
+VNTBI,THANG BINH,1
+VNTHO,THANH HOA,1
+VNTOT,CAI MEP,1
+VNVLO,VINH LOI,1
+VNVNH,VINH,1
+VNZZZ,O P VIETNAM SOC REP OF,1
+VUAUY,ANEITYUM,1
+VUDLY,DILLONS BAY,1
+VUIPA,IPOTA,1
+VULNB,LAMEN BAY,1
+VULNE,LONORORE,1
+VULOD,LONGANA,1
+VULPM,LAMAP,1
+VUNUS,NORSUP,1
+VUSLH,SOLA,1
+VUSON,ESPIRITU SANT.,1
+VUTAH,TANNA,1
+VUTGH,TONGOA,1
+VUVLS,VALESDIR,1
+VUWLH,WALAHA,1
+VUZZZ,O P VANUATU,1
+WFFUT,FUTUNA,1
+WFUVE,OUVEA,1
+WFZZZ,O P WALLIS & FUTUNA ISL,1
+WSAAU,ASAU,1
+WSZZZ,O P SAMOA,1
+YEAHW,AHWAR,1
+YEBHN,BEIHAN,1
+YEBOG,BOGOA,1
+YEEAB,ABBSE,1
+YEELK,EL KATIEB,1
+YEGXF,SEIYUN,1
+YEHAR,HARAD,1
+YEHAU,HAURA,1
+YEIHN,QISHN,1
+YEKHO,KHOKHA,1
+YEMYN,MAREB,1
+YEPRM,PERIM I.,1
+YERAK,RAS AL KALIB,1
+YERIY,RIYAN MUKALLA,1
+YESAH,SANA'A,1
+YESCT,SOCOTRA I.,1
+YESYE,SA DAH,1
+YETAI,TAIZ,1
+YEZZZ,O P YEMEN,1
+YTZZZ,O P MAYOTTE,1
+ZAALJ,ALEXANDER BAY,1
+ZAAOB,ALGOA BAY,1
+ZABFN,BLOEMFONTEIN,1
+ZAGRJ,GEORGE,1
+ZAGRM,GERMISTON,1
+ZAHLA,KRUGERSDORT,1
+ZAJNB,JOHANNESBURG,1
+ZAKIG,KOINGHAAS,1
+ZAKIM,KIMBERLEY,1
+ZAKLZ,KLEINZEE,1
+ZAKTR,KOMATIPOORT,1
+ZALTA,TZANEEN,1
+ZAMES,MESSINA,1
+ZAMFK,MAFIKENG,1
+ZAMGH,MARGATE,1
+ZAMMO,MMABATHO,1
+ZANLP,NELSPRUIT,1
+ZANOL,PORT NOLLOTH,1
+ZAOUH,OUDTSHOORN,1
+ZAPBZ,PLETTENBERG BAY,1
+ZAPHW,PHALABORWA,1
+ZAPRY,PRETORIA,1
+ZAPTG,PIETERSBURG,1
+ZAPZB,PIETERMARITZBURG,1
+ZASBU,SPRINGBOK,1
+ZASIS,SISHEN,1
+ZASMN,SIMONSTOWN,1
+ZASZK,SKUKUZA,1
+ZAUTN,UPINGTON,1
+ZAUTT,UMTATA,1
+ZAVRE,VREDENDAL,1
+ZAVRU,VRYBURG,1
+ZAVYD,VRYHEID,1
+ZAWEL,WELKOM,1
+ZAZEC,SECUNDA,1
+ZAZZZ,O P SOUTH AFRICA,1
+ZMBBZ,ZAMBEZI,1
+ZMCIP,CHIPATA,1
+ZMKAA,KASAMA,1
+ZMKIW,KITWE,1
+ZMKLB,KALABO,1
+ZMLUN,LUSAKA,1
+ZMLVI,LIVINGSTONE,1
+ZMLXU,LUKULU,1
+ZMMFU,MFUWE,1
+ZMMNR,MONGU,1
+ZMMNS,MANSA,1
+ZMNLA,NDOLA,1
+ZMSJQ,SESHEKE,1
+ZMSLI,SOLWEZI,1
+ZMSXG,SENANGA,1
+ZMZGM,NGOMA,1
+ZMZKB,KASABA BAY,1
+ZMZZZ,O P ZAMBIA,1
+ZWBFO,BUFFALO RANGE,1
+ZWBUQ,BULAWAYO,1
+ZWGWE,GWELO,1
+ZWHRE,HARARE,1
+ZWKAB,KARIBA DAM,1
+ZWVFA,VICTORIA FALLS,1
+ZWWKM,WANKIE NATIONAL PARK,1
+ZWZZZ,O P ZIMBABWE,1
