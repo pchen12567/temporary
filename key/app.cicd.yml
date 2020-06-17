@@ -1,0 +1,4 @@
+---
+SERVICE_NAME: 'keywords'
+IMAGE_NAME: 'keywords'
+APP_VERSION: '0.0.1'

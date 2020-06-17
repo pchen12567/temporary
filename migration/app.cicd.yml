@@ -1,0 +1,4 @@
+---
+SERVICE_NAME: 'data_migration'
+IMAGE_NAME: 'data_migration'
+APP_VERSION: '0.0.1'

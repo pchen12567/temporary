@@ -1,0 +1,43 @@
+clone:
+  git:
+    image: plugins/git:1.4.0
+    skip_verify: true
+pipeline:
+  prebuild:
+    image: registry.pm.bwoilmarine.com/bmo/drone-base:1.0.23
+    commands:
+    - cp /cicd/prepareData.sh prepareData.sh
+    - sh prepareData.sh
+  publish:
+    image: plugins/docker:17.12
+    registry: registry.pm.bwoilmarine.com
+    dockerfile: Dockerfile
+    repo: registry.pm.bwoilmarine.com/data_migration
+    insecure: true
+  dev:
+    image: registry.pm.bwoilmarine.com/bmo/drone-base:1.0.23
+    commands:
+    - cp /cicd/deploy_dev.sh deploy_dev.sh
+    - sh deploy_dev.sh
+    when:
+      branch: feature/*
+  sit:
+    image: registry.pm.bwoilmarine.com/bmo/drone-base:1.0.23
+    commands:
+    - cp /cicd/deploy_sit.sh deploy_sit.sh
+    - sh deploy_sit.sh
+    when:
+      branch: develop
+  uat:
+    image: registry.pm.bwoilmarine.com/bmo/drone-base:1.0.23
+    commands:
+    - cp /cicd/deploy_uat.sh deploy_uat.sh
+    - sh deploy_uat.sh
+    when:
+      branch: master
+  tag:
+    image: registry.pm.bwoilmarine.com/bmo/drone-base:1.0.23
+    commands:
+    - sh publish_tag.sh
+    when:
+      event: tag

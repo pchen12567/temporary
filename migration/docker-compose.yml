@@ -1,0 +1,29 @@
+version: '3.3'
+services:
+  {{SERVICE_NAME}}:
+    image: {{REG_HOST}}/{{IMAGE_NAME}}:{{APP_VERSION}}
+    labels:
+      SERVICE_NAME: {{SERVICE_NAME}}
+      SERVICE_NETWORK: {{NETWORK}}  
+      SERVICE_80_CHECK_HTTP: /app
+      SERVICE_80_CHECK_INTERVAL: 60s
+      SERVICE_80_CHECK_TIMEOUT: 45s
+    networks:
+       - {{NETWORK}}
+    configs:
+       - source: data_migration.yaml
+         target: /data_migration.yaml
+         mode: 0440
+    deploy:
+      replicas: 1
+      update_config:
+        parallelism: 1
+        delay: 10s
+      restart_policy:
+        condition: on-failure
+configs:
+  data_migration.yaml:
+    external: true
+networks:
+  {{NETWORK}}:
+    external: true

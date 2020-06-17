@@ -1,0 +1,20 @@
+CREATE TABLE `cms_tmp` (
+  `id` bigint(20) NOT NULL,
+  `tag` varchar(16) DEFAULT NULL,
+  `url` varchar(300) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `title` varchar(2000) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `content` text COLLATE utf8mb4_unicode_ci,
+  `source_name` varchar(100) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `resource_publish_time` datetime DEFAULT NULL,
+  `created_by` varchar(32) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `created_dttm` datetime DEFAULT CURRENT_TIMESTAMP,
+  `updated_dttm` datetime DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  `template` char(1) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `content_text` text COLLATE utf8mb4_unicode_ci,
+  `pic_url` varchar(300) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `pic_flag` int(1) DEFAULT 0,
+  `tem_flag` int(1) DEFAULT 0,
+  `tag_flag` int(1) DEFAULT 0,
+  `category` char(2) DEFAULT NULL COMMENT 'MI->"market index", BP -> "bunker price", IR -> "industry report"',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci COMMENT='MOL新闻数据中转表';

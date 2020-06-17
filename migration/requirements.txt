@@ -1,0 +1,7 @@
+apscheduler
+PyYAML
+pandas
+pymysql
+jinja2
+flask
+flask_restful

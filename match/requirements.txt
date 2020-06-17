@@ -1,0 +1,6 @@
+flask
+apscheduler
+pyyaml
+psycopg2
+python-Levenshtein
+fuzzywuzzy

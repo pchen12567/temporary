@@ -1,0 +1,7 @@
+cms_url: 'http://mol.dev.bwoilmarine.com/maritime-news/news/'
+env: dev
+database:
+  host: 192.168.102.88
+  port: 3307
+  user: root
+  password: root12345

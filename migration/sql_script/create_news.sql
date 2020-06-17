@@ -1,0 +1,23 @@
+CREATE TABLE `news` (
+  `id` bigint(20) NOT NULL,
+  `category` char(2) DEFAULT NULL COMMENT 'MI->"market index", BP -> "bunker price", IR -> "industry report"',
+  `template` char(1) DEFAULT NULL COMMENT 'L -> "picture on the left", R -> "pic on the right", S -> "one single picture", T -> "triple pictures"',
+  `title` varchar(2000) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `content_text` text COLLATE utf8mb4_unicode_ci,
+  `content` text COLLATE utf8mb4_unicode_ci,
+  `content_url` varchar(300) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `view_count` int(11) DEFAULT NULL,
+  `last_week_view_count` int(11) DEFAULT NULL COMMENT 'lastest week view count',
+  `source` varchar(100) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `source_url` varchar(300) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `status` char(2) DEFAULT 'NW' COMMENT 'NW->"new",PD->"published",DL->"deleted"',
+  `is_original` int(2) DEFAULT 0,
+  `external_post_time` datetime DEFAULT NULL,
+  `post_time` datetime DEFAULT NULL,
+  `post_by` varchar(32) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `create_time` datetime DEFAULT CURRENT_TIMESTAMP,
+  `create_by` varchar(32) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `update_time` datetime DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  `update_by` varchar(32) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;

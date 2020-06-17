@@ -1,0 +1,7 @@
+env: dev
+database:
+  host: 192.168.102.88
+  port: 3307
+  user: root
+  password: root12345
+corpus_path: ./corpus_en_dev.txt
